@@ -1,7 +1,6 @@
 name: Feature request
 description: Suggest an improvement for Lunchtime
 title: "[Suggestion]: "
-labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
