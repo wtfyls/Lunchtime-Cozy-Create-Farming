@@ -25,7 +25,6 @@ Lunchtime is a curated modpack for relaxed solo and multiplayer play, with cozy 
 - **[Changelog](CHANGELOG.md)** — release history, newest first
 - **[Release workflow](docs/RELEASE_WORKFLOW.md)** — how we prepare and publish updates
 - **[Development overhaul notes](Lunchtime%20Cozy%20Create%20and%20Cooking%20v1.md)** — broader overhaul planning notes
-- **[1.5 hotfix notes](docs/releases/1.5-hotfix.md)** — detailed notes for the existing 1.5 hotfix
 - **[Contributing](CONTRIBUTING.md)** — how to suggest improvements or contribute
 
 ## Reporting issues
