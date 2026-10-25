@@ -1,0 +1,55 @@
+name: Bug report
+description: Report a reproducible Lunchtime issue
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please search existing issues first. Do not post private information, passwords, tokens, or unredacted personal details."
+  - type: input
+    id: pack-version
+    attributes:
+      label: Lunchtime version
+      placeholder: "e.g. 1.5"
+    validations:
+      required: true
+  - type: input
+    id: minecraft-version
+    attributes:
+      label: Minecraft and loader version
+      placeholder: "e.g. Minecraft 1.20.1, Forge 47.x"
+    validations:
+      required: true
+  - type: dropdown
+    id: side
+    attributes:
+      label: Where does it happen?
+      options:
+        - Client
+        - Dedicated server
+        - Both client and server
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Explain what you expected and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. ...\n2. ...\n3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs or crash report
+      description: Paste a relevant excerpt or link to a sanitized log. Remove personal and private information.
+      render: text
+    validations:
+      required: false
