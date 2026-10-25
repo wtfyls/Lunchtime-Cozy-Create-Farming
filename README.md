@@ -10,7 +10,7 @@ Lunchtime is a curated modpack for relaxed solo and multiplayer play, with cozy 
 - **[Ko-fi](https://ko-fi.com/wtfyls)** · Support development
 - **[Patreon](https://www.patreon.com/cw/Fierolam)** · Supporter updates
 - **[BisectHosting](https://www.bisecthosting.com/Deez)** · Partner link; code `DEEZ` for 25% off, subject to current offer terms
-- **Discord:** Add the official invite link here
+- **[Discord community](https://discord.gg/68yhDdFpnx)**
 
 ## What's in Lunchtime?
 
