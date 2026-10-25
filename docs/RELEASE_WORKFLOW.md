@@ -4,7 +4,7 @@ This document is the standard process for every Lunchtime update.
 
 ## 1. Track changes while developing
 
-Use GitHub Issues or the team's task board for work that needs discussion, testing, or assignment. For small changes, add a short bullet to the `Unreleased` section in `CHANGELOG.md`.
+Use GitHub Issues or the team's task board for work that needs discussion, testing, or assignment. Add changes to the `Unreleased` section in `CHANGELOG.md`. Keep all release notes in `CHANGELOG.md` by default; do not create separate release-note pages for ordinary updates.
 
 Use these categories:
 
@@ -24,7 +24,7 @@ Write the player-facing impact and the reason when useful. Avoid claiming perfor
 3. Test a clean client launch and a dedicated server launch when relevant.
 4. Check world loading, multiplayer, important quests/recipes, and logs.
 5. Move the finished changes from `Unreleased` into a new version section in `CHANGELOG.md`.
-6. Create `docs/releases/<version>.md` only when a longer explanation, screenshots, or extra testing details are useful.
+6. Keep the complete release notes in `CHANGELOG.md`. Only create a separate page if the team explicitly decides a major update needs extensive documentation or screenshots.
 7. Write a concise CurseForge release description from the same verified changes.
 
 ## 3. Publish on GitHub
