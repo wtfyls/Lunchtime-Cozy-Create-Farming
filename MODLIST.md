@@ -1,0 +1,402 @@
+# Lunchtime Mod List
+
+**Minecraft:** 1.20.1  
+**Loader:** Forge  
+**Inventory supplied for documentation:** 379 mod entries
+
+This is the mod inventory provided for Lunchtime's GitHub documentation. Names and version labels are kept as supplied; entries without a version in the supplied list do not have one guessed here. This list describes the usual purpose of each mod or library. It is not a guarantee that every option is enabled, nor a substitute for checking the installed configuration. Some libraries have no player-facing content and exist only because another mod needs them.
+
+**Compatibility note:** always confirm the actual installed file and its declared Minecraft/loader compatibility before troubleshooting. The supplied inventory includes some bridged Fabric projects and at least one version label that says `1.20.4` despite the pack target being Minecraft 1.20.1; that is worth checking against the actual mod file rather than assuming it is correct or incorrect from its displayed name alone.
+
+## Complete inventory
+
+### A–C
+
+- **Accelerated Decay 3.0.1+mc1.20.1** — Speeds up natural decay of leaves and similar blocks.
+- **AdvancedCoreInfo 1.5.0** — Adds extra core or technical information for inspecting the running game.
+- **AdvancedLootInfo 2.5.0** — Displays additional information about loot and loot-related data.
+- **Alex's Caves 2.0.2** — Adds distinctive underground cave biomes, blocks, creatures, and exploration content.
+- **Alex's Delight 1.5** — Adds Farmer's Delight-style food and recipes themed around Alex's Mobs.
+- **Alex's Mobs 1.22.9** — Adds a large range of new animals and other creatures with unique behaviors and drops.
+- **All The Leaks 1.1.4+1.20.1-forge** — Applies fixes for selected memory leaks and resource-retention problems.
+- **Almanac 1.26.10.3** — A support/content component in the supplied setup; consult the installed project's description for its precise in-game role.
+- **Alternate Current 1.7.0** — Optimizes redstone wire updates while aiming to preserve expected redstone behavior.
+- **Amber 1.3.0-beta.2+1.20.1** — Additional mod/content component; the precise player-facing feature depends on this exact project and build.
+- **AmbientSounds 6.3.11** — Adds richer environmental and biome-based ambient audio.
+- **Amendments 1.20-2.2.6** — Adds extra interactions, variants, and functionality to supported vanilla and Supplementaries blocks.
+- **Another Furniture 1.20.1-3.0.4** — Adds furniture such as chairs, tables, shelves, and other home decorations.
+- **AppleSkin** — Shows hunger, saturation, and food-value information in the HUD.
+- **Arc 1.7.2-1.20.1** — Shared support component used by compatible mods in this instance.
+- **Architectury 9.2.14** — Cross-loader API/library used by other mods.
+- **Artifacts 9.5.19** — Adds collectible accessories with special effects, typically discovered through exploration and loot.
+- **Async Logger 2.2.3+1.20.1-forge** — Moves supported logging work off the main execution path to reduce logging overhead.
+- **AsyncParticles 20.1.4.4** — Optimizes how supported particle work is processed.
+- **Athena 3.1.2** — A resource/model support library used by compatible content and decoration mods.
+- **BadOptimizations 2.4.1** — Applies a collection of targeted performance optimizations.
+- **BaguetteLib 2.0.7** — Shared library required by compatible mods.
+- **Balm 7.3.44** — Common library/API used by multiple mods.
+- **Barbeque's Delight** — Adds barbecue-themed food and cooking content.
+- **Building But Better 2.0pre4** — Adds building-focused blocks, decoration, and/or improved building options.
+- **BCLib 20.0.16** — Shared library used by BetterEnd and BetterNether and related content.
+- **Better Climbing** — Improves or expands the player's ability to climb certain surfaces.
+- **Better Advancements 0.6.0.73** — Improves the advancement screen's layout and usability.
+- **Better Compatibility Checker 4.0.8** — Helps identify potential mod or version compatibility problems.
+- **BetterDays 3.3.4.5** — Adds configurable day/time or calendar-related gameplay behavior.
+- **Better End 20.0.13** — Overhauls the End with new terrain, biomes, blocks, and exploration content.
+- **Better End Cities Vanilla 1.0.0-1.20.1** — Changes or supplements vanilla End City generation with a more vanilla-style approach.
+- **Better Nether 20.0.13** — Overhauls the Nether with additional biomes, blocks, and exploration content.
+- **Better Ping Display 1.1** — Shows network latency/ping in the interface.
+- **BetterThanMending** — Changes the role or availability of Mending-related mechanics; check the installed configuration for the pack's exact behavior.
+- **BHMenu 2.4.4** — Main-menu support/component used by the configured menu setup.
+- **BiomeSpy 1.3.3** — Helps inspect or locate biome information.
+- **Bosses'Rise 2.1.2** — Adds boss-oriented encounters or progression content.
+- **Blueprint 7.1.5** — Shared library/framework for compatible mods.
+- **Boat Item View 0.0.5** — Displays held-item information or the player's held item while boating.
+- **Bookshelf 20.2.15** — Shared library used by other mods.
+- **Brewin' And Chewin' 1.20.1-3.2.1** — Adds brewing, fermentation, and food/drink content that complements Farmer's Delight.
+- **Bridging Mod 2.5.1+1.20.1** — Adds client-side placement assistance for building bridges and placing blocks while moving.
+- **Butchery 5.3.1** — Adds meat processing and butchery-related food preparation.
+- **Concurrent Chunk Management Engine (Forge) 0.2.0-forge.9.9.3** — Attempts to improve chunk generation, loading, and I/O by processing supported work concurrently; test carefully with custom world generation.
+- **Caelus API 3.2.0+1.20.1** — Provides flight-related capability/API support used by other mods.
+- **Carry On** — Lets players pick up and carry certain blocks or entities.
+- **Cataclysm x YUNG's Better Nether Fortresses Compat 1.20.1** — Integrates Cataclysm content with YUNG's Nether Fortress overhaul.
+- **Charm of Undying 6.5.0+1.20.1** — Adds a charm/accessory-style way to use an Undying effect, depending on its configured rules.
+- **Chat Heads 0.15.7** — Shows player faces next to their chat messages.
+- **Chat Heads Figura Support 1.0.3** — Integrates Chat Heads with Figura avatar support.
+- **ChatAnimation 1.3.5** — Adds animation and visual polish to the chat interface.
+- **Chefs Delight** — Adds cooking and food content that complements Farmer's Delight.
+- **Cherished Worlds 6.1.7+1.20.1** — Lets players mark or favorite worlds in the world-selection screen.
+- **Chimes 2.1.1** — Adds decorative chimes and/or ambient sound interactions.
+- **Chipped 3.0.7** — Adds many decorative variants of blocks for building.
+- **Chunky 1.3.146** — Provides commands for pre-generating chunks, useful for reducing exploration-time world-generation spikes on a server.
+- **Citadel 2.6.3** — Shared animation/entity library used by mods such as Alex's Mobs.
+- **Clean Swing Through Grass 1.8** — Prevents grass and similar small plants from interfering with weapon swings.
+- **ClientSort 3.82.2** — Adds client-side inventory sorting tools.
+- **Clockwork 1.1.7** — A specialized content/technology component; see its installed project page for the exact feature set in this pack.
+- **Cloth Config v10 API 11.1.136** — Configuration-screen and config UI library used by other mods.
+- **Clumps** — Combines nearby experience orbs to reduce entity clutter.
+- **Colorful Hearts 4.3.16** — Changes the appearance of health hearts.
+- **Combat Roll 1.3.3+1.20.1** — Adds a dodge/roll move to combat and traversal.
+- **Comforts 6.4.0+1.20.1** — Adds sleeping bags and hammocks for portable rest.
+- **Connector-1.0.0-beta.49+1.20.1** — Compatibility layer that allows selected Fabric mods to run on Forge.
+- **Continuity 3.0.0+1.20.1.forge** — Adds connected-texture support for compatible resource packs and block textures.
+- **Controlling** — Adds search and usability improvements to the controls/keybinds menu.
+- **Cool Rain 1.0.3** — Changes the look or presentation of rain effects.
+- **Create: Copycats+ 3.0.10+mc.1.20.1-forge** — Adds copycat-style blocks that mimic other block appearances for detailed Create builds.
+- **CorgiLib 4.0.3.6** — Shared library used by compatible mods.
+- **CoroUtil 1.20.1-1.3.7** — Shared utility library used by Corosus projects and compatible mods.
+- **CosmeticArmorReworked 1.20.1-v1a** — Separates cosmetic armor appearance from the armor providing stats.
+- **Cozy Home 1.0.0** — Adds cozy-home-themed decorative content.
+- **Crash Assistant 1.11.12** — Helps players review crash information and identify relevant logs after a crash.
+- **Create: Central Kitchen** — Integrates Create machinery with Farmer's Delight-style cooking and food automation.
+- **Create Enchantment Industry** — Adds Create-based machinery for handling experience and enchantment-related processes.
+- **Create: Generators 1.0.0** — Adds generator/energy-related Create machinery or automation content.
+- **create: things and misc 4.1.0** — Adds assorted Create-themed utility blocks and contraption parts.
+- **Create: Ultimate Factory 2.2.4** — Adds additional factory/automation-themed Create content.
+- **Create 6.0.8** — Adds mechanical engineering, moving contraptions, belts, gears, processing, and automation.
+- **Create EMI Compat 1.0.0** — Connects Create recipes and information to EMI's recipe-viewing interface.
+- **CreativeCore 2.12.40** — Shared library used by compatible mods.
+- **Creeper Overhaul 3.0.2** — Adds biome-themed Creeper variants.
+- **Cristel Lib 1.1.6** — Shared library required by compatible mods.
+- **Critters and Companions 2.7.1** — Adds additional small animals and creatures.
+- **Cultural Delights 0.16.6** — Adds food, crops, and recipes themed around Farmer's Delight.
+- **Cupboard utilities** — Shared utilities/library required by compatible mods.
+- **Curios API** — Adds accessory slots and an API for wearable charms and other curios.
+- **Cubes Without Borders 5.0.0+1.20.0.forge** — Improves borderless/fullscreen window behavior.
+- **Data Anchor 1.0.0.23** — Shared data/integration component used by compatible mods.
+- **Decorative Blocks 4.1.3** — Adds building blocks and decorative details.
+- **Default Options 18.0.5** — Lets the pack provide default client options and settings for new installations.
+- **Delightful** — Adds additional food and recipe content for Farmer's Delight.
+- **Deltabox Lib 2.2.0** — Shared library required by compatible mods.
+- **Diagonal Walls 8.0.4** — Adds diagonal wall shapes and building options.
+- **DisableStructures** — Disables selected world-generation structures through configuration.
+- **Distraction Free Recipes (EMI) 1.2.1** — Reduces visual clutter in recipe screens and improves recipe-viewing usability.
+- **Double Doors 7.5** — Opens paired doors together.
+- **DragonLoot 1.1.16** — Adds dragon-related loot and rewards.
+- **Drippy Loading Screen 3.1.5** — Customizes the loading-screen appearance.
+- **Dungeon Now Loading** — Adds or supports dungeon-oriented exploration content in the supplied pack; consult the exact project entry for feature details.
+- **dungeons-and-taverns-ancient-city-overhaul-1 [Forge]** — Reworks the vanilla Ancient City structure.
+- **dungeons-and-taverns-pillager-outpost-rework-1.1 [Forge]** — Reworks Pillager Outpost structures.
+- **Dusty Decorations 1.12.1** — Adds decorative furniture and building details with a worn/cozy style.
+- **Dynamic FPS 3.11.4** — Reduces resource use when the Minecraft window is unfocused or in the background.
+- **e4all 2.2.0** — Compatibility/integration component in the supplied mod set; check the installed project's description for exact behavior.
+- **Easy Mob Spawn Control 1.6.2** — Provides configuration controls for mob spawning.
+- **Easy Villagers 1.20.1-1.1.23** — Adds compact blocks for managing certain villager tasks and trading.
+- **Easy Anvils 8.0.2** — Adds quality-of-life changes to anvils.
+- **Easy Magic 8.0.1** — Adds quality-of-life changes to enchanting tables.
+- **Easy Shulker Boxes 8.0.2** — Adds quality-of-life interactions for shulker boxes.
+- **Eating Animation 5.1.0** — Adds visible eating/drinking animations.
+- **Ecologics 2.2.7** — Expands vanilla biomes with small environmental, animal, and plant additions.
+- **Elysium 1.1.3** — Content/support component; confirm the exact installed project's description for its player-facing role.
+- **Elytra Slot 6.4.4+1.20.1** — Adds a dedicated slot for Elytra equipment.
+- **Embeddium 0.3.31+mc1.20.1** — Optimizes client rendering and terrain rendering.
+- **EMF Compat: Core 2.3.2** — Compatibility support for entity model/texture features.
+- **Create: EMI Schematics 1.0.4** — Connects Create schematic-related information to EMI.
+- **EMI Ores 1.3+1.20.1+forge** — Adds ore-related information or recipe integration to EMI.
+- **EMI 1.1.24+1.20.1+forge** — Recipe and item viewer for searching recipes, uses, and crafting paths.
+- **emi-letsdo-compat 1.8.2** — Adds EMI recipe integration for supported Let's Do mods.
+- **EMI QoL Tweaks 1.2** — Adds convenience improvements to the EMI interface.
+- **EMI Enchants 1.0.0** — Adds enchantment-related displays or integration to EMI.
+- **EMIffect 1.1.2+mc1.20.1** — Adds EMI-related interface or recipe-viewing improvements.
+- **EMI Professions (EMIP)** — Adds profession/trade information to EMI where supported.
+- **Emotecraft 2.2.7-b.build.50** — Lets players use animated emotes.
+- **EnchantmentDescriptions 17.1.21** — Shows explanations for enchantments.
+- **Enderman Overhaul 1.0.4** — Adds Enderman variants with biome-specific appearances or behavior.
+- **End Remastered** — Changes End progression by adding special eyes or exploration steps before locating the End.
+- **Entity Model Features 3.3.12** — Enables custom entity models used by compatible resource packs.
+- **Entity Texture Features 7.2.6** — Enables custom entity textures and related visual features for supported resource packs.
+- **EntityCulling 1.11.3** — Avoids rendering entities that are not visible to the player.
+- **BOZOID 0.1.2** — Small support/content component; consult the installed project metadata for its exact role.
+- **Equipment Compare** — Displays item-stat comparisons when hovering over equipment.
+- **Explorer's Compass 1.20.1-1.4.0-forge** — Helps locate selected structures.
+- **Exposure Polaroid 1.1.4** — Adds Polaroid/photo-related integration for Exposure.
+- **Exposure 1.9.22** — Adds an in-game camera and photography system.
+- **ExtraSounds Next 1.5.6** — Adds extra interface and interaction sounds.
+- **Forgified Fabric API** — Supplies Fabric API functionality required by Fabric mods running through compatibility layers.
+- **Fallingleaves 2.1.2** — Adds falling-leaf particles for supported trees and environments.
+- **Fancy Entity Renderer 0.4.6** — Changes or enhances entity rendering effects.
+- **FancyMenu 3.9.14** — Supports custom menus and user-interface layouts.
+- **Fancy Tab Sections 6.2.3-FORGE-1.20.1** — Organizes the multiplayer player list/tab display into sections.
+- **Farmer's Delight 1.20.1-1.3.4** — Core farming and cooking mod with crops, kitchen blocks, food preparation, and meals.
+- **FarmersStructures 1.0.0** — Adds farmer/rural-themed structures to world generation.
+- **Farsight mod** — Keeps previously seen chunks visible beyond the server's current view distance using client-side chunk caching, where supported.
+- **Fast IP Ping 1.0.12** — Speeds up or streamlines server ping checks in the server list.
+- **FastALI 2.1** — Performance-focused utility for supported item- or library-loading operations.
+- **FastBoot 1.2** — Optimizes parts of game startup/loading.
+- **FastFurnace 8.0.2** — Optimizes furnace processing.
+- **Fast Item Frames 20.1.5** — Optimizes item-frame handling/rendering.
+- **Fast Paintings 1.20-1.2.7** — Optimizes painting handling/rendering.
+- **Fast Suite 5.1.2** — Optimizes supported recipe and crafting lookup operations.
+- **Fastvancements 1.3** — Optimizes advancement-related processing.
+- **Fast Workbench 8.0.4** — Optimizes crafting-table recipe lookup and related operations.
+- **Faunify 1.3.3** — Adds animal/fauna-focused world content.
+- **Feature Recycler 1.0.1** — Shared world-generation feature utility that lets compatible features reuse or recycle placement work.
+- **Ferrite Core** — Reduces memory usage for supported game data structures.
+- **Field Guide 1.22.4+1.20.1** — Provides an in-game guidebook/documentation interface for supported content.
+- **Figura 0.1.6+1.20.1** — Lets players use customizable 3D player avatars, where supported by the server and client.
+- **Fishermens Trap** — Adds fishing traps or automated fish gathering.
+- **Faster Iris Shadow Mapper 1.0.6** — Optimizes a shader shadow-mapping path; verify compatibility with the installed shader/rendering setup.
+- **Forge Config Screens 8.0.2** — Provides configuration screen support for compatible Forge mods.
+- **Forge ModMenu 1.5.1** — Adds a mod-list/menu interface in the Forge/compatibility setup.
+- **Formations 1.0.4** — Supplies structure/world-generation formation tools for compatible mods.
+- **Framework 0.8.0** — Shared framework/library used by compatible mods.
+- **FTB Chunks 2001.3.8** — Adds map-based chunk claiming and chunk/team management.
+- **FTB Essentials 2001.2.4** — Adds common server utility commands and administration conveniences.
+- **FTB Filter System 20.0.1** — Adds filter/search support used by FTB integrations.
+- **FTB Library 2001.2.13** — Shared library for FTB mods.
+- **FTB Quests 2001.4.22** — Adds the quest book, objectives, rewards, and progression tasks.
+- **FTB Quests UI Overhaul 1.0.12** — Changes the appearance/layout of the FTB Quests interface.
+- **FTB Teams 2001.3.2** — Provides team/group functionality for FTB mods.
+- **FTB Ultimine 2001.1.8** — Allows players to mine connected blocks or matching block groups with one action, subject to its rules.
+- **FTB XMod Compat 2.1.3** — Integrates FTB features with compatible third-party mods.
+- **FTB Chunks x Xaero's Map Compat 1.1.3** — Integrates FTB chunk claims with Xaero's map display.
+- **Fusion 1.3.16** — Resource-pack/model/texture feature library used by compatible visual content.
+- **Fzzy Config 0.7.7+1.20.1+forge** — Configuration library for compatible mods.
+- **GeckoLib 4 4.8.4** — Animation library used by many entities, mobs, and animated blocks.
+- **GlitchCore 0.0.1.1** — Shared library used by compatible world-generation/content mods.
+- **gml-4.0.11-all** — Support library/component; its exact role depends on the project that requires it.
+- **Gnetum 2.5.1+1.20.1-forge** — Optimizes or coordinates selected HUD/update work for compatible environments.
+- **Goblin Traders 1.11.5** — Adds goblin traders that can appear and offer trades.
+- **Golem Overhaul 1.1.1** — Adds or changes golem variants.
+- **Gravestone Mod 1.20.1-1.0.35** — Preserves player items in a gravestone when they die.
+- **GTBC's Cataclysmic Boss UIs 1.0.3+1.20.1** — Adds custom boss UI bars for supported Cataclysm encounters.
+- **Iceberg** — Shared library required by compatible mods.
+- **Icy's Better Horses 2.1.7** — Improves horse-related gameplay or adds horse features.
+- **Integrated Dungeons and Structures** — Adds configurable dungeons and structures to exploration.
+- **ImmediatelyFast 1.5.5+1.20.4** — Optimizes several client rendering paths; the supplied version label says 1.20.4, so verify the installed JAR is compatible with Minecraft 1.20.1.
+- **Immersive Aircraft 1.5.0+1.20.1** — Adds craftable aircraft for exploration and travel.
+- **Immersive Melodies 0.8.0+1.20.1** — Lets players perform music using in-game instruments.
+- **Immersive Optimization 0.2.0** — Applies additional performance optimizations; check its project documentation for the exact systems affected.
+- **Immersive Paintings 0.6.13+1.20.1** — Adds more flexible/customizable paintings for decoration.
+- **Immersive Overlays 1.8.6+1.20.1** — Adds contextual screen overlays.
+- **ImmersiveUI 0.3.0** — Adds visual polish or changes to supported user-interface elements.
+- **Integrated API 1.9.1** — Shared API required by Integrated-series content.
+- **Integrated Stronghold 1.1.2+1.20.1-forge** — Reworks or expands stronghold generation.
+- **Integrated Villages 1.3.2+1.20.1-forge** — Reworks or expands village generation.
+- **Inventorio 1.10.4** — Changes or expands inventory slots and item organization.
+- **Inventory Particles 3.2.0+1.20.1+forge** — Adds particles when moving items in the inventory.
+- **Item Descriptions 2.5.4+1.20.1** — Shows helpful descriptions for items.
+- **Item Obliterator 2.3.0** — Lets the pack disable selected items through configuration.
+- **Item Borders** — Adds border/rarity-style visual cues around inventory items.
+- **Item Restrictions 1.2.1** — Adds rules for restricting selected items or item behavior.
+- **Ixeris 4.6.10+1.20.1-forge** — A utility/performance component used to improve selected input/event processing.
+- **Jade** — Shows contextual information about blocks and entities under the crosshair.
+- **Jade Addons** — Adds integrations and extra data displays for Jade.
+- **JamLib 1.3.6+1.20.1-patch.1** — Shared library used by compatible mods.
+- **Jasione 1.0.9+1.20.1-forge** — Shared library used by compatible mods.
+- **Jobs+ 1.3.10** — Adds profession/job progression that rewards players for activities such as farming, mining, building, and gathering.
+- **Jobs+ Tools 1.2-1.20.1** — Adds items or utilities that support Jobs+ gameplay.
+- **Jumpy Boats 1.20.0-1.0.5** — Changes boat movement/jumping behavior.
+- **Kaleidoscope ChineseFood 1.1.15-1.20.1** — Adds Chinese-food-themed cooking content.
+- **Kaleidoscope Compat 2.6.5-forge+mc1.20.1** — Integration support for the Kaleidoscope mod family.
+- **Kaleidoscope Dimensions Wine 1.1.9-mc1.20.1-forge** — Adds wine-related content/integration associated with the Kaleidoscope food ecosystem.
+- **Kaleidoscope End 1.0.14-forge+mc1.20.1** — Adds End-themed food/content integration.
+- **Kaleidoscope Grilling 1.1.1** — Adds grilling/cooking content.
+- **Kaleidoscope: ImmersiveEating 1.5.2** — Adds more immersive eating interactions.
+- **Kaleidoscope Nether 1.1.8-forge+mc1.20.1** — Adds Nether-themed food/content integration.
+- **Kaleidoscope World Liquor 1.1.13-forge+mc1.20.1** — Adds liquor/drink-related recipes or integration.
+- **Kaleidoscope Cookery 1.6.0-forge+mc1.20.1** — Adds cooking/food recipes.
+- **Kaleidoscope Tavern 1.2.0-forge+mc1.20.1** — Adds tavern/pub-themed food or drink content.
+- **Kambrik 6.1.1+1.20.1** — Shared library for compatible mods.
+- **Kiwi Library** — Shared library/API required by compatible mods.
+- **Knight Lib 2.0.5** — Shared library used by compatible mods.
+- **Konkrete 1.8.0** — Shared library used by compatible mods.
+- **kotlinforforge-4.12.0-all** — Kotlin language/runtime support for Forge mods written in Kotlin.
+- **Ksyxis 1.4.6** — Optimizes selected world-startup behavior, including spawn-chunk loading in supported setups.
+- **KubeJS 2001.6.5-build.26** — Lets pack developers customize recipes, events, and gameplay using scripts.
+- **cataclysm 3.31** — Adds challenging bosses, structures, equipment, and combat/exploration content.
+- **LanguageReload 1.0.1** — Allows language/resource language changes to reload with less friction.
+- **Legendary Tooltips** — Adds styled item tooltips, including rarity-themed frames.
+- **LetMeDespawn 1.26.10.1** — Helps unwanted or persistent entities despawn under configured conditions.
+- **[Let's Do] API 1.2.15** — Shared library for Let's Do mods.
+- **[Let's Do] Bakery 2.0.6** — Adds bakery blocks, ingredients, and baked-food recipes.
+- **[Let's Do] Beachparty 2.0.3** — Adds beach and seaside leisure content.
+- **[Let's Do] Farm & Charm 1.0.14** — Adds farming, rural life, and food-related content.
+- **[Let's Do] Meadow 1.3.25** — Adds meadow-themed biomes/content and related animals or resources.
+- **[Let's Do] Vinery 1.4.41** — Adds vineyards, grapes, wine-making, and vineyard decoration.
+- **Library ferret 4.0.0** — Shared utility library used by compatible mods.
+- **wd's Tooltips Library 2.3.2-FORGE-1.20.1** — Shared library for WD's tooltip-related mods.
+- **LionfishAPI 3.0** — Shared API used by compatible mods.
+- **Lithostitched 1.4.11** — World-generation library used by compatible biome/structure mods.
+- **Longer Chat History 1.3** — Keeps more chat history available in the client.
+- **lootintegrations_cataclysm Mod 1** — Adds Cataclysm loot integration.
+- **lootintegrations_integrated Mod 1** — Adds loot integration for Integrated-series structures/content.
+- **lootintegrations_vanilla Mod 1** — Adds or adjusts loot integration for vanilla content.
+- **Lootintegrations mod** — Shared loot integration framework for configured loot pools and modded content.
+- **Lootr 0.7.35.94** — Gives each player their own loot in supported containers, making multiplayer exploration fairer.
+- **Luki's Woodland Mansions 1-v.1.0** — Adds or reworks woodland mansion content.
+- **Magnum Torch 8.0.2** — Adds torches that prevent hostile mob spawning within a configured area.
+- **Majrusz Library 7.0.8** — Shared library required by compatible mods.
+- **Melody 1.0.2** — Shared audio/music library used by compatible mods.
+- **MezzConfig 0.6.9** — Configuration utility/library used by compatible mods.
+- **Mighty Mail 1.1.4** — Adds an in-game mail system for sending items or messages, depending on configuration.
+- **Minecraft Cursor 3.11.3+1.20.1** — Customizes the cursor appearance in supported interfaces.
+- **Mixin Trace Reforged 1.0.0** — Improves diagnostic information for mixin-related errors.
+- **Mobtimizations 1.20.1-1.0.1** — Targets mob/entity processing for performance improvements.
+- **Model Gap Fix 1.15** — Fixes visual gaps/artifacts in certain block models.
+- **ModernFix 5.27.91+mc1.20.1** — Broad performance, memory, loading, and bug-fix improvements.
+- **Modonomicon 1.79.3** — Framework for in-game guidebooks and manuals.
+- **MoogsEndStructures 2.1.0** — Adds End dimension structures.
+- **MoogsMineshaftsReimagined 1.1.0** — Reworks mineshafts with more varied layouts.
+- **Moog's Structure Lib 3.4.2** — Shared library for Moog's structure mods.
+- **MoogsTemplesReimagined 2.0.3** — Reworks temple structures.
+- **Moonlight Library 1.20-2.16.37** — Shared library used by Supplementaries and other compatible mods.
+- **More Culling 0.24.6** — Culls faces/parts of supported block models that cannot be seen, reducing rendering work.
+- **More Mob Variants 1.3.0.1** — Adds visual variants for supported mobs.
+- **More Villagers 5.0.0** — Adds villager professions, trades, or villager-related content.
+- **MossyLib 1.6.0+1.20.1+forge** — Shared library used by compatible mods.
+- **Mouse Tweaks** — Improves inventory mouse interactions, such as dragging and moving item stacks.
+- **MRU 1.0.41+1.20.1** — Shared support library/component; check the project's metadata for exact feature details.
+- **Nature's Compass 1.20.1-1.12.0-forge** — Helps locate biomes.
+- **Necronomicon 1.6.0** — Shared library for compatible content mods.
+- **NetherPortalFix 13.0.1** — Improves portal linking and fixes common Nether portal travel issues.
+- **No Chat Reports 1.20.1-v2.2.3** — Changes chat-signing/reporting behavior in supported multiplayer environments.
+- **No Chat Restrictions** — Removes selected vanilla chat restrictions.
+- **NoStructureOverlap 3.0.1** — Helps reduce unwanted overlaps between generated structures.
+- **Not Enough Recipe Book 0.4.1** — Replaces or alters the vanilla recipe book experience.
+- **NotEnoughAnimations 1.12.6** — Adds third-person/player animations for actions that are otherwise minimally animated.
+- **Oceanic Realms 1.0.7** — Adds ocean-focused world content and exploration features.
+- **OctoLib 0.5.0.1** — Shared library used by compatible mods.
+- **Oculus 1.8.0** — Adds shader-pack support to Forge rendering setups compatible with Embeddium.
+- **Online Emotes 2.1.2-forge** — Adds online/shared emote functionality.
+- **Packet Fixer 3.3.2** — Fixes or mitigates certain oversized packet and network-payload issues.
+- **Particular Reforged 1.5.7** — Adds visual particle effects for supported game events.
+- **PatPat 1.3.1+1.20.1+forge** — Adds a petting interaction for compatible animals/creatures.
+- **Placebo 8.6.3** — Shared library used by compatible mods.
+- **Platform 1.4.1** — Shared library used by compatible mods.
+- **Player Animator 1.0.2-rc1+1.20** — Animation library/API for player animations.
+- **Plushie Buddies 1.0.1-1.20.1** — Adds plushie collectibles/decorations.
+- **Polymorph 0.49.11+1.20.1** — Lets players choose between multiple recipe outputs when recipes conflict.
+- **Presence Footsteps (Forge) 1.20.1-1.9.1-beta.1** — Adds contextual footstep sounds.
+- **Prism 1.0.5** — Shared library/rendering support used by compatible mods.
+- **Punchy 2.8g** — Changes or enhances melee combat behavior; check pack config for its exact balance.
+- **Puzzles Lib 8.1.36** — Shared library used by compatible mods.
+- **Quark** — Adds many configurable vanilla-style improvements, building blocks, and small gameplay features.
+- **quick-pack 1.5.1** — Optimizes parts of resource/data pack loading.
+- **Radiant Gear 2.2.0+1.20.1** — Adds light-emitting or visually radiant equipment features.
+- **Radium 0.12.4+git.26c9d8e** — Provides general game-logic optimizations.
+- **RAM-Compat 0.1.4** — Compatibility component for supported rendering or resource systems.
+- **[NoCube's] Realm RPG: Treasure Balloons 1.0.0** — Adds treasure-balloon themed RPG/exploration content.
+- **Regions Unexplored 0.5.6** — Adds many new biome types and associated world-generation content.
+- **Relics 0.8.0.13** — Adds collectible relic accessories with special abilities.
+- **Resourcefulconfig 2.1.3** — Configuration library for compatible mods.
+- **Resourceful Lib 2.1.29** — Shared library used by Resourceful-series and other compatible mods.
+- **Resource Pack Overrides 8.0.3** — Allows configured resource packs or overrides to be applied consistently.
+- **Rhino 2001.2.3-build.10** — JavaScript engine used by KubeJS scripts.
+- **Ribbits 1.20.1-Forge-3.0.5** — Adds frog-like villagers/creatures and related village content.
+- **Right Click Harvest 4.6.1+1.20.1** — Lets players harvest supported crops by right-clicking, often replanting automatically.
+- **RiverRedux** — Reworks river generation and appearance.
+- **Scholar 1.2.9** — Guide/progression support component; check the installed project's metadata for exact in-game features.
+- **Searchables** — Adds search support for compatible inventory, menu, and recipe interfaces.
+- **wd's Selling Bin 1.4.3-FORGE-1.20.1** — Adds a selling-bin style block for selling supported items.
+- **Shoppy 1.0.5** — Adds player shop/trading functionality.
+- **Shoulder Surfing Reloaded 1.20.1-5.2.0** — Changes the third-person camera to a shoulder-view perspective.
+- **Simple Ice Cream 1.3.1** — Adds ice-cream foods and recipes.
+- **Simply Swords 1.70.2-1.20.1** — Adds additional swords and melee weapons.
+- **Simply Tooltips 0.1.5-1.20.1** — Improves or customizes item tooltips.
+- **Sit** — Lets players sit on supported blocks such as stairs.
+- **3d-Skin-Layers 1.11.4** — Renders outer player-skin layers in 3D.
+- **Create Slice & Dice 3.6.0** — Integrates Create machines with Farmer's Delight-style food processing.
+- **Small Ships 2.0.2** — Adds larger boats/ships for water travel.
+- **Sodium Dynamic Lights 1.0.9** — Adds dynamic lighting from supported held items or light sources.
+- **Sodium Extras 1.0.6** — Adds extra rendering and video options to the compatible Sodium-style rendering setup.
+- **Sodium Options API 1.0.10** — Shared options/API component for compatible Sodium-style rendering mods.
+- **Spice of Life: Carrot Edition 1.15.1** — Rewards food variety and changes food/health progression based on eating different foods.
+- **Sophisticated Backpacks 3.26.15.2228** — Adds upgradeable backpacks with storage and utility upgrades.
+- **Sophisticated Core 1.5.16.2433** — Shared library/core for Sophisticated mods.
+- **Sound Physics Remastered 1.20.1-1.5.1** — Adds acoustic effects such as sound occlusion and reverberation.
+- **spark 1.10.53** — Profiler for identifying server/client CPU, tick-time, and memory-allocation bottlenecks.
+- **SparseStructures 3.0** — Helps control structure frequency to make world generation less crowded.
+- **Spelunkery 1.20.1-0.3.16** — Expands underground exploration, cave resources, and mining content.
+- **Starcatcher's Delight 3.2.1-FORGE-1.20.1** — Adds food/recipe integration themed around compatible Starcatcher content.
+- **starcatcher 3.3.10-FORGE-1.20.1** — Content/support component for the Starcatcher mod family.
+- **Create: Steam 'n' Rails 1.7.3+forge-mc1.20.1** — Expands Create trains, rails, bogeys, signals, and railway building.
+- **Stony Cliffs Are Cool 1.1.2** — Changes or expands stony cliff terrain generation.
+- **Storage Drawers 12.15.1** — Adds compact storage drawers designed for bulk item storage.
+- **StreamsReflowing 2.15.2** — Adds or reworks natural streams and small watercourses in terrain generation.
+- **Structory 1.3.5** — Adds additional structures to world generation.
+- **Structure Layout Optimizer 1.0.11** — Optimizes selected structure layout calculations.
+- **Subtle Effects 1.13.2** — Adds small ambient visual effects.
+- **SuperMartijn642's Config Library 1.1.8** — Configuration library used by compatible mods.
+- **SuperMartijn642's Core Lib 1.1.25+a** — Shared core library for compatible mods.
+- **Supplementaries 1.20-3.1.44** — Adds vanilla-style decorative and functional blocks, gadgets, and world interactions.
+- **TACT 1.5.3** — Additional support/content component; consult the exact installed project page for its precise role.
+- **It Takes A Pillage 1.0.3** — Expands Pillager content, raids, and related encounters.
+- **TerraBlender** — World-generation API used by many biome mods to blend and place their biomes.
+- **Tips 12.1.9** — Displays tips on loading screens.
+- **Toast Control 8.0.3** — Lets the pack control or suppress selected toast notifications.
+- **Too Many Bows 4.1.2** — Adds additional bows and ranged weapon options.
+- **TooManyRecipeViewers 0.9.2+mc.20.1** — Compatibility/helper component for recipe-viewing mods.
+- **Touch'n Motion 1.0.4** — Adds touch/motion-related interaction or animation support.
+- **Trade Cycling 1.20.1-1.0.7** — Makes villager trade cycling or rerolling more convenient.
+- **TxniLib 1.0.24** — Shared library used by compatible mods.
+- **UI Lib 0.3.6** — Shared interface library used by compatible mods.
+- **Underlay 1.0.5** — Interface/rendering support component used by compatible mods.
+- **Villager Names 8.9** — Gives villagers generated names.
+- **Visual Workbench 8.0.1** — Displays crafting items in the crafting table and preserves the crafting display in supported situations.
+- **Simple Voice Chat 1.20.1-2.6.22** — Adds proximity-based voice chat for multiplayer servers that have it configured.
+- **Wakes 1.4.1** — Adds wake/splash effects to moving entities in water.
+- **What Are They Up To 1.20.1-1.2.3** — Shows what villagers or nearby entities are doing, depending on supported entity types.
+- **Waystones 14.1.21** — Adds craftable/discoverable teleportation waystones.
+- **Welcome Screen 1.0.0** — Adds a custom welcome/intro screen for the pack.
+- **WI Zoom 1.5-MC1.20.1-Forge** — Adds a zoom feature controlled by a keybind.
+- **WunderLib 20.0.1** — Shared library used by compatible mods.
+- **Xaero's Minimap 26.6.0** — Adds a minimap and waypoint display.
+- **Xaero's World Map 1.47.0** — Adds a full-screen world map and waypoint management.
+- **YetAnotherConfigLib 3.6.6+1.20.1-forge** — Config screen library used by compatible mods.
+- **YUNG's API 1.20-Forge-4.0.6** — Shared library for YUNG's structure mods.
+- **YUNG's Better End Island 1.20-Forge-2.0.6** — Reworks the central End Island and related terrain.
+- **YUNG's Better Nether Fortresses 1.20-Forge-2.0.6** — Reworks Nether Fortress structures.
+- **YUNG's Cave Biomes 1.20.1-Forge-2.0.5** — Adds cave biome variety.
+- **Zeta** — Shared library required by Quark and compatible mods.
+- **Fast Noise Mod 1.0.13** — Optimizes parts of world-generation noise calculations.
+
+## Performance highlights
+
+The supplied inventory includes several performance or diagnostics tools, notably **Embeddium, ModernFix, Ferrite Core, BadOptimizations, Dynamic FPS, EntityCulling, More Culling, Alternate Current, Radium, Fast Noise Mod, C2ME for Forge, Chunky, and spark**. Their presence does not guarantee a fixed FPS or TPS; settings, world generation, loaded entities, and compatibility all matter.
+
+For recommendations, see the [Lunchtime Performance Guide](PERFORMANCE_GUIDE.md).
+
+## Updating this inventory
+
+This page was written from a mod list supplied for documentation, not extracted automatically from the latest CurseForge export or server directory. When the pack changes, update the list from the actual release manifest so removed, renamed, or updated mods do not stay here accidentally. Keep the full mod list here; keep player-facing changes and hotfixes in [CHANGELOG.md](CHANGELOG.md).
