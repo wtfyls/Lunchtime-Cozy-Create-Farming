@@ -2,22 +2,6 @@
 
 All Lunchtime release notes live in this file, with the newest release first.
 
-## Unreleased
-
-Changes being prepared for the next release go here. Move them into a dated/versioned section when that release is published.
-
-### Added
-- Nothing published yet.
-
-### Changed
-- Nothing published yet.
-
-### Fixed
-- Nothing published yet.
-
-### Removed
-- Nothing published yet.
-
 ---
 
 ## 1.5 — Hotfix
