@@ -2,15 +2,15 @@
 
 **Minecraft:** 1.20.1  
 **Loader:** Forge  
-**Inventory supplied for documentation:** 379 mod entries
+**Inventory count reported in source:** 379 entries
 
-This is the mod inventory provided for Lunchtime's GitHub documentation. Names and version labels are kept as supplied; entries without a version in the supplied list do not have one guessed here. This list describes the usual purpose of each mod or library. It is not a guarantee that every option is enabled, nor a substitute for checking the installed configuration. Some libraries have no player-facing content and exist only because another mod needs them.
+This is the mod inventory provided for Lunchtime's GitHub documentation. Names and version labels are kept as supplied; entries without a version in the supplied list do not have one guessed here. This list describes the usual purpose of each mod or library. It is not a guarantee that every option is enabled, nor a substitute for checking the installed configuration. Some libraries have no player-facing content and exist only because another mod needs them. **Count check:** the pasted names currently resolve to 378 individually documented entries, although the source header says 379. One entry may be missing from the pasted list or transcription; verify against the exported instance/mods folder before treating this as an exact manifest.
 
 **Compatibility note:** always confirm the actual installed file and its declared Minecraft/loader compatibility before troubleshooting. The supplied inventory includes some bridged Fabric projects and at least one version label that says `1.20.4` despite the pack target being Minecraft 1.20.1; that is worth checking against the actual mod file rather than assuming it is correct or incorrect from its displayed name alone.
 
 ## Complete inventory
 
-### A–C
+### Mod inventory (roughly alphabetical)
 
 - **Accelerated Decay 3.0.1+mc1.20.1** — Speeds up natural decay of leaves and similar blocks.
 - **AdvancedCoreInfo 1.5.0** — Adds extra core or technical information for inspecting the running game.
