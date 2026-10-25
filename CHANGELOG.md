@@ -1,6 +1,6 @@
 # Changelog
 
-Notable changes to Lunchtime are recorded here, with the newest published release first. Detailed notes can live in `docs/releases/`; this file is the quick overview.
+All Lunchtime release notes live in this file, with the newest release first.
 
 ## Unreleased
 
@@ -32,7 +32,6 @@ Changes being prepared for the next release go here. Move them into a dated/vers
 ### Changed
 - Updated **PatPat** keybinds: the main keybind is now **Shift**, and the secondary keybind is now **Mouse Button**, making it easier to use and helping avoid keybind conflicts.
 
-**Detailed notes:** [Lunchtime 1.5 hotfix](docs/releases/1.5-hotfix.md)
 
 ---
 
