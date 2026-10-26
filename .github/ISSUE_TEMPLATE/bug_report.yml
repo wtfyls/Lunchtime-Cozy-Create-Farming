@@ -1,10 +1,23 @@
 name: Bug report
-description: Report a reproducible Lunchtime issue
+description: Report a reproducible Lunchtime problem
 title: "[Bug]: "
+labels:
+  - bug
+  - needs-triage
 body:
   - type: markdown
     attributes:
-      value: "Please search existing issues first. Do not post private information, passwords, tokens, or unredacted personal details."
+      value: |
+        Use this for something broken or behaving unexpectedly in Lunchtime.
+        Search existing issues first. For ordinary gameplay questions or quick help, use Discord instead.
+        Never include passwords, tokens, private IPs, server addresses, or other private information.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and couldn't find the same problem.
+          required: true
   - type: input
     id: pack-version
     attributes:
@@ -16,7 +29,7 @@ body:
     id: minecraft-version
     attributes:
       label: Minecraft and loader version
-      placeholder: "e.g. Minecraft 1.20.1, Forge 47.x"
+      placeholder: "e.g. Minecraft 1.20.1, Forge 47.4.28"
     validations:
       required: true
   - type: dropdown
@@ -30,25 +43,62 @@ body:
         - Not sure
     validations:
       required: true
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What kind of problem is it?
+      options:
+        - Game crashes or will not launch
+        - Recipe, item, quest, or progression issue
+        - Texture, model, or audio issue
+        - Lag, FPS, or server performance
+        - Multiplayer or compatibility issue
+        - Other
+    validations:
+      required: true
   - type: textarea
     id: problem
     attributes:
       label: What happened?
-      description: Explain what you expected and what happened instead.
+      description: Describe the problem and what you were doing when it happened.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
     validations:
       required: true
   - type: textarea
     id: reproduce
     attributes:
       label: Steps to reproduce
-      placeholder: "1. ...\n2. ...\n3. ..."
+      description: Include the steps someone else can follow to see the same problem.
+      placeholder: |
+        1. Start a world or join a server...
+        2. Do ...
+        3. See the problem...
     validations:
       required: true
+  - type: input
+    id: launcher-os
+    attributes:
+      label: Launcher and operating system (optional)
+      placeholder: "e.g. Prism Launcher on macOS"
+    validations:
+      required: false
   - type: textarea
     id: logs
     attributes:
-      label: Relevant logs or crash report
-      description: Paste a relevant excerpt or link to a sanitized log. Remove personal and private information.
+      label: Relevant log or crash report (optional but helpful)
+      description: Share a mclo.gs link or a relevant excerpt. Remove private details before posting. Do not upload passwords, tokens, or private server information.
       render: text
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else? (optional)
+      description: Mention recent mod changes, added mods, screenshots, or other useful context.
     validations:
       required: false
