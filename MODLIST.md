@@ -1,11 +1,5 @@
 # Lunchtime Mod List
 
-**Minecraft:** 1.20.1  
-**Loader:** Forge
-
-Mods are grouped by their main role so players can find performance tools, world generation, cooking, Create, visuals, and utility mods more easily. Project links and creator credits are retained; no versions are shown in mod names.
-
-Standalone library/API-only dependencies are omitted from this player-facing list. **That does not mean they should be deleted from the actual modpack**: keep any dependencies required by installed mods.
 
 ## Categories
 
