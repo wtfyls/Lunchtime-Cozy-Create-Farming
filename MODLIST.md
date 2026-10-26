@@ -1,5 +1,15 @@
 # Lunchtime Mod List
 
+**Minecraft:** 1.20.1  
+**Loader:** Forge
+
+This page is based on the CurseForge project links in the HTML list supplied for Lunchtime. Version numbers are omitted to keep it readable, and creator credits are retained.
+
+Short summaries are included where the mod's function could be established with confidence. If an entry has no summary, it links to the project's own CurseForge page instead of using a guessed description.
+
+Standalone library/API-only dependencies are omitted from this player-facing list. **That does not mean they should be deleted from the actual modpack**; keep any dependencies required by installed mods.
+
+## Mods (295)
 
 - [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) — OptiFine-format custom entity models for supported resource packs. — by Traben
 - [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) — Custom, emissive, and varied mob textures, plus player-skin features. — by Traben
@@ -330,6 +340,6 @@
 
 ## Source and updates
 
-This list is based on the provided linked project list, not an automatically generated manifest from the newest CurseForge release. Some entries may change between pack versions. Check the official project link and the version-specific Lunchtime release for current compatibility details.
+This is a readable reference list, not an automatically generated manifest from the newest CurseForge release. Entries can change between Lunchtime versions, so check the version-specific pack release when exact compatibility matters.
 
-See the [Performance Guide](PERFORMANCE_GUIDE.md) for troubleshooting, and [CHANGELOG.md](CHANGELOG.md) for Lunchtime release changes.
+See the [Performance Guide](PERFORMANCE_GUIDE.md) for troubleshooting and [CHANGELOG.md](CHANGELOG.md) for player-facing release changes.
