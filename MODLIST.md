@@ -12,17 +12,16 @@
 - [[Let's Do] Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery) — Adds vineyards, grape growing, wine pressing, and winery building. — by satisfy
 - [[NoCube's] Realm RPG: Treasure Balloons](https://www.curseforge.com/minecraft/mc-mods/realm-rpg-treasure-balloons) — Adds rare balloons that fly overhead and can be shot down for loot. — by NoCube
 - [Accelerated Decay](https://www.curseforge.com/minecraft/mc-mods/accelerated-decay) — Speeds up leaf decay. — by ErrorMikey
-- [Advanced Core Info (ACI)](https://www.curseforge.com/minecraft/mc-mods/advanced-core-info) — by yanny7777
-- [Advanced Loot Info (ALI)](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) — by yanny7777
-- [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves) — by sbom_xela
-- [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) — by Baisylia
-- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) — by sbom_xela
-- [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) — by Uncandango
-- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) — by SpaceWalkerRS
+- [Advanced Loot Info (ALI)](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) — Adds an EMI/JEI/REI plugin that displays information about loot tables and villager trades. — by yanny7777
+- [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves) — Adds five rare cave biomes hidden underground, with their own exploration content. — by sbom_xela
+- [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) — Adds compatibility between Alex's Mobs and Farmer's Delight. — by Baisylia
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) — Adds 85+ new mobs with a style designed to fit Minecraft. — by sbom_xela
+- [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) — Fixes memory leaks in selected mods, Minecraft, and NeoForge while upstream fixes are pending. — by Uncandango
+- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) — Provides an efficient, non-locational implementation of redstone dust. — by SpaceWalkerRS
 - [Amber Lib](https://www.curseforge.com/minecraft/mc-mods/amber-lib) — by iamkaf
-- [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) — by CreativeMD
-- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) — by plantspookable
-- [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture) — by crispytwig
+- [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) — Adds atmospheric environmental audio; see the project's page for sound examples and configuration. — by CreativeMD
+- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) — Adds block interactions and variants such as potion mixing in cauldrons, animated lanterns, carpeted stairs, candle skulls, double cakes, and improved lily pads. — by plantspookable
+- [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture) — Adds furniture blocks and decorative pieces for building and interior design. — by crispytwig
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) — by squeek502
 - [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) — by ochotonida
 - [Async Logger](https://www.curseforge.com/minecraft/mc-mods/asynclogger) — by decce
