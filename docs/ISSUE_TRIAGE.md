@@ -32,7 +32,19 @@ The issue forms add a type label automatically:
 - `blocked` — work is waiting on a dependency, upstream fix, or other blocker.
 - `good first issue` — a relatively approachable task for a new contributor.
 
-The standard `bug` and `enhancement` labels are commonly provided by GitHub. Custom labels such as `needs-triage`, `needs-info`, `confirmed`, `in-progress`, `blocked`, and `good first issue` must exist in the repository for the forms or maintainers to apply them.
+## One-time label setup
+
+Open [Issues → Labels](https://github.com/wtfyls/Lunchtime-Cozy-Create-Farming/issues/labels), click **New label**, and create these labels if they do not already exist:
+
+| Label | Description |
+|---|---|
+| `needs-triage` | New ticket waiting for its first review. The issue forms apply this automatically once the label exists. |
+| `needs-info` | Waiting for the reporter to provide missing details. |
+| `confirmed` | The problem has been reproduced or verified. |
+| `in-progress` | Someone is actively working on it. |
+| `blocked` | Work is waiting on an upstream fix, dependency, or other blocker. |
+
+GitHub commonly provides `bug`, `enhancement`, and `good first issue` by default, but check the label page. If any are missing, create them too. GitHub issue forms silently skip labels that do not exist, so create `needs-triage` before relying on the automatic triage label.
 
 ## Maintainer workflow
 
