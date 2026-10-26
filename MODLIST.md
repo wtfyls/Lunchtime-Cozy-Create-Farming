@@ -22,9 +22,9 @@
 - [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) — Adds atmospheric environmental audio; see the project's page for sound examples and configuration. — by CreativeMD
 - [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) — Adds block interactions and variants such as potion mixing in cauldrons, animated lanterns, carpeted stairs, candle skulls, double cakes, and improved lily pads. — by plantspookable
 - [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture) — Adds furniture blocks and decorative pieces for building and interior design. — by crispytwig
-- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) — by squeek502
-- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) — by ochotonida
-- [Async Logger](https://www.curseforge.com/minecraft/mc-mods/asynclogger) — by decce
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) — Adds useful food and hunger information to the HUD. — by squeek502
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) — Adds treasure items that players can discover through exploration. — by ochotonida
+- [Async Logger](https://www.curseforge.com/minecraft/mc-mods/asynclogger) — Adds asynchronous logging and efficient filtering for performance and cleaner logs. — by decce
 - [AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles) — Runs particle ticking asynchronously and uses GPU-accelerated particle rendering. — by Harvey_Husky
 - [BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations) — Applies client-side optimizations aimed at systems beyond rendering. — by thosea
 - [Barbeque's Delight [Forge/NeoForge]](https://www.curseforge.com/minecraft/mc-mods/barbeques-delight) — Adds skewers and seasonings for grilling food. — by lcy0x1
@@ -58,7 +58,7 @@
 - [Chunky (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge) — Pre-generates chunks quickly and safely, useful for preparing terrain before players explore it. — by pop4959
 - [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) — Lets attacks hit enemies even when grass is in the way. — by Raycoms
 - [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort) — Adds flexible inventory-sorting tools. — by NotRyken
-- [Clockwork](https://www.curseforge.com/minecraft/mc-mods/clockwork) — by joosh_7889
+- [Clockwork](https://www.curseforge.com/minecraft/mc-mods/clockwork) — Adds a range of mechanical tools and utilities. — by joosh_7889
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) — Combines experience orbs into clumps to reduce entity-related lag. — by Jaredlll08
 - [Colorful Hearts](https://www.curseforge.com/minecraft/mc-mods/colorful-hearts) — Replaces multiple rows of vanilla health hearts with a single row of colored hearts. — by Terrails
 - [Combat Roll [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/combat-roll) — Adds a combat-roll ability, with related attributes and enchantments. — by daedelus_dev
@@ -93,7 +93,7 @@
 - [DnT Pillager Outpost Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-pillager-outpost-overhaul) — Adds the standalone Dungeons and Taverns Pillager Outpost overhaul. — by Nova_Wostra
 - [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) — Lets matching double doors, trapdoors, and fence gates open together. — by Serilum
 - [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen) — Adds customizable loading-screen features for FancyMenu. — by Keksuccino
-- [Dungeon Now Loading 2%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading) — by hexnowloading
+- [Dungeon Now Loading 2%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading) — Adds dungeon exploration content. — by hexnowloading
 - [Dusty Decorations](https://www.curseforge.com/minecraft/mc-mods/dusty-decorations) — Adds varied decorative blocks and props, with a theme around ports and markets. — by Tip_Mischiff
 - [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) — Reduces Minecraft's resource use when it is running in the background. — by juliand665
 - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils) — Overhauls anvils with stored items, fairer costs, and fewer frustrating repair penalties. — by Fuzs
@@ -105,7 +105,6 @@
 - [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) — Adds vanilla-style biome updates with new mobs, blocks, and other environmental content. — by SameDifferent
 - [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot) — Adds an accessory slot for the Elytra, allowing players to fly while wearing chest armor. — by TheIllusiveC4
 - [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) — Provides a mod-friendly client performance and rendering optimization layer. — by FiniteReality
-- [EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core) — by stradat
 - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) — Adds an item and recipe viewer with search and recipe lookup, including JEI compatibility. — by EmilyPloszaj
 - [EMI Enchants](https://www.curseforge.com/minecraft/mc-mods/emienchants) — Adds enchantment information to EMI. — by mephodio
 - [EMI Ores](https://www.curseforge.com/minecraft/mc-mods/emi-ores) — Displays ore-generation information inside EMI. — by Abbie34
@@ -126,7 +125,6 @@
 - [ExtraSounds Next](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge) — Adds user-interface sounds and other sound effects. — by Arborsm
 - [Falling Leaves (NeoForge/Forge)](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) — Adds falling-leaf effects to trees. — by Cheaterpaul
 - [Fancy Entity Renderer](https://www.curseforge.com/minecraft/mc-mods/fancy-entity-renderer) — The short CurseForge summary is too vague to state its exact function confidently; see the linked project page. — by CrystalSpider
-- [Fancy Tab Sections](https://www.curseforge.com/minecraft/mc-mods/fancy-tab-sections) — by wdiscute
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) — Lets modpack creators customize Minecraft's menus. — by Keksuccino
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) — Adds a cozy expansion to farming and cooking. — by vectorwing
 - [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures) — Adds structures for Farmer's Delight that showcase its mechanics and provide decorative exploration locations. — by BlackAuresArt
@@ -135,12 +133,12 @@
 - [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) — Improves item-frame performance and adds options to recolor or make item frames invisible. — by Fuzs
 - [Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) — Optimizes noise generation. — by zenxarch
 - [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings) — Optimizes paintings by treating them as blocks and allows their models to be customized. — by MehVahdJukaar
-- [FastALI](https://www.curseforge.com/minecraft/mc-mods/fastali) — by Misanthropy
+- [FastALI](https://www.curseforge.com/minecraft/mc-mods/fastali) — Reduces loading times and improves the performance of Advanced Loot Info. — by Misanthropy
 - [FastBoot](https://www.curseforge.com/minecraft/mc-mods/fastboot) — Aims to reduce Minecraft's game-loading time. — by dnlayu
-- [Faster Iris Shadow Mapper](https://www.curseforge.com/minecraft/mc-mods/faster-iris-shadow-mapper) — by maDU59_
+- [Faster Iris Shadow Mapper](https://www.curseforge.com/minecraft/mc-mods/faster-iris-shadow-mapper) — Speeds up Iris shadow mapping for improved performance. — by maDU59_
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) — Improves furnace performance. — by Shadows_of_Fire
 - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) — Improves performance of Minecraft's JSON recipe system. — by Shadows_of_Fire
-- [Fastvancements](https://www.curseforge.com/minecraft/mc-mods/fastvancements) — by Misanthropy
+- [Fastvancements](https://www.curseforge.com/minecraft/mc-mods/fastvancements) — A lightweight advancement optimizer. — by Misanthropy
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) — Improves crafting-table performance. — by Shadows_of_Fire
 - [Faunify](https://www.curseforge.com/minecraft/mc-mods/faunify) — Adds wild animals and pets. — by Peppercorn
 - [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler) — Prevents crashes between world-generation mods caused by Minecraft's Feature Cycler. — by Corgi_Taco
@@ -163,7 +161,6 @@
 - [Golem Overhaul](https://www.curseforge.com/minecraft/mc-mods/golem-overhaul) — Overhauls vanilla golems. — by joosh_7889
 - [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) — Places a gravestone containing the player's inventory when they die. — by henkelmax
 - [GTBC's Cataclysmic Boss UI](https://www.curseforge.com/minecraft/mc-mods/gtbcs-cataclysmic-boss-ui) — Adds a pre-fight information screen for Cataclysm bosses, with lore, mechanics, attacks, and tips. — by GameTechBC
-- [Iceberg [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg) — by Grend_G
 - [Icy's Better Horses](https://www.curseforge.com/minecraft/mc-mods/icys-better-horses) — Turns vanilla horses into smarter, faster, upgradeable companions. — by icywhenhot
 - [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) — Optimizes Minecraft's immediate-mode rendering. — by RaphiMC
 - [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) — Adds customizable and upgradeable vanilla-style aircraft, from biplanes to airships. — by Conczin
@@ -172,7 +169,6 @@
 - [Immersive Overlays](https://www.curseforge.com/minecraft/mc-mods/immersive-overlays) — Displays contextual HUD information such as coordinates and time when the required item is in the inventory. — by cassiancc
 - [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) — Lets players add their own paintings by dragging and dropping images, including in multiplayer. — by Conczin
 - [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui) — Adds animated user-interface components. — by SSKirillSS
-- [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) — by CraisinLord
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) — Adds detailed structures using content from mods such as Quark, Supplementaries, Alex's Mobs, and Create. — by CraisinLord
 - [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold) — Replaces the vanilla stronghold with a detailed dungeon built using blocks from mods such as Create, Quark, and Supplementaries. — by CraisinLord
 - [Integrated Villages](https://www.curseforge.com/minecraft/mc-mods/integrated-villages) — Overhauls Minecraft villages with mod integrations. — by CraisinLord
@@ -186,12 +182,12 @@
 - [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) — Buffers raw input and uses threaded event polling. — by decce
 - [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade) — Shows information about the block or entity the player is looking at. — by Snownee
 - [Jade Addons (Neo/Forge)](https://www.curseforge.com/minecraft/mc-mods/jade-addons) — Adds additional Jade integrations and information displays for supported mods. — by Snownee
-- [Jobs+](https://www.curseforge.com/minecraft/mc-mods/jobsplus) — by DAQEM
-- [Jobs+ Tools](https://www.curseforge.com/minecraft/mc-mods/jobsplustools) — by DAQEM
-- [Jumpy Boats](https://www.curseforge.com/minecraft/mc-mods/jumpy-boats) — by LobsterJonn
-- [Kaleidoscope Chinese Food](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-chinese-food) — by ChenjdyUltra
+- [Jobs+](https://www.curseforge.com/minecraft/mc-mods/jobsplus) — Adds ten jobs to Minecraft and supports custom jobs. — by DAQEM
+- [Jobs+ Tools](https://www.curseforge.com/minecraft/mc-mods/jobsplustools) — Adds tools for the Jobs in Jobs+. — by DAQEM
+- [Jumpy Boats](https://www.curseforge.com/minecraft/mc-mods/jumpy-boats) — Lets boats make small jumps to make travel easier. — by LobsterJonn
+- [Kaleidoscope Chinese Food](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-chinese-food) — Adds more Chinese dishes to Kaleidoscope Cookery. — by ChenjdyUltra
 - [Kaleidoscope Compat](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-compat) — by BmtUltra
-- [Kaleidoscope Cookery](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-cookery) — by YSBB
+- [Kaleidoscope Cookery](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-cookery) — Adds immersive cooking and planting. — by YSBB
 - [Kaleidoscope End](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-end) — by BmtUltra
 - [Kaleidoscope Grilling](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-grilling) — by breezeth
 - [Kaleidoscope Nether](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-nether) — by BmtUltra
