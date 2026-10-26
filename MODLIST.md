@@ -1,17 +1,17 @@
 # Lunchtime Mod List
 
 
-- [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) — by Traben
-- [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) — by Traben
-- [[Let's Do Addon] EMI Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-emi-compat) — by pandaismyname1
+- [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) — OptiFine-format custom entity models for supported resource packs. — by Traben
+- [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) — Custom, emissive, and varied mob textures, plus player-skin features. — by Traben
+- [[Let's Do Addon] EMI Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-emi-compat) — Adds EMI recipe-viewer compatibility for the Let's Do mod series. — by pandaismyname1
 - [[Let's Do] API](https://www.curseforge.com/minecraft/mc-mods/do-api) — by Cristelknight
-- [[Let's Do] Bakery - Farm&Charm Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) — by satisfy
-- [[Let's Do] Beachparty](https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty) — by satisfy
-- [[Let's Do] Farm & Charm](https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-charm) — by satisfy
-- [[Let's Do] Meadow](https://www.curseforge.com/minecraft/mc-mods/lets-do-meadow) — by satisfy
-- [[Let's Do] Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery) — by satisfy
-- [[NoCube's] Realm RPG: Treasure Balloons](https://www.curseforge.com/minecraft/mc-mods/realm-rpg-treasure-balloons) — by NoCube
-- [Accelerated Decay](https://www.curseforge.com/minecraft/mc-mods/accelerated-decay) — by ErrorMikey
+- [[Let's Do] Bakery - Farm&Charm Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) — Adds edible and placeable bread, cupcakes, and cakes, with compatibility for Let's Do: Farm & Charm. — by satisfy
+- [[Let's Do] Beachparty](https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty) — Overhauls Minecraft's beach biome with new beach-themed content. — by satisfy
+- [[Let's Do] Farm & Charm](https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-charm) — Expands farming and farmhouse cooking with mincers, cooking pots, new grains, and fruit varieties. — by satisfy
+- [[Let's Do] Meadow](https://www.curseforge.com/minecraft/mc-mods/lets-do-meadow) — Adds a mountain-pasture setting with cliffs, forests, clearings, and colorful flowers. — by satisfy
+- [[Let's Do] Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery) — Adds vineyards, grape growing, wine pressing, and winery building. — by satisfy
+- [[NoCube's] Realm RPG: Treasure Balloons](https://www.curseforge.com/minecraft/mc-mods/realm-rpg-treasure-balloons) — Adds rare balloons that fly overhead and can be shot down for loot. — by NoCube
+- [Accelerated Decay](https://www.curseforge.com/minecraft/mc-mods/accelerated-decay) — Speeds up leaf decay. — by ErrorMikey
 - [Advanced Core Info (ACI)](https://www.curseforge.com/minecraft/mc-mods/advanced-core-info) — by yanny7777
 - [Advanced Loot Info (ALI)](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) — by yanny7777
 - [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves) — by sbom_xela
