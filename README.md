@@ -9,16 +9,30 @@
     <img src="assets/curseforgelarge.png" alt="Download on CurseForge" height="48">
   </a>
   &nbsp;
+  <a href="https://discord.gg/68yhDdFpnx">
+    <img src="assets/discordlarge.png" alt="Join the Lunchtime Discord" height="48">
+  </a>
+  &nbsp;
   <a href="https://ko-fi.com/wtfyls">
     <img src="assets/kofilarge.png" alt="Support Lunchtime on Ko-fi" height="48">
   </a>
   &nbsp;
-  <a href="https://discord.gg/68yhDdFpnx">
-    <img src="assets/discordlarge.png" alt="Join the Lunchtime Discord" height="48">
+  <a href="https://www.patreon.com/cw/Fierolam">
+    <img src="assets/patreonlarge.png" alt="Support Lunchtime on Patreon" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/lunch_butt/">
+    <img src="assets/instagramlarge.png" alt="Follow Lunchtime on Instagram" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@lunchbutt">
+    <img src="assets/youtubelarge.png" alt="Lunchtime on YouTube" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@lunchbutt">
+    <img src="assets/tiktoklarge.png" alt="Lunchtime on TikTok" height="48">
   </a>
 </p>
-
-[CurseForge](https://www.curseforge.com/minecraft/modpacks/lunch-but) · [Discord](https://discord.gg/68yhDdFpnx) · [Ko-fi](https://ko-fi.com/wtfyls) · [Patreon](https://www.patreon.com/cw/Fierolam)
 
 </div>
 
