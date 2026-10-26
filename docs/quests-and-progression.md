@@ -14,6 +14,18 @@ Think of the questbook as a guide, not a strict checklist. It is fine to pause a
 
 The exact interface, chapter names, dependencies, and reward rules can change between pack versions. Use the questbook in your installed build as the final authority.
 
+## Quest areas in Lunchtime
+
+The quest setup is organized around the pack and selected mods, rather than using dimensions as the main chapter structure. Current development includes these recognizable areas:
+
+- **Lunchtime:** welcome and pack-wide progression.
+- **Create:** mechanical building, processing, and automation.
+- **Alex's Caves:** exploration-focused content for that mod.
+- **Plushie Buddies:** themed plushie and collection-related quests.
+- **Other mod-specific branches:** use the questbook in your release to see the remaining live chapters and their prerequisites.
+
+Chapter labels, exact task requirements, and rewards can change as quests are revised, so the in-game version is the accurate reference for a specific release.
+
 ## What kinds of goals should you expect?
 
 ### Lunchtime basics
