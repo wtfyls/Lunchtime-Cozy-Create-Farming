@@ -232,6 +232,7 @@
 - [FTB Ultimine (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) — Lets players harvest multiple blocks at once. — by FTB
 - [FTB XMod Compat](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) — Provides official integration support between FTB mods and other mods. — by FTB
 - [Longer Chat History [Forge/NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/longer-chat-history) — Keeps more messages available in the chat history. — by TheOriginalGolem
+- [LunchEssentials](https://www.curseforge.com/minecraft/mc-mods/lunch-essentials) — Adds server-side commands and tools for SMP moderation, customization, and quality of life. — by us (Lunchtime Team)
 - [Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail) — Adds a mailing system for a Minecraft world. — by MrCrayfish
 - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) — Disables chat-signing/reporting behavior introduced by newer Minecraft versions. — by Aizistral
 - [No Chat Restrictions](https://www.curseforge.com/minecraft/mc-mods/no-chat-restrictions) — Removes selected vanilla chat restrictions. — by Aizistral
