@@ -103,7 +103,7 @@
 - [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) — Adds convenience features for handling villager-related tasks. — by henkelmax
 - [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) — Ports Eating Animation to NeoForge/Forge, adding animated eating visuals. — by matyrobbrt
 - [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) — Adds vanilla-style biome updates with new mobs, blocks, and other environmental content. — by SameDifferent
-- [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot) — by TheIllusiveC4
+- [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot) — Adds an accessory slot for the Elytra, allowing players to fly while wearing chest armor. — by TheIllusiveC4
 - [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) — Provides a mod-friendly client performance and rendering optimization layer. — by FiniteReality
 - [EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core) — by stradat
 - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) — Adds an item and recipe viewer with search and recipe lookup, including JEI compatibility. — by EmilyPloszaj
@@ -114,16 +114,16 @@
 - [EMI: Create Schematics](https://www.curseforge.com/minecraft/mc-mods/emi-create-schematics) — Lets Create schematic items be added to EMI's Favorites list. — by LiukRast
 - [EMIffect (Status Effects EMI Plugin)](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin) — Adds status effects to EMI and provides information about each effect. — by fzzyhmstrs
 - [Emotecraft (Forge)](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) — Adds player emotes to Minecraft. — by KosmX
-- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) — by DarkhaxDev
-- [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered) — by jack_bagel
+- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) — Adds in-game descriptions of enchantments to item tooltips. — by DarkhaxDev
+- [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered) — Makes the journey toward the End more challenging and engaging. — by jack_bagel
 - [Enderdragon Loot](https://www.curseforge.com/minecraft/mc-mods/enderdragon-loot) — by nullifyac
-- [Enderman Overhaul](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul) — by joosh_7889
+- [Enderman Overhaul](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul) — Overhauls vanilla Endermen with new variants. — by joosh_7889
 - [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) — by tr7zw
 - [Equipment Compare [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/equipment-compare) — by Grend_G
-- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) — by Chaosyr
-- [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure) — by mortuusars
-- [Exposure: Polaroid](https://www.curseforge.com/minecraft/mc-mods/exposure-polaroid) — by mortuusars
-- [ExtraSounds Next](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge) — by Arborsm
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) — Adds a compass item that locates structures in the world. — by Chaosyr
+- [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure) — Adds a camera mod focused on the photography process and aesthetics. — by mortuusars
+- [Exposure: Polaroid](https://www.curseforge.com/minecraft/mc-mods/exposure-polaroid) — Adds an instant camera as an add-on for Exposure. — by mortuusars
+- [ExtraSounds Next](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge) — Adds user-interface sounds and other sound effects. — by Arborsm
 - [Falling Leaves (NeoForge/Forge)](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) — by Cheaterpaul
 - [Fancy Entity Renderer](https://www.curseforge.com/minecraft/mc-mods/fancy-entity-renderer) — by CrystalSpider
 - [Fancy Tab Sections](https://www.curseforge.com/minecraft/mc-mods/fancy-tab-sections) — by wdiscute
