@@ -94,15 +94,15 @@
 - [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) — Lets matching double doors, trapdoors, and fence gates open together. — by Serilum
 - [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen) — Adds customizable loading-screen features for FancyMenu. — by Keksuccino
 - [Dungeon Now Loading 2%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading) — by hexnowloading
-- [Dusty Decorations](https://www.curseforge.com/minecraft/mc-mods/dusty-decorations) — by Tip_Mischiff
-- [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) — by juliand665
-- [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils) — by Fuzs
-- [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic) — by Fuzs
-- [Easy Mob Spawn Control](https://www.curseforge.com/minecraft/mc-mods/easy-mob-spawn-control) — by Catomon
-- [Easy Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-boxes) — by Fuzs
-- [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) — by henkelmax
-- [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) — by matyrobbrt
-- [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) — by SameDifferent
+- [Dusty Decorations](https://www.curseforge.com/minecraft/mc-mods/dusty-decorations) — Adds varied decorative blocks and props, with a theme around ports and markets. — by Tip_Mischiff
+- [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) — Reduces Minecraft's resource use when it is running in the background. — by juliand665
+- [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils) — Overhauls anvils with stored items, fairer costs, and fewer frustrating repair penalties. — by Fuzs
+- [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic) — Improves enchanting tables by keeping items in place after closing and making enchantment rerolls easier. — by Fuzs
+- [Easy Mob Spawn Control](https://www.curseforge.com/minecraft/mc-mods/easy-mob-spawn-control) — Provides an in-game menu to adjust mob spawn rates, blacklist mobs, and change mob limits. — by Catomon
+- [Easy Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-boxes) — Lets players browse, insert, and extract shulker-box contents directly from their inventory. — by Fuzs
+- [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) — Adds convenience features for handling villager-related tasks. — by henkelmax
+- [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) — Ports Eating Animation to NeoForge/Forge, adding animated eating visuals. — by matyrobbrt
+- [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) — Adds vanilla-style biome updates with new mobs, blocks, and other environmental content. — by SameDifferent
 - [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot) — by TheIllusiveC4
 - [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) — by FiniteReality
 - [EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core) — by stradat
