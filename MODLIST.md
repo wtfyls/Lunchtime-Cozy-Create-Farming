@@ -149,15 +149,14 @@
 - [Figura](https://www.curseforge.com/minecraft/mc-mods/figura) — Allows extensive client-side customization of the player model. — by skyrina
 - [Fisherman's Trap [Neo/Fabric]](https://www.curseforge.com/minecraft/mc-mods/fishermans-trap) — Adds a fish trap that passively collects fish. — by TooManyKitKats
 - [Forge Config Screens [Archived]](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge) — Lets players configure supported Forge settings in-game through a configuration screen. — by Fuzs
-- [FTB Chunks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) — by FTB
-- [FTB Chunks x Xaero's Compat](https://www.curseforge.com/minecraft/mc-mods/ftbxaerocompat) — by Satherov
-- [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) — by FTB
-- [FTB Filter System](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system) — by FTB
-- [FTB Quests (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) — by FTB
-- [FTB Quests UI Overhaul!](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-ui-overhaul) — by R2bEEaton
-- [FTB Teams (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) — by FTB
-- [FTB Ultimine (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) — by FTB
-- [FTB XMod Compat](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) — by FTB
+- [FTB Chunks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) — Lets players claim chunks to protect builds and use a minimap or full-size map. — by FTB
+- [FTB Chunks x Xaero's Compat](https://www.curseforge.com/minecraft/mc-mods/ftbxaerocompat) — Connects FTB Chunks with Xaero's map mods. — by Satherov
+- [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) — Adds common utility commands for servers. — by FTB
+- [FTB Filter System](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system) — Adds configurable item-filtering tools with a GUI editor. — by FTB
+- [FTB Quests (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) — Adds a questing system for creating objectives and progression in modpacks. — by FTB
+- [FTB Quests UI Overhaul!](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-ui-overhaul) — Gives FTB Quests a client-side visual overhaul with a vanilla-RPG-style interface while remaining compatible with existing quests. — by R2bEEaton
+- [FTB Ultimine (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) — Lets players harvest multiple blocks at once. — by FTB
+- [FTB XMod Compat](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) — Provides official integration support between FTB mods and other mods. — by FTB
 - [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) — by SuperMartijn642
 - [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) — by decce
 - [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) — by MrCrayfish
