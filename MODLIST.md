@@ -84,15 +84,15 @@
 - [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) — Adds food systems inspired by different cultures as an expansion for Farmer's Delight. — by Baisylia
 - [Cursors Extended](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor) — Adds configurable Minecraft-themed mouse cursors. — by fishstiz
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) — Adds extra decorative blocks for building. — by stohun
-- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) — by BlayTheNinth
-- [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) — by brnbrd
-- [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls) — by Fuzs
-- [Disable Structures](https://www.curseforge.com/minecraft/mc-mods/disable-structures) — by Bennyboy1695
-- [Distraction Free Recipes (EMI / REI / JEI)](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes) — by Txni
-- [DnT Ancient City Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-ancient-city-overhaul) — by Nova_Wostra
-- [DnT Pillager Outpost Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-pillager-outpost-overhaul) — by Nova_Wostra
-- [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) — by Serilum
-- [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen) — by Keksuccino
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) — Lets the modpack ship default client settings and keybinds without overwriting an existing player's options file. — by BlayTheNinth
+- [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) — Adds configurable Farmer's Delight compatibility features and new immersive foods. — by brnbrd
+- [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls) — Adds diagonal wall blocks for more flexible building shapes. — by Fuzs
+- [Disable Structures](https://www.curseforge.com/minecraft/mc-mods/disable-structures) — Lets pack makers disable selected vanilla structures through configuration. — by Bennyboy1695
+- [Distraction Free Recipes (EMI / REI / JEI)](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes) — Automatically hides the recipe viewer when the player is not searching. — by Txni
+- [DnT Ancient City Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-ancient-city-overhaul) — Adds the standalone Dungeons and Taverns Ancient City overhaul. — by Nova_Wostra
+- [DnT Pillager Outpost Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-pillager-outpost-overhaul) — Adds the standalone Dungeons and Taverns Pillager Outpost overhaul. — by Nova_Wostra
+- [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) — Lets matching double doors, trapdoors, and fence gates open together. — by Serilum
+- [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen) — Adds customizable loading-screen features for FancyMenu. — by Keksuccino
 - [Dungeon Now Loading 2%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading) — by hexnowloading
 - [Dusty Decorations](https://www.curseforge.com/minecraft/mc-mods/dusty-decorations) — by Tip_Mischiff
 - [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) — by juliand665
