@@ -104,16 +104,16 @@
 - [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) — Ports Eating Animation to NeoForge/Forge, adding animated eating visuals. — by matyrobbrt
 - [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) — Adds vanilla-style biome updates with new mobs, blocks, and other environmental content. — by SameDifferent
 - [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot) — by TheIllusiveC4
-- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) — by FiniteReality
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) — Provides a mod-friendly client performance and rendering optimization layer. — by FiniteReality
 - [EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core) — by stradat
-- [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) — by EmilyPloszaj
-- [EMI Enchants](https://www.curseforge.com/minecraft/mc-mods/emienchants) — by mephodio
-- [EMI Ores](https://www.curseforge.com/minecraft/mc-mods/emi-ores) — by Abbie34
-- [EMI professions (EMIP)](https://www.curseforge.com/minecraft/mc-mods/emi-professions-emip) — by Mrbysco
-- [EMI QoL Tweaks](https://www.curseforge.com/minecraft/mc-mods/emi-qol-tweaks) — by clo3eX
-- [EMI: Create Schematics](https://www.curseforge.com/minecraft/mc-mods/emi-create-schematics) — by LiukRast
-- [EMIffect (Status Effects EMI Plugin)](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin) — by fzzyhmstrs
-- [Emotecraft (Forge)](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) — by KosmX
+- [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) — Adds an item and recipe viewer with search and recipe lookup, including JEI compatibility. — by EmilyPloszaj
+- [EMI Enchants](https://www.curseforge.com/minecraft/mc-mods/emienchants) — Adds enchantment information to EMI. — by mephodio
+- [EMI Ores](https://www.curseforge.com/minecraft/mc-mods/emi-ores) — Displays ore-generation information inside EMI. — by Abbie34
+- [EMI professions (EMIP)](https://www.curseforge.com/minecraft/mc-mods/emi-professions-emip) — Adds villager profession workstation information to EMI. — by Mrbysco
+- [EMI QoL Tweaks](https://www.curseforge.com/minecraft/mc-mods/emi-qol-tweaks) — Integrates EMI with FTB Quests, supports sharing items/fluids to chat, adds quick favorites, and addresses screen-memory issues. — by clo3eX
+- [EMI: Create Schematics](https://www.curseforge.com/minecraft/mc-mods/emi-create-schematics) — Lets Create schematic items be added to EMI's Favorites list. — by LiukRast
+- [EMIffect (Status Effects EMI Plugin)](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin) — Adds status effects to EMI and provides information about each effect. — by fzzyhmstrs
+- [Emotecraft (Forge)](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) — Adds player emotes to Minecraft. — by KosmX
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) — by DarkhaxDev
 - [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered) — by jack_bagel
 - [Enderdragon Loot](https://www.curseforge.com/minecraft/mc-mods/enderdragon-loot) — by nullifyac
