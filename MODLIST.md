@@ -118,19 +118,19 @@
 - [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered) — Makes the journey toward the End more challenging and engaging. — by jack_bagel
 - [Enderdragon Loot](https://www.curseforge.com/minecraft/mc-mods/enderdragon-loot) — by nullifyac
 - [Enderman Overhaul](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul) — Overhauls vanilla Endermen with new variants. — by joosh_7889
-- [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) — by tr7zw
-- [Equipment Compare [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/equipment-compare) — by Grend_G
+- [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) — Uses asynchronous path-tracing to skip rendering block entities and entities that are not visible. — by tr7zw
+- [Equipment Compare [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/equipment-compare) — Shows a tooltip for the equipment already being worn, making item comparisons easier. — by Grend_G
 - [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) — Adds a compass item that locates structures in the world. — by Chaosyr
 - [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure) — Adds a camera mod focused on the photography process and aesthetics. — by mortuusars
 - [Exposure: Polaroid](https://www.curseforge.com/minecraft/mc-mods/exposure-polaroid) — Adds an instant camera as an add-on for Exposure. — by mortuusars
 - [ExtraSounds Next](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge) — Adds user-interface sounds and other sound effects. — by Arborsm
-- [Falling Leaves (NeoForge/Forge)](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) — by Cheaterpaul
-- [Fancy Entity Renderer](https://www.curseforge.com/minecraft/mc-mods/fancy-entity-renderer) — by CrystalSpider
+- [Falling Leaves (NeoForge/Forge)](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) — Adds falling-leaf effects to trees. — by Cheaterpaul
+- [Fancy Entity Renderer](https://www.curseforge.com/minecraft/mc-mods/fancy-entity-renderer) — The short CurseForge summary is too vague to state its exact function confidently; see the linked project page. — by CrystalSpider
 - [Fancy Tab Sections](https://www.curseforge.com/minecraft/mc-mods/fancy-tab-sections) — by wdiscute
-- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) — by Keksuccino
-- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) — by vectorwing
-- [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures) — by BlackAuresArt
-- [Farsight [Forge/Neo]](https://www.curseforge.com/minecraft/mc-mods/farsight) — by someaddon
+- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) — Lets modpack creators customize Minecraft's menus. — by Keksuccino
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) — Adds a cozy expansion to farming and cooking. — by vectorwing
+- [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures) — Adds structures for Farmer's Delight that showcase its mechanics and provide decorative exploration locations. — by BlackAuresArt
+- [Farsight [Forge/Neo]](https://www.curseforge.com/minecraft/mc-mods/farsight) — Lets the client see far-away chunks even when the server uses a lower view distance. — by someaddon
 - [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) — by Fallen_Breath
 - [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) — by Fuzs
 - [Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) — by zenxarch
