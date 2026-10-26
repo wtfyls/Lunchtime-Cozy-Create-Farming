@@ -69,7 +69,7 @@ Lunchtime aims to make everyday Minecraft activities feel rewarding without turn
 | [Performance Guide](PERFORMANCE_GUIDE.md) | Client settings, memory, server performance, and troubleshooting |
 | [Release Workflow](docs/RELEASE_WORKFLOW.md) | How we prepare and publish updates |
 | [Development Notes](Lunchtime%20Cozy%20Create%20and%20Cooking%20v1.md) | Broader overhaul planning |
-| [Contributing](CONTRIBUTING.md) | Ways to suggest improvements or contribute |
+| [Contributing](CONTRIBUTING.md) | Ways to suggest improvements or contribute |\n| [Issue Triage](docs/ISSUE_TRIAGE.md) | What to report, how tickets are handled, and what labels mean |
 
 ## Found a bug or have an idea?
 
