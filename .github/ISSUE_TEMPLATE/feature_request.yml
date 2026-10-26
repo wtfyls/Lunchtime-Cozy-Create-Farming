@@ -1,35 +1,47 @@
 name: Feature request
-description: Suggest an improvement for Lunchtime
+description: Suggest an improvement, mod, quest, or gameplay idea
 title: "[Suggestion]: "
+labels:
+  - enhancement
+  - needs-triage
 body:
   - type: markdown
     attributes:
-      value: "Suggestions are reviewed against Lunchtime's cozy, multiplayer-friendly direction, compatibility, and performance goals."
+      value: |
+        Suggestions are reviewed against Lunchtime's cozy, multiplayer-friendly direction, compatibility, and performance goals.
+        A suggestion is not a promise that something will be added.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and couldn't find the same suggestion.
+          required: true
   - type: textarea
     id: idea
     attributes:
       label: What would you like to see?
-      description: Describe the feature, mod, quest, or improvement.
+      description: Describe the feature, mod, quest, recipe, or improvement.
     validations:
       required: true
   - type: textarea
     id: reason
     attributes:
       label: Why would this improve Lunchtime?
-      description: Explain the player benefit and the problem it solves.
+      description: Explain what it adds for players or what problem it solves.
     validations:
       required: true
   - type: input
     id: project-link
     attributes:
-      label: Relevant project link (if applicable)
-      placeholder: "Official mod or resource page"
+      label: Official project link (if applicable)
+      placeholder: "Link to the mod's official CurseForge, Modrinth, or website page"
     validations:
       required: false
   - type: textarea
     id: concerns
     attributes:
-      label: Compatibility or performance notes
-      description: Mention known requirements, overlap, server-side behavior, or performance concerns.
+      label: Compatibility or performance notes (optional)
+      description: Mention Minecraft/loader compatibility, client/server requirements, overlap with existing mods, or known performance concerns.
     validations:
       required: false
