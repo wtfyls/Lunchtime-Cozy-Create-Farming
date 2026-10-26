@@ -1,50 +1,77 @@
-# Lunchtime
+<div align="center">
 
-**Lunchtime Modpack — a cozy Minecraft experience built around farming, cooking, Create automation, building, exploration, and multiplayer progression.**
+<img src="assets/luncheime_logo.png" alt="Lunchtime" width="720">
 
-Lunchtime is a curated, cozy Minecraft modpack for players who want to grow their own food, cook, build a home, create useful machines, explore the world, collect little treasures, and progress at their own pace. It brings together a warm, wholesome atmosphere with meaningful systems to discover and master.
+### A cozy Minecraft modpack for farming, cooking, Create, building, and exploring together.
 
-## What makes Lunchtime special?
+<p>
+  <a href="https://www.curseforge.com/minecraft/modpacks/lunch-but">
+    <img src="assets/curseforgelarge.png" alt="Download on CurseForge" height="48">
+  </a>
+  &nbsp;
+  <a href="https://ko-fi.com/wtfyls">
+    <img src="assets/kofilarge.png" alt="Support Lunchtime on Ko-fi" height="48">
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/68yhDdFpnx">
+    <img src="assets/discordlarge.png" alt="Join the Lunchtime Discord" height="48">
+  </a>
+</p>
 
-- **Farming & cooking** — grow ingredients, explore food mods, and turn your harvest into meals and baked goods.
-- **Create automation** — design contraptions, processing lines, and machines that make your world work for you.
-- **Building & decorating** — make a cozy home, a bustling kitchen, a farmstead, or a shared community space.
-- **Careers & skill progression** — develop skills by playing, specialize in the activities you enjoy, and work toward career milestones.
-- **Quests & collectibles** — follow guided progression, take on optional challenges, and earn collection rewards.
-- **Exploration** — discover new places, resources, structures, and experiences at your own pace.
-- **Multiplayer-friendly gameplay** — build, trade, cook, explore, and contribute to a shared world.
-- **Ongoing polish** — compatibility, stability, recipe consistency, and performance are important parts of development.
+[CurseForge](https://www.curseforge.com/minecraft/modpacks/lunch-but) · [Discord](https://discord.gg/68yhDdFpnx) · [Ko-fi](https://ko-fi.com/wtfyls) · [Patreon](https://www.patreon.com/cw/Fierolam)
 
-Lunchtime is designed to make everyday Minecraft activities feel rewarding without turning the experience into a stressful grind. Make a little progress, try something new, and enjoy the world with friends.
+</div>
 
-## Download and community
+---
 
-- **[Download Lunchtime on CurseForge](https://www.curseforge.com/minecraft/modpacks/lunch-but)**
-- **[Discord community](https://discord.gg/68yhDdFpnx)**
-- **[Ko-fi](https://ko-fi.com/wtfyls)** · Support development
-- **[Patreon](https://www.patreon.com/cw/Fierolam)** · Supporter updates
-- **[BisectHosting](https://www.bisecthosting.com/Deez)** · Partner link; code `DEEZ` for 25% off, subject to current offer terms
+## Welcome to Lunchtime!
 
-## Project documentation
+Lunchtime is a cozy, multiplayer-friendly Minecraft modpack built around the little things that make a world feel like home: growing ingredients, cooking meals, decorating your space, building useful machines, exploring new places, and progressing at your own pace.
 
-- **[Performance Guide](PERFORMANCE_GUIDE.md)** — client settings, memory, server performance, and troubleshooting
-- **[Mod List](MODLIST.md)** — official CurseForge links for gameplay mods, resource packs, and shaders; library-only dependencies are omitted
-- **[Changelog](CHANGELOG.md)** — release history, newest first
-- **[Release workflow](docs/RELEASE_WORKFLOW.md)** — how we prepare and publish updates
-- **[Development overhaul notes](Lunchtime%20Cozy%20Create%20and%20Cooking%20v1.md)** — broader overhaul planning notes
-- **[Contributing](CONTRIBUTING.md)** — how to suggest improvements or contribute
+Whether you're building a tiny cottage, running a farm, designing a Create factory, collecting treasures, or working on a shared town with friends, there's always something to do.
 
-## Reporting issues
+## What you can do
 
-Before reporting a bug, search existing issues and include the Lunchtime version, Minecraft/Forge version, steps to reproduce, and a relevant sanitized log or crash report. Never post passwords, tokens, or private server details.
+- **🌱 Farm & cook** — grow ingredients, discover food mods, and turn your harvest into meals and baked goods.
+- **⚙️ Create & automate** — design contraptions, processing lines, and machines to make your world work for you.
+- **🏡 Build & decorate** — create a cozy home, a bustling kitchen, a farmstead, or a community hub.
+- **✨ Grow your skills** — develop skills by playing, find your favorite specialties, and work toward career milestones.
+- **📜 Follow quests & collect** — take on guided progression, optional challenges, and collection rewards.
+- **🌍 Explore** — discover new places, resources, structures, and surprises.
+- **🤝 Play together** — build, trade, cook, explore, and contribute to a shared world.
 
-Use GitHub Issues for reproducible bugs and feature suggestions. For player-to-player help, use the official Discord.
+Lunchtime aims to make everyday Minecraft activities feel rewarding without turning the experience into a stressful grind. Make a little progress, try something new, and enjoy the world with friends.
+
+## Join the community
+
+- **[Download the modpack](https://www.curseforge.com/minecraft/modpacks/lunch-but)** on CurseForge.
+- **[Join our Discord](https://discord.gg/68yhDdFpnx)** for community chat, multiplayer, support, and updates.
+- **[Support on Ko-fi](https://ko-fi.com/wtfyls)** to help fund development and server costs.
+- **[Support on Patreon](https://www.patreon.com/cw/Fierolam)** for supporter perks and updates.
+- **[Get a Lunchtime server](https://www.bisecthosting.com/Deez)** with our partner link; use code `DEEZ` for 25% off, subject to current offer terms.
+
+## Project docs
+
+| Resource | What's inside |
+|---|---|
+| [Mod List](MODLIST.md) | Gameplay mods, resource packs, shaders, and their official CurseForge pages |
+| [Changelog](CHANGELOG.md) | Release history and changes |
+| [Performance Guide](PERFORMANCE_GUIDE.md) | Client settings, memory, server performance, and troubleshooting |
+| [Release Workflow](docs/RELEASE_WORKFLOW.md) | How we prepare and publish updates |
+| [Development Notes](Lunchtime%20Cozy%20Create%20and%20Cooking%20v1.md) | Broader overhaul planning |
+| [Contributing](CONTRIBUTING.md) | Ways to suggest improvements or contribute |
+
+## Found a bug or have an idea?
+
+For reproducible bugs and feature suggestions, use [GitHub Issues](https://github.com/wtfyls/Lunchtime-Cozy-Create-Farming/issues). Include the Lunchtime version, Minecraft/Forge version, steps to reproduce, and a relevant sanitized log or crash report. Never post passwords, tokens, or private server details.
+
+For player-to-player help, join the [Discord](https://discord.gg/68yhDdFpnx).
 
 ## About this repository
 
-This repository contains Lunchtime's development documentation, mod list, changelog, performance guidance, and project notes. The official assembled modpack is distributed through CurseForge.
+This repository contains Lunchtime's development documentation, mod list, changelog, performance guidance, and project notes. The assembled modpack is distributed through [CurseForge](https://www.curseforge.com/minecraft/modpacks/lunch-but).
 
-The repository does not automatically grant permission to redistribute third-party mods, resource packs, artwork, or other assets. Each component remains subject to its author's license and permissions.
+Third-party mods, resource packs, artwork, and other assets remain subject to their authors' licenses and permissions. Please check the original project pages before redistributing anything.
 
 ## Credits
 
