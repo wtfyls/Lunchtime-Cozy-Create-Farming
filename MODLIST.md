@@ -157,16 +157,15 @@
 - [FTB Quests UI Overhaul!](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-ui-overhaul) — Gives FTB Quests a client-side visual overhaul with a vanilla-RPG-style interface while remaining compatible with existing quests. — by R2bEEaton
 - [FTB Ultimine (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) — Lets players harvest multiple blocks at once. — by FTB
 - [FTB XMod Compat](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) — Provides official integration support between FTB mods and other mods. — by FTB
-- [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) — by SuperMartijn642
-- [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) — by decce
-- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) — by MrCrayfish
-- [Golem Overhaul](https://www.curseforge.com/minecraft/mc-mods/golem-overhaul) — by joosh_7889
-- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) — by henkelmax
-- [GroovyModLoader (GML)](https://www.curseforge.com/minecraft/mc-mods/gml) — by matyrobbrt
-- [GTBC's Cataclysmic Boss UI](https://www.curseforge.com/minecraft/mc-mods/gtbcs-cataclysmic-boss-ui) — by GameTechBC
+- [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) — Lets resource packs use additional texture and model types, including connected textures. — by SuperMartijn642
+- [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) — Distributes HUD updates across multiple frames to improve performance. — by decce
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) — Adds goblins found underground that offer unique trades. — by MrCrayfish
+- [Golem Overhaul](https://www.curseforge.com/minecraft/mc-mods/golem-overhaul) — Overhauls vanilla golems. — by joosh_7889
+- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) — Places a gravestone containing the player's inventory when they die. — by henkelmax
+- [GTBC's Cataclysmic Boss UI](https://www.curseforge.com/minecraft/mc-mods/gtbcs-cataclysmic-boss-ui) — Adds a pre-fight information screen for Cataclysm bosses, with lore, mechanics, attacks, and tips. — by GameTechBC
 - [Iceberg [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg) — by Grend_G
-- [Icy's Better Horses](https://www.curseforge.com/minecraft/mc-mods/icys-better-horses) — by icywhenhot
-- [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) — by RaphiMC
+- [Icy's Better Horses](https://www.curseforge.com/minecraft/mc-mods/icys-better-horses) — Turns vanilla horses into smarter, faster, upgradeable companions. — by icywhenhot
+- [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) — Optimizes Minecraft's immediate-mode rendering. — by RaphiMC
 - [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) — by Conczin
 - [Immersive Melodies](https://www.curseforge.com/minecraft/mc-mods/immersive-melodies) — by Conczin
 - [Immersive Optimization](https://www.curseforge.com/minecraft/mc-mods/immersive-optimization) — by Conczin
