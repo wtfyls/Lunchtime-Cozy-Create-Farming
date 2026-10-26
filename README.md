@@ -54,6 +54,7 @@ Lunchtime aims to make everyday Minecraft activities feel rewarding without turn
 
 ## Join the community
 
+- **[Read the Lunchtime Guidebook](https://wtfyls.github.io/Lunchtime-Cozy-Create-Farming/)** for getting started, quests, skills, cooking, Create, multiplayer, and troubleshooting.
 - **[Download the modpack](https://www.curseforge.com/minecraft/modpacks/lunch-but)** on CurseForge.
 - **[Join our Discord](https://discord.gg/68yhDdFpnx)** for community chat, multiplayer, support, and updates.
 - **[Support on Ko-fi](https://ko-fi.com/wtfyls)** to help fund development and server costs.
@@ -71,6 +72,7 @@ Lunchtime aims to make everyday Minecraft activities feel rewarding without turn
 | [Development Notes](Lunchtime%20Cozy%20Create%20and%20Cooking%20v1.md) | Broader overhaul planning |
 | [Contributing](CONTRIBUTING.md) | Ways to suggest improvements or contribute |
 | [Issue Triage](docs/ISSUE_TRIAGE.md) | What to report, how tickets are handled, and what labels mean |
+| [Lunchtime Guidebook](https://wtfyls.github.io/Lunchtime-Cozy-Create-Farming/) | Player-focused setup, gameplay, mod list, and troubleshooting docs |
 
 ## Found a bug or have an idea?
 
