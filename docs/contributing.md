@@ -2,15 +2,6 @@
 
 Thanks for helping improve Lunchtime!
 
-## Where to report things
-
-- **A bug or broken feature:** open a GitHub Issue using the Bug report form.
-- **An idea or proposed improvement:** use the Feature request form.
-- **A gameplay question or quick player-support request:** ask in the [Lunchtime Discord](https://discord.gg/68yhDdFpnx).
-- **Private information or sensitive reports:** do not post them publicly; contact a maintainer privately.
-
-Read [Bug reports and suggestions](ISSUE_TRIAGE.md) for the ticket workflow.
-
 ## What we welcome
 
 - Reproducible bug reports and compatibility findings
@@ -18,6 +9,15 @@ Read [Bug reports and suggestions](ISSUE_TRIAGE.md) for the ticket workflow.
 - Documentation improvements
 - Tested configuration, quest, recipe, and localization fixes
 - Performance reports backed by logs or repeatable measurements
+
+## Where to report things
+
+- **A bug or broken feature:** open a GitHub Issue using the Bug report form.
+- **An idea or proposed improvement:** use the Feature request form.
+- **A gameplay question or quick player-support request:** ask in the [Lunchtime Discord](https://discord.gg/68yhDdFpnx).
+- **Private information or sensitive reports:** do not post them publicly; contact a maintainer privately.
+
+Read [Issue Triage](ISSUE_TRIAGE.md) for what happens after a ticket is submitted.
 
 ## Mod suggestions
 
