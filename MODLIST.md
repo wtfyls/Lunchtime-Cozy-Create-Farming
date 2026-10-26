@@ -55,16 +55,16 @@
 - [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) — Lets you favorite/pin/bookmark worlds so they stay at the top of the world list and are protected from deletion. — by TheIllusiveC4
 - [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes) — Adds wind chimes that create ambient sounds around a base. — by CicadaBluw
 - [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) — by terrariumearth
-- [Chunky (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge) — by pop4959
-- [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) — by Raycoms
-- [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort) — by NotRyken
+- [Chunky (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge) — Pre-generates chunks quickly and safely, useful for preparing terrain before players explore it. — by pop4959
+- [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) — Lets attacks hit enemies even when grass is in the way. — by Raycoms
+- [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort) — Adds flexible inventory-sorting tools. — by NotRyken
 - [Clockwork](https://www.curseforge.com/minecraft/mc-mods/clockwork) — by joosh_7889
-- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) — by Jaredlll08
-- [Colorful Hearts](https://www.curseforge.com/minecraft/mc-mods/colorful-hearts) — by Terrails
-- [Combat Roll [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/combat-roll) — by daedelus_dev
-- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) — by TheIllusiveC4
-- [Concurrent Chunk Management Engine - Forge](https://www.curseforge.com/minecraft/mc-mods/concurrent-chunk-management-engine-forge) — by Makki132
-- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) — by Jaredlll08
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) — Combines experience orbs into clumps to reduce entity-related lag. — by Jaredlll08
+- [Colorful Hearts](https://www.curseforge.com/minecraft/mc-mods/colorful-hearts) — Replaces multiple rows of vanilla health hearts with a single row of colored hearts. — by Terrails
+- [Combat Roll [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/combat-roll) — Adds a combat-roll ability, with related attributes and enchantments. — by daedelus_dev
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) — Adds colored sleeping bags and hammocks; sleeping bags are portable, and hammocks can turn day to night without changing the player's spawn. — by TheIllusiveC4
+- [Concurrent Chunk Management Engine - Forge](https://www.curseforge.com/minecraft/mc-mods/concurrent-chunk-management-engine-forge) — Ports C2ME from Fabric to Forge to support concurrent chunk management. — by Makki132
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) — Adds a search bar to the key-bindings menu. — by Jaredlll08
 - [Cool Rain Reforged](https://www.curseforge.com/minecraft/mc-mods/cool-rain-reforged) — by Project8gbDeRam
 - [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) — by LainMI
 - [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) — by KostromDan
