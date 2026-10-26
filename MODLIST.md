@@ -45,15 +45,15 @@
 - [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod) — Adds reacharound block placement for easier bridging, similar to Bedrock-style bridging. — by CG360
 - [Building But Better](https://www.curseforge.com/minecraft/mc-mods/building-but-better) — Expands building shapes and flexibility with additional building options. — by crispytwig
 - [Butchery](https://www.curseforge.com/minecraft/mc-mods/butchery) — Adds a more detailed butchery system for processing creatures and meat. — by jmods
-- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) — by Tschipp
-- [Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs) — by GamesOfLife
-- [Charm of Undying (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying) — by TheIllusiveC4
-- [Chat Animation [Smooth Chat]](https://www.curseforge.com/minecraft/mc-mods/chatanimation) — by ezzenix1
-- [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) — by dzwdz
-- [ChatHeads Figura Support](https://www.curseforge.com/minecraft/mc-mods/chatheads-figura-support) — by reizou00
-- [Chef's Delight [Forge] - Farmer's Delight Villagers](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge) — by redstone3game
-- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) — by TheIllusiveC4
-- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes) — by CicadaBluw
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) — Lets players pick up and carry tile entities/blocks and mobs. — by Tschipp
+- [Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs) — Allows Cataclysm's Ignited Berserkers to spawn in YUNG's Better Nether Fortresses after Ignis has been defeated. — by GamesOfLife
+- [Charm of Undying (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying) — Adds Curios/Trinkets support so the Totem of Undying can be equipped in an accessory slot instead of held. — by TheIllusiveC4
+- [Chat Animation [Smooth Chat]](https://www.curseforge.com/minecraft/mc-mods/chatanimation) — Animates chat messages as they appear. — by ezzenix1
+- [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) — Shows player heads alongside chat messages. — by dzwdz
+- [ChatHeads Figura Support](https://www.curseforge.com/minecraft/mc-mods/chatheads-figura-support) — Connects Figura avatar support with Chat Heads. — by reizou00
+- [Chef's Delight [Forge] - Farmer's Delight Villagers](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge) — Adds two villager professions as an add-on for Farmer's Delight. — by redstone3game
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) — Lets you favorite/pin/bookmark worlds so they stay at the top of the world list and are protected from deletion. — by TheIllusiveC4
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes) — Adds wind chimes that create ambient sounds around a base. — by CicadaBluw
 - [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) — by terrariumearth
 - [Chunky (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge) — by pop4959
 - [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) — by Raycoms
