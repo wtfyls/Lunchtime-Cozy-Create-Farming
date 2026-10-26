@@ -74,16 +74,16 @@
 - [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice) — Connects Create automation with Farmer's Delight food processing. — by possible_triangle
 - [Create: Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen) — Adds automated kitchen work and integration between Create and supported cooking recipes. — by DragonsPlus
 - [Create: Copycats+](https://www.curseforge.com/minecraft/mc-mods/copycats) — Adds a range of copycat blocks for Create, allowing blocks to copy the appearance of other block types. — by Lysine
-- [Create: Easy Stone Generators](https://www.curseforge.com/minecraft/mc-mods/create-stone-generators) — by robinfrt
-- [Create: Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) — by DragonsPlus
-- [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) — by IThundxr
-- [Create: Ultimate Factory](https://www.curseforge.com/minecraft/mc-mods/create-ultimate-factory) — by robinfrt
-- [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) — by joosh_7889
-- [Critters and Companions](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions) — by joosh_7889
-- [Cubes Without Borders](https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders) — by Kira_NT
-- [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) — by Baisylia
-- [Cursors Extended](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor) — by fishstiz
-- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) — by stohun
+- [Create: Easy Stone Generators](https://www.curseforge.com/minecraft/mc-mods/create-stone-generators) — Adds Create-powered, low-lag generators for cobblestone, smooth stone, obsidian, basalt, limestone, and scoria. — by robinfrt
+- [Create: Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) — Adds machinery for automating enchanting with Create. — by DragonsPlus
+- [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) — Expands Create's railway network and steam-system features. — by IThundxr
+- [Create: Ultimate Factory](https://www.curseforge.com/minecraft/mc-mods/create-ultimate-factory) — Expands Create automation with 30 additional recipes. — by robinfrt
+- [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) — Overhauls vanilla Creepers with redesigned variants. — by joosh_7889
+- [Critters and Companions](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions) — Adds new animal and creature companions to the world. — by joosh_7889
+- [Cubes Without Borders](https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders) — Lets Minecraft run in a borderless fullscreen window. — by Kira_NT
+- [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) — Adds food systems inspired by different cultures as an expansion for Farmer's Delight. — by Baisylia
+- [Cursors Extended](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor) — Adds configurable Minecraft-themed mouse cursors. — by fishstiz
+- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) — Adds extra decorative blocks for building. — by stohun
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) — by BlayTheNinth
 - [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) — by brnbrd
 - [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls) — by Fuzs
