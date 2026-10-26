@@ -35,16 +35,16 @@
 - [Better End Cities - Vanilla](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-vanilla) — Makes End Cities more intricate and adds more loot while using vanilla blocks. — by TheArchitects777
 - [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display) — Displays ping in milliseconds in the player list, with configurable presentation. — by Quintinity
 - [Better Than Mending](https://www.curseforge.com/minecraft/mc-mods/better-than-mending) — Makes a small quality-of-life change to the Mending enchantment. — by legobmw99
-- [BetterEnd: Before Dawn](https://www.curseforge.com/minecraft/mc-mods/betterend-forge) — by Raijin2312
-- [BetterNether: Before Dawn](https://www.curseforge.com/minecraft/mc-mods/betternether-forge) — by Raijin2312
-- [BiomeSpy](https://www.curseforge.com/minecraft/mc-mods/biomespy) — by MoePus
-- [Bisect Menu](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge) — by BisectHosting
-- [Boat Item View (Forge/Neoforge)](https://www.curseforge.com/minecraft/mc-mods/boat-item-view-forge) — by 50ap5ud5
-- [Bosses'Rise - Epic Souls like boss fights](https://www.curseforge.com/minecraft/mc-mods/bossesrise) — by blockfactorystudio
-- [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin) — by lumpazl
-- [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod) — by CG360
-- [Building But Better](https://www.curseforge.com/minecraft/mc-mods/building-but-better) — by crispytwig
-- [Butchery](https://www.curseforge.com/minecraft/mc-mods/butchery) — by jmods
+- [BetterEnd: Before Dawn](https://www.curseforge.com/minecraft/mc-mods/betterend-forge) — Continues BetterEnd on Forge/Fabric for Minecraft 1.20.1, with updated End content, fixes, compatibility improvements, and expanded End world generation. — by Raijin2312
+- [BetterNether: Before Dawn](https://www.curseforge.com/minecraft/mc-mods/betternether-forge) — Ports BetterNether content to Forge/Fabric 1.20.1, expanding the Nether with plants, biomes, structures, and world-generation changes. — by Raijin2312
+- [BiomeSpy](https://www.curseforge.com/minecraft/mc-mods/biomespy) — Speeds up the search algorithms used by `/locate` and Nature's Compass. — by MoePus
+- [Bisect Menu](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge) — Adds BisectHosting's server-list integration menu to the modpack. — by BisectHosting
+- [Boat Item View (Forge/Neoforge)](https://www.curseforge.com/minecraft/mc-mods/boat-item-view-forge) — Lets players see the item they are holding while rowing a boat. — by 50ap5ud5
+- [Bosses'Rise - Epic Souls like boss fights](https://www.curseforge.com/minecraft/mc-mods/bossesrise) — Adds five Souls-like boss fights, each in its own dungeon. — by blockfactorystudio
+- [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin) — Adds fermentation-themed food and drink content as an expansion for Farmer's Delight. — by lumpazl
+- [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod) — Adds reacharound block placement for easier bridging, similar to Bedrock-style bridging. — by CG360
+- [Building But Better](https://www.curseforge.com/minecraft/mc-mods/building-but-better) — Expands building shapes and flexibility with additional building options. — by crispytwig
+- [Butchery](https://www.curseforge.com/minecraft/mc-mods/butchery) — Adds a more detailed butchery system for processing creatures and meat. — by jmods
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) — by Tschipp
 - [Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs) — by GamesOfLife
 - [Charm of Undying (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying) — by TheIllusiveC4
