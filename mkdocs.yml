@@ -1,0 +1,68 @@
+site_name: Lunchtime Guidebook
+site_description: Player guides, mod list, quests, progression, and support for the Lunchtime Minecraft modpack.
+site_url: https://wtfyls.github.io/Lunchtime-Cozy-Create-Farming/
+repo_url: https://github.com/wtfyls/Lunchtime-Cozy-Create-Farming
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/food-apple
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Gameplay:
+      - Quests & Progression: quests-and-progression.md
+      - Skills & Specialization: skills.md
+      - Farming & Cooking: farming-and-cooking.md
+      - Create & Automation: create-and-automation.md
+      - Building & Decoration: building-and-decoration.md
+      - Exploration & Collecting: exploration.md
+  - Multiplayer:
+      - Servers & Team Play: multiplayer-and-servers.md
+  - Help:
+      - Troubleshooting: troubleshooting.md
+      - Performance Guide: performance.md
+      - Bug Reports & Suggestions: ISSUE_TRIAGE.md
+      - Contributing: contributing.md
+  - Reference:
+      - Mod List Overview: mod-list.md
+      - Complete Mod List: mod-list-full.md
+      - Changelog: changelog.md
