@@ -131,15 +131,15 @@
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) — Adds a cozy expansion to farming and cooking. — by vectorwing
 - [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures) — Adds structures for Farmer's Delight that showcase its mechanics and provide decorative exploration locations. — by BlackAuresArt
 - [Farsight [Forge/Neo]](https://www.curseforge.com/minecraft/mc-mods/farsight) — Lets the client see far-away chunks even when the server uses a lower view distance. — by someaddon
-- [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) — by Fallen_Breath
-- [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) — by Fuzs
-- [Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) — by zenxarch
-- [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings) — by MehVahdJukaar
+- [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) — Avoids slow reverse-DNS lookups when pinging servers specified by literal IP addresses. — by Fallen_Breath
+- [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) — Improves item-frame performance and adds options to recolor or make item frames invisible. — by Fuzs
+- [Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) — Optimizes noise generation. — by zenxarch
+- [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings) — Optimizes paintings by treating them as blocks and allows their models to be customized. — by MehVahdJukaar
 - [FastALI](https://www.curseforge.com/minecraft/mc-mods/fastali) — by Misanthropy
-- [FastBoot](https://www.curseforge.com/minecraft/mc-mods/fastboot) — by dnlayu
+- [FastBoot](https://www.curseforge.com/minecraft/mc-mods/fastboot) — Aims to reduce Minecraft's game-loading time. — by dnlayu
 - [Faster Iris Shadow Mapper](https://www.curseforge.com/minecraft/mc-mods/faster-iris-shadow-mapper) — by maDU59_
-- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) — by Shadows_of_Fire
-- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) — by Shadows_of_Fire
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) — Improves furnace performance. — by Shadows_of_Fire
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) — Improves performance of Minecraft's JSON recipe system. — by Shadows_of_Fire
 - [Fastvancements](https://www.curseforge.com/minecraft/mc-mods/fastvancements) — by Misanthropy
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) — by Shadows_of_Fire
 - [Faunify](https://www.curseforge.com/minecraft/mc-mods/faunify) — by Peppercorn
