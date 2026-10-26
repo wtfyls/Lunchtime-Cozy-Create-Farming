@@ -166,21 +166,21 @@
 - [Iceberg [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg) — by Grend_G
 - [Icy's Better Horses](https://www.curseforge.com/minecraft/mc-mods/icys-better-horses) — Turns vanilla horses into smarter, faster, upgradeable companions. — by icywhenhot
 - [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) — Optimizes Minecraft's immediate-mode rendering. — by RaphiMC
-- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) — by Conczin
-- [Immersive Melodies](https://www.curseforge.com/minecraft/mc-mods/immersive-melodies) — by Conczin
-- [Immersive Optimization](https://www.curseforge.com/minecraft/mc-mods/immersive-optimization) — by Conczin
-- [Immersive Overlays](https://www.curseforge.com/minecraft/mc-mods/immersive-overlays) — by cassiancc
-- [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) — by Conczin
-- [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui) — by SSKirillSS
+- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) — Adds customizable and upgradeable vanilla-style aircraft, from biplanes to airships. — by Conczin
+- [Immersive Melodies](https://www.curseforge.com/minecraft/mc-mods/immersive-melodies) — Lets players perform custom melodies on various instruments. — by Conczin
+- [Immersive Optimization](https://www.curseforge.com/minecraft/mc-mods/immersive-optimization) — Adds a lightweight entity-tick scheduler intended to improve server tick performance. — by Conczin
+- [Immersive Overlays](https://www.curseforge.com/minecraft/mc-mods/immersive-overlays) — Displays contextual HUD information such as coordinates and time when the required item is in the inventory. — by cassiancc
+- [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) — Lets players add their own paintings by dragging and dropping images, including in multiplayer. — by Conczin
+- [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui) — Adds animated user-interface components. — by SSKirillSS
 - [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) — by CraisinLord
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) — by CraisinLord
 - [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold) — by CraisinLord
 - [Integrated Villages](https://www.curseforge.com/minecraft/mc-mods/integrated-villages) — by CraisinLord
-- [Inventorio (Forge)](https://www.curseforge.com/minecraft/mc-mods/inventorio-forge) — by Lizard_OfOz
-- [Inventory Particles](https://www.curseforge.com/minecraft/mc-mods/inventory-particles) — by LopyTwich
+- [Inventorio (Forge)](https://www.curseforge.com/minecraft/mc-mods/inventorio-forge) — Enhances Minecraft's inventory; see the linked project page for the exact inventory changes. — by Lizard_OfOz
+- [Inventory Particles](https://www.curseforge.com/minecraft/mc-mods/inventory-particles) — Adds particles to inventory items, including support for modded items. — by LopyTwich
 - [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage) — by izofar
 - [Item Borders [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/item-borders) — by Grend_G
-- [Item Descriptions](https://www.curseforge.com/minecraft/mc-mods/item-descriptions) — by cassiancc
+- [Item Descriptions](https://www.curseforge.com/minecraft/mc-mods/item-descriptions) — Adds descriptions for blocks, items, and mobs, with support for adding modded content. — by cassiancc
 - [Item Obliterator (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) — by ElocinDev
 - [Item Restrictions](https://www.curseforge.com/minecraft/mc-mods/item-restrictions) — by DAQEM
 - [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) — by decce
