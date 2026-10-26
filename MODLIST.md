@@ -77,10 +77,8 @@ Mod names are shown **without version numbers**. Check the CurseForge files or t
 - **Create** — Adds mechanical engineering, moving contraptions, belts, gears, processing, and automation.
 - **Create EMI Compat** — Connects Create recipes and information to EMI's recipe-viewing interface.
 - **Creeper Overhaul** — Adds biome-themed Creeper variants.
-- **Cristel Lib** — Shared library required by compatible mods.
 - **Critters and Companions** — Adds additional small animals and creatures.
 - **Cultural Delights** — Adds food, crops, and recipes themed around Farmer's Delight.
-- **Curios API** — Adds accessory slots and an API for wearable charms and other curios.
 - **Cubes Without Borders** — Improves borderless/fullscreen window behavior.
 - **Decorative Blocks** — Adds building blocks and decorative details.
 - **Default Options** — Lets the pack provide default client options and settings for new installations.
@@ -157,7 +155,6 @@ Mod names are shown **without version numbers**. Check the CurseForge files or t
 - **FTB Chunks** — Adds map-based chunk claiming and chunk/team management.
 - **FTB Essentials** — Adds common server utility commands and administration conveniences.
 - **FTB Filter System** — Adds filter/search support used by FTB integrations.
-- **FTB Library** — Shared library for FTB mods.
 - **FTB Quests** — Adds the quest book, objectives, rewards, and progression tasks.
 - **FTB Quests UI Overhaul** — Changes the appearance/layout of the FTB Quests interface.
 - **FTB Teams** — Provides team/group functionality for FTB mods.
@@ -275,7 +272,6 @@ Mod names are shown **without version numbers**. Check the CurseForge files or t
 - **Small Ships** — Adds larger boats/ships for water travel.
 - **Sodium Dynamic Lights** — Adds dynamic lighting from supported held items or light sources.
 - **Sodium Extras** — Adds extra rendering and video options to the compatible Sodium-style rendering setup.
-- **Sodium Options API** — Shared options/API component for compatible Sodium-style rendering mods.
 - **Spice of Life: Carrot Edition** — Rewards food variety and changes food/health progression based on eating different foods.
 - **Sophisticated Backpacks** — Adds upgradeable backpacks with storage and utility upgrades.
 - **Sound Physics Remastered** — Adds acoustic effects such as sound occlusion and reverberation.
