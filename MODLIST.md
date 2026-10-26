@@ -141,14 +141,14 @@
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) — Improves furnace performance. — by Shadows_of_Fire
 - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) — Improves performance of Minecraft's JSON recipe system. — by Shadows_of_Fire
 - [Fastvancements](https://www.curseforge.com/minecraft/mc-mods/fastvancements) — by Misanthropy
-- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) — by Shadows_of_Fire
-- [Faunify](https://www.curseforge.com/minecraft/mc-mods/faunify) — by Peppercorn
-- [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler) — by Corgi_Taco
-- [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore) — by malte0811
-- [Field Guide](https://www.curseforge.com/minecraft/mc-mods/field-guide) — by evanbones
-- [Figura](https://www.curseforge.com/minecraft/mc-mods/figura) — by skyrina
-- [Fisherman's Trap [Neo/Fabric]](https://www.curseforge.com/minecraft/mc-mods/fishermans-trap) — by TooManyKitKats
-- [Forge Config Screens [Archived]](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge) — by Fuzs
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) — Improves crafting-table performance. — by Shadows_of_Fire
+- [Faunify](https://www.curseforge.com/minecraft/mc-mods/faunify) — Adds wild animals and pets. — by Peppercorn
+- [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler) — Prevents crashes between world-generation mods caused by Minecraft's Feature Cycler. — by Corgi_Taco
+- [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore) — Applies memory-usage optimizations. — by malte0811
+- [Field Guide](https://www.curseforge.com/minecraft/mc-mods/field-guide) — Lets players discover plants, animals, and monsters with a spyglass and record notes in a personal field guide. — by evanbones
+- [Figura](https://www.curseforge.com/minecraft/mc-mods/figura) — Allows extensive client-side customization of the player model. — by skyrina
+- [Fisherman's Trap [Neo/Fabric]](https://www.curseforge.com/minecraft/mc-mods/fishermans-trap) — Adds a fish trap that passively collects fish. — by TooManyKitKats
+- [Forge Config Screens [Archived]](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge) — Lets players configure supported Forge settings in-game through a configuration screen. — by Fuzs
 - [FTB Chunks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) — by FTB
 - [FTB Chunks x Xaero's Compat](https://www.curseforge.com/minecraft/mc-mods/ftbxaerocompat) — by Satherov
 - [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) — by FTB
