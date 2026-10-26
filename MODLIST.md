@@ -65,15 +65,15 @@
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) — Adds colored sleeping bags and hammocks; sleeping bags are portable, and hammocks can turn day to night without changing the player's spawn. — by TheIllusiveC4
 - [Concurrent Chunk Management Engine - Forge](https://www.curseforge.com/minecraft/mc-mods/concurrent-chunk-management-engine-forge) — Ports C2ME from Fabric to Forge to support concurrent chunk management. — by Makki132
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) — Adds a search bar to the key-bindings menu. — by Jaredlll08
-- [Cool Rain Reforged](https://www.curseforge.com/minecraft/mc-mods/cool-rain-reforged) — by Project8gbDeRam
-- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) — by LainMI
-- [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) — by KostromDan
-- [Create](https://www.curseforge.com/minecraft/mc-mods/create) — by simibubi
-- [Create : Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things) — by To0pa
-- [Create EMI Compat](https://www.curseforge.com/minecraft/mc-mods/create-emi-compat) — by Amigo1742
-- [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice) — by possible_triangle
-- [Create: Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen) — by DragonsPlus
-- [Create: Copycats+](https://www.curseforge.com/minecraft/mc-mods/copycats) — by Lysine
+- [Cool Rain Reforged](https://www.curseforge.com/minecraft/mc-mods/cool-rain-reforged) — Adds ambient sounds to certain blocks while it is raining. — by Project8gbDeRam
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) — Lets players wear one armor set for appearance and another for its actual stats. — by LainMI
+- [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) — Opens a GUI after a crash to display and analyze relevant logs. — by KostromDan
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) — Adds mechanical engineering and automation tools for building moving contraptions and machines. — by simibubi
+- [Create : Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things) — Adds assorted utility and decorative content for Create builds. — by To0pa
+- [Create EMI Compat](https://www.curseforge.com/minecraft/mc-mods/create-emi-compat) — Provides compatibility between Create recipes and the EMI recipe viewer. — by Amigo1742
+- [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice) — Connects Create automation with Farmer's Delight food processing. — by possible_triangle
+- [Create: Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen) — Adds automated kitchen work and integration between Create and supported cooking recipes. — by DragonsPlus
+- [Create: Copycats+](https://www.curseforge.com/minecraft/mc-mods/copycats) — Adds a range of copycat blocks for Create, allowing blocks to copy the appearance of other block types. — by Lysine
 - [Create: Easy Stone Generators](https://www.curseforge.com/minecraft/mc-mods/create-stone-generators) — by robinfrt
 - [Create: Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) — by DragonsPlus
 - [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) — by IThundxr
