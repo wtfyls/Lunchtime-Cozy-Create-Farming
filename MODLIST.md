@@ -52,7 +52,7 @@
 - [Chef's Delight [Forge] - Farmer's Delight Villagers](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge) — Adds two villager professions as an add-on for Farmer's Delight. — by redstone3game
 - [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) — Lets you favorite/pin/bookmark worlds so they stay at the top of the world list and are protected from deletion. — by TheIllusiveC4
 - [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes) — Adds wind chimes that create ambient sounds around a base. — by CicadaBluw
-- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) — by terrariumearth
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) — Adds a large selection of decorative block variants, expanding building options. — by terrariumearth
 - [Chunky (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge) — Pre-generates chunks quickly and safely, useful for preparing terrain before players explore it. — by pop4959
 - [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) — Lets attacks hit enemies even when grass is in the way. — by Raycoms
 - [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort) — Adds flexible inventory-sorting tools. — by NotRyken
@@ -172,7 +172,7 @@
 - [Integrated Villages](https://www.curseforge.com/minecraft/mc-mods/integrated-villages) — Overhauls Minecraft villages with mod integrations. — by CraisinLord
 - [Inventorio (Forge)](https://www.curseforge.com/minecraft/mc-mods/inventorio-forge) — Enhances Minecraft's inventory; see the linked project page for the exact inventory changes. — by Lizard_OfOz
 - [Inventory Particles](https://www.curseforge.com/minecraft/mc-mods/inventory-particles) — Adds particles to inventory items, including support for modded items. — by LopyTwich
-- [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage) — by izofar
+- [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage) — Expands pillager-themed gameplay with additional illager encounters and content. — by izofar
 - [Item Borders [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/item-borders) — Adds colored borders to inventory slots to make rare items stand out. — by Grend_G
 - [Item Descriptions](https://www.curseforge.com/minecraft/mc-mods/item-descriptions) — Adds descriptions for blocks, items, and mobs, with support for adding modded content. — by cassiancc
 - [Item Obliterator (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) — Lets pack makers configure items, recipes, trades, creative tabs, and recipe-viewer entries to be disabled. — by ElocinDev
@@ -199,103 +199,103 @@
 - [LanguageReloadUnofficial](https://www.curseforge.com/minecraft/mc-mods/languagereloadunofficial) — by kaguya154
 - [Legendary Tooltips [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) — Gives rare items fancier tooltips and adds tooltip configuration options. — by Grend_G
 - [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) — Improves performance by tweaking mob despawn rules. — by frikinjay
-- [Longer Chat History [Forge/NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/longer-chat-history) — by TheOriginalGolem
-- [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations) — by someaddon
-- [Loot Integrations: Integrated Dungeons, Villages & Strongholds & Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-integrated-dungeons-villages) — by someaddon
-- [Loot Integrations: L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm) — by someaddon
-- [Loot Integrations: Randomized Loot Compatibility](https://www.curseforge.com/minecraft/mc-mods/vanilla-loot-addon-for-loot-integrations) — by someaddon
+- [Longer Chat History [Forge/NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/longer-chat-history) — Keeps more messages available in the chat history. — by TheOriginalGolem
+- [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations) — Adds loot-table integrations so supported modded content can use compatible loot. — by someaddon
+- [Loot Integrations: Integrated Dungeons, Villages & Strongholds & Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-integrated-dungeons-villages) — Adds loot integration for supported Integrated Dungeons, Villages, Strongholds, and Cataclysm content. — by someaddon
+- [Loot Integrations: L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm) — Adds loot integration for L_Ender's Cataclysm content. — by someaddon
+- [Loot Integrations: Randomized Loot Compatibility](https://www.curseforge.com/minecraft/mc-mods/vanilla-loot-addon-for-loot-integrations) — Adds randomized-loot compatibility for the Loot Integrations system. — by someaddon
 - [Lootr (Forge & NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lootr) — Makes loot containers instanced per player, so each player can receive their own loot. — by Noobanidus
 - [Lucky's Cozy Home: Stone & Waterworks Update](https://www.curseforge.com/minecraft/mc-mods/cozy-home) — by LuckyOwl
-- [Luki's Woodland Mansions](https://www.curseforge.com/minecraft/mc-mods/lukis-woodland-mansions) — by lukidon
+- [Luki's Woodland Mansions](https://www.curseforge.com/minecraft/mc-mods/lukis-woodland-mansions) — Adds new woodland mansion structure content. — by lukidon
 - [Magnum Torch](https://www.curseforge.com/minecraft/mc-mods/magnum-torch) — Adds powerful torches that prevent mob spawns around a home over a large area. — by Fuzs
-- [MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) — by finndog_123
+- [MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) — Adds structures to the End dimension. — by finndog_123
 - [Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail) — Adds a mailing system for a Minecraft world. — by MrCrayfish
-- [MMR - Moog's Mineshafts Reimagined](https://www.curseforge.com/minecraft/mc-mods/mmr-moogs-mineshafts-reimagined) — by finndog_123
+- [MMR - Moog's Mineshafts Reimagined](https://www.curseforge.com/minecraft/mc-mods/mmr-moogs-mineshafts-reimagined) — Reworks mineshafts with more varied designs. — by finndog_123
 - [Mobtimizations - Entity Performance Fixes](https://www.curseforge.com/minecraft/mc-mods/mobtimizations) — Optimizes tasks that entity AI performs wastefully, with minimal gameplay impact. — by Corosus
 - [Mod Menu (Forge)](https://www.curseforge.com/minecraft/mc-mods/mod-menu-forge-by-bogdan-tokarev) — by Bogdan_Tokarev
-- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) — by MehVahdJukaar
-- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) — by embeddedt
-- [More Culling Reforged](https://www.curseforge.com/minecraft/mc-mods/more-culling-reforged) — by MikihinaSann
-- [More Mob Variants](https://www.curseforge.com/minecraft/mc-mods/more-mob-variants) — by nyuppo
-- [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers) — by SameDifferent
-- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) — by YaLTeR
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) — Fixes visible gaps that can appear between some block models. — by MehVahdJukaar
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) — Combines performance improvements, memory optimizations, and bug fixes. — by embeddedt
+- [More Culling Reforged](https://www.curseforge.com/minecraft/mc-mods/more-culling-reforged) — Reduces rendering work by culling supported objects that are not visible. — by MikihinaSann
+- [More Mob Variants](https://www.curseforge.com/minecraft/mc-mods/more-mob-variants) — Adds additional visual variants for mobs. — by nyuppo
+- [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers) — Adds more villager professions and associated trades. — by SameDifferent
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) — Improves mouse-based item movement and inventory interactions. — by YaLTeR
 - [MTR - Moog's Temples Reimagined](https://www.curseforge.com/minecraft/mc-mods/mtr-moogs-temples-reimagined) — by finndog_123
-- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) — by Chaosyr
-- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) — by BlayTheNinth
-- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) — by Aizistral
-- [No Chat Restrictions](https://www.curseforge.com/minecraft/mc-mods/no-chat-restrictions) — by Aizistral
-- [No Structure Overlap](https://www.curseforge.com/minecraft/mc-mods/no-structure-overlap) — by ankin
-- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) — by tr7zw
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) — Adds a compass that helps locate biomes. — by Chaosyr
+- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) — Fixes Nether portal linking so travel connects to the expected portal locations. — by BlayTheNinth
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) — Disables chat-signing/reporting behavior introduced by newer Minecraft versions. — by Aizistral
+- [No Chat Restrictions](https://www.curseforge.com/minecraft/mc-mods/no-chat-restrictions) — Removes selected vanilla chat restrictions. — by Aizistral
+- [No Structure Overlap](https://www.curseforge.com/minecraft/mc-mods/no-structure-overlap) — Helps prevent generated structures from overlapping. — by ankin
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) — Adds more player animations, including visible first-person actions when seen by others. — by tr7zw
 - [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) — by SSKirillSS
 - [Oceanic Realms](https://www.curseforge.com/minecraft/mc-mods/oceanic-realms) — by leomard0_o
-- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) — by Asek3
-- [Online Emotes](https://www.curseforge.com/minecraft/mc-mods/online-emotes) — by dima_dencep
-- [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) — by TonimatasDEV
-- [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged) — by Project8gbDeRam
-- [PatPat [Mod]](https://www.curseforge.com/minecraft/mc-mods/patpat) — by LopyTwich
-- [Plushie Buddies](https://www.curseforge.com/minecraft/mc-mods/plushie-buddies) — by subthy
-- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) — by TheIllusiveC4
-- [Presence Footsteps (Forge)](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) — by Paint_Ninja
-- [Punchy! - First person animations](https://www.curseforge.com/minecraft/mc-mods/punchy) — by DevPunchyMan
-- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) — by Vazkii
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) — Adds shader-pack support for compatible Forge rendering setups. — by Asek3
+- [Online Emotes](https://www.curseforge.com/minecraft/mc-mods/online-emotes) — Adds online emote functionality for players. — by dima_dencep
+- [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) — Helps prevent connection issues caused by oversized network packets. — by TonimatasDEV
+- [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged) — Adds visual particle effects to various game events. — by Project8gbDeRam
+- [PatPat [Mod]](https://www.curseforge.com/minecraft/mc-mods/patpat) — Adds a petting interaction for compatible animals. — by LopyTwich
+- [Plushie Buddies](https://www.curseforge.com/minecraft/mc-mods/plushie-buddies) — Adds plushie collectibles and decorations. — by subthy
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) — Lets players choose between outputs when multiple recipes match the same ingredients. — by TheIllusiveC4
+- [Presence Footsteps (Forge)](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) — Adds contextual footstep sounds for a more immersive audio experience. — by Paint_Ninja
+- [Punchy! - First person animations](https://www.curseforge.com/minecraft/mc-mods/punchy) — Adds first-person animations. — by DevPunchyMan
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) — Adds a broad collection of configurable vanilla-style improvements, blocks, and small gameplay features. — by Vazkii
 - [quick pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack) — by drexhd
 - [Radiant Gear (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/radiant-gear) — by TheIllusiveC4
-- [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) — by Asek3
-- [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored) — by Apollo
-- [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) — by SSKirillSS
-- [Relics: Alex's Mobs Compat](https://www.curseforge.com/minecraft/mc-mods/ram-compat) — by SSKirillSS
+- [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) — Adds game-logic performance optimizations. — by Asek3
+- [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored) — Adds a wide variety of biomes and related world-generation content. — by Apollo
+- [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) — Adds powerful relic items that can be discovered and equipped. — by SSKirillSS
+- [Relics: Alex's Mobs Compat](https://www.curseforge.com/minecraft/mc-mods/ram-compat) — Adds compatibility between Relics and Alex's Mobs. — by SSKirillSS
 - [Resource Pack Overrides](https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides) — by Fuzs
-- [Ribbits](https://www.curseforge.com/minecraft/mc-mods/ribbits) — by joosh_7889
-- [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) — by jamalam360
-- [River Redux](https://www.curseforge.com/minecraft/mc-mods/river-redux) — by Jasmine
+- [Ribbits](https://www.curseforge.com/minecraft/mc-mods/ribbits) — Adds frog-like villagers and related village content. — by joosh_7889
+- [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) — Lets players harvest supported crops by right-clicking, often replanting them automatically. — by jamalam360
+- [River Redux](https://www.curseforge.com/minecraft/mc-mods/river-redux) — Changes river generation to create more varied rivers. — by Jasmine
 - [Scholar](https://www.curseforge.com/minecraft/mc-mods/scholar) — by mortuusars
-- [Shoppy - Player Maintained Shops](https://www.curseforge.com/minecraft/mc-mods/shoppy) — by thethonk
-- [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) — by _ForgeUser21552638
-- [Simple Ice Creams](https://www.curseforge.com/minecraft/mc-mods/simple-ice-cream) — by DariusZeBaguette
-- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) — by henkelmax
-- [Simply Swords [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/simply-swords) — by sweenuss
+- [Shoppy - Player Maintained Shops](https://www.curseforge.com/minecraft/mc-mods/shoppy) — Adds player-maintained shops for trading in multiplayer. — by thethonk
+- [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) — Changes the third-person camera to an over-the-shoulder view. — by _ForgeUser21552638
+- [Simple Ice Creams](https://www.curseforge.com/minecraft/mc-mods/simple-ice-cream) — Adds ice-cream foods and related recipes. — by DariusZeBaguette
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) — Adds proximity-based voice chat for multiplayer. — by henkelmax
+- [Simply Swords [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/simply-swords) — Adds a large selection of swords and other melee weapons. — by sweenuss
 - [Simply Tooltips](https://www.curseforge.com/minecraft/mc-mods/simply-tooltips) — by sweenuss
-- [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) — by Su5eD
-- [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) — by bl4ckscor3
-- [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) — by tr7zw
-- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) — by talhanation
-- [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) — by Txni
-- [Sodium/Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) — by Txni
-- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) — by P3pp3rF1y
-- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) — by henkelmax
-- [spark](https://www.curseforge.com/minecraft/mc-mods/spark) — by Iucko
-- [Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures) — by Maxence
-- [Spelunkery](https://www.curseforge.com/minecraft/mc-mods/spelunkery) — by OrdanaryMods
-- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) — by lordcazsius
+- [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) — Lets selected Fabric mods run on Forge through a compatibility layer. — by Su5eD
+- [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) — Lets players sit on supported blocks. — by bl4ckscor3
+- [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) — Renders outer player-skin layers as 3D geometry. — by tr7zw
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) — Adds larger ships for water travel. — by talhanation
+- [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) — Adds dynamic lighting from supported items and light sources. — by Txni
+- [Sodium/Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) — Adds extra video and rendering options for the Sodium/Embeddium-style rendering setup. — by Txni
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) — Adds upgradeable backpacks with storage and utility upgrades. — by P3pp3rF1y
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) — Adds sound occlusion and reverberation effects based on the surrounding environment. — by henkelmax
+- [spark](https://www.curseforge.com/minecraft/mc-mods/spark) — Provides profiling tools for diagnosing server tick, CPU, and memory-performance issues. — by Iucko
+- [Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures) — Controls structure frequency to reduce overcrowded world generation. — by Maxence
+- [Spelunkery](https://www.curseforge.com/minecraft/mc-mods/spelunkery) — Expands underground exploration and mining with additional cave-related content. — by OrdanaryMods
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) — Encourages players to eat a wider variety of foods. — by lordcazsius
 - [Starcatcher](https://www.curseforge.com/minecraft/mc-mods/starcatcher) — by wdiscute
 - [Starcatcher's Delight - Let's Do: Kaleidoscope edition](https://www.curseforge.com/minecraft/mc-mods/starcatchers-delight) — by wdiscute
-- [Stony Cliffs Are Cool](https://www.curseforge.com/minecraft/mc-mods/stony-cliffs-are-cool) — by bebebea_loste
-- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) — by Texelsaur
-- [Streams Reflowing](https://www.curseforge.com/minecraft/mc-mods/streams-reflowing) — by NiceJohn
-- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory) — by botanydev
-- [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer) — by telepathicgrunt
-- [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) — by MincraftEinstein
-- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) — by MehVahdJukaar
-- [TACT - Tiny Alex's Caves Tweaks](https://www.curseforge.com/minecraft/mc-mods/tact) — by telepathicgrunt
-- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) — by DarkhaxDev
+- [Stony Cliffs Are Cool](https://www.curseforge.com/minecraft/mc-mods/stony-cliffs-are-cool) — Adds or improves stony cliff terrain features. — by bebebea_loste
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) — Adds compact drawers designed for bulk item storage. — by Texelsaur
+- [Streams Reflowing](https://www.curseforge.com/minecraft/mc-mods/streams-reflowing) — Adds or reworks natural streams in world generation. — by NiceJohn
+- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory) — Adds additional structures to explore in the world. — by botanydev
+- [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer) — Optimizes structure placement and layout during world generation. — by telepathicgrunt
+- [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) — Adds small ambient visual effects. — by MincraftEinstein
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) — Adds vanilla-style decorative and functional blocks, gadgets, and world interactions. — by MehVahdJukaar
+- [TACT - Tiny Alex's Caves Tweaks](https://www.curseforge.com/minecraft/mc-mods/tact) — Adds small tweaks for Alex's Caves. — by telepathicgrunt
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) — Displays useful tips during loading screens. — by DarkhaxDev
 - [TMRV Updated](https://www.curseforge.com/minecraft/mc-mods/tmrv-updated) — by TysonTheEmber
-- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) — by Shadows_of_Fire
-- [Too Many Bows](https://www.curseforge.com/minecraft/mc-mods/too-many-bows) — by Bandit_Bytes
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) — Lets players control or suppress selected toast notifications. — by Shadows_of_Fire
+- [Too Many Bows](https://www.curseforge.com/minecraft/mc-mods/too-many-bows) — Adds extra bows and ranged weapon options. — by Bandit_Bytes
 - [Touch'n Motion](https://www.curseforge.com/minecraft/mc-mods/touch-and-motion) — by stradat
-- [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling) — by henkelmax
-- [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) — by Serilum
-- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) — by Fuzs
-- [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) — by Project8gbDeRam
-- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) — by BlayTheNinth
-- [wd's Selling Bin](https://www.curseforge.com/minecraft/mc-mods/wds-selling-bin) — by wdiscute
-- [Welcome Screen (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/welcome-screen) — by ElocinDev
-- [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) — by Corosus
-- [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) — by alexander9892
-- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) — by xaero96
-- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) — by xaero96
-- [YUNG's Better End Island (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island) — by YUNGNICKYOUNG
-- [YUNG's Better Nether Fortresses (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses) — by YUNGNICKYOUNG
-- [YUNG's Cave Biomes (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes) — by YUNGNICKYOUNG
+- [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling) — Makes cycling or rerolling villager trades more convenient. — by henkelmax
+- [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) — Gives villagers generated names. — by Serilum
+- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) — Shows crafting ingredients inside the workbench and preserves the crafting display. — by Fuzs
+- [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) — Adds water wake and splash effects behind moving entities. — by Project8gbDeRam
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) — Adds waystones for travelling between discovered locations. — by BlayTheNinth
+- [wd's Selling Bin](https://www.curseforge.com/minecraft/mc-mods/wds-selling-bin) — Adds a selling-bin block for selling eligible items. — by wdiscute
+- [Welcome Screen (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/welcome-screen) — Adds a custom welcome screen for the modpack. — by ElocinDev
+- [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) — Adds visual indicators of what certain entities are currently doing. — by Corosus
+- [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) — Adds a configurable zoom feature. — by alexander9892
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) — Adds a minimap with waypoints. — by xaero96
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) — Adds a full-screen world map and waypoint management. — by xaero96
+- [YUNG's Better End Island (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island) — Reworks the central End Island. — by YUNGNICKYOUNG
+- [YUNG's Better Nether Fortresses (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses) — Reworks Nether Fortress structures. — by YUNGNICKYOUNG
+- [YUNG's Cave Biomes (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes) — Adds biome variety to caves. — by YUNGNICKYOUNG
 
 ## Resource Packs (23)
 
