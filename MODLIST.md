@@ -4,7 +4,6 @@
 - [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) — OptiFine-format custom entity models for supported resource packs. — by Traben
 - [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) — Custom, emissive, and varied mob textures, plus player-skin features. — by Traben
 - [[Let's Do Addon] EMI Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-emi-compat) — Adds EMI recipe-viewer compatibility for the Let's Do mod series. — by pandaismyname1
-- [[Let's Do] API](https://www.curseforge.com/minecraft/mc-mods/do-api) — by Cristelknight
 - [[Let's Do] Bakery - Farm&Charm Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) — Adds edible and placeable bread, cupcakes, and cakes, with compatibility for Let's Do: Farm & Charm. — by satisfy
 - [[Let's Do] Beachparty](https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty) — Overhauls Minecraft's beach biome with new beach-themed content. — by satisfy
 - [[Let's Do] Farm & Charm](https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-charm) — Expands farming and farmhouse cooking with mincers, cooking pots, new grains, and fruit varieties. — by satisfy
@@ -18,7 +17,6 @@
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) — Adds 85+ new mobs with a style designed to fit Minecraft. — by sbom_xela
 - [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) — Fixes memory leaks in selected mods, Minecraft, and NeoForge while upstream fixes are pending. — by Uncandango
 - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) — Provides an efficient, non-locational implementation of redstone dust. — by SpaceWalkerRS
-- [Amber Lib](https://www.curseforge.com/minecraft/mc-mods/amber-lib) — by iamkaf
 - [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) — Adds atmospheric environmental audio; see the project's page for sound examples and configuration. — by CreativeMD
 - [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) — Adds block interactions and variants such as potion mixing in cauldrons, animated lanterns, carpeted stairs, candle skulls, double cakes, and improved lily pads. — by plantspookable
 - [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture) — Adds furniture blocks and decorative pieces for building and interior design. — by crispytwig
@@ -186,40 +184,37 @@
 - [Jobs+ Tools](https://www.curseforge.com/minecraft/mc-mods/jobsplustools) — Adds tools for the Jobs in Jobs+. — by DAQEM
 - [Jumpy Boats](https://www.curseforge.com/minecraft/mc-mods/jumpy-boats) — Lets boats make small jumps to make travel easier. — by LobsterJonn
 - [Kaleidoscope Chinese Food](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-chinese-food) — Adds more Chinese dishes to Kaleidoscope Cookery. — by ChenjdyUltra
-- [Kaleidoscope Compat](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-compat) — by BmtUltra
+- [Kaleidoscope Compat](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-compat) — Provides compatibility for the Kaleidoscope mod family. — by BmtUltra
 - [Kaleidoscope Cookery](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-cookery) — Adds immersive cooking and planting. — by YSBB
-- [Kaleidoscope End](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-end) — by BmtUltra
-- [Kaleidoscope Grilling](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-grilling) — by breezeth
-- [Kaleidoscope Nether](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-nether) — by BmtUltra
-- [Kaleidoscope Tavern](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-tavern) — by TartaricAcid
-- [Kaleidoscope World Liquor](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-world-liquor) — by ChenjdyUltra
-- [Kaleidoscope: Immersive Eating](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-immersive-eating) — by MemoryToame
+- [Kaleidoscope End](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-end) — Adds End-themed content to Kaleidoscope Cookery. — by BmtUltra
+- [Kaleidoscope Grilling](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-grilling) — Adds charcoal grilling to give meals a warm, smoky character. — by breezeth
+- [Kaleidoscope Nether](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-nether) — Adds Nether-themed content to Kaleidoscope Cookery. — by BmtUltra
+- [Kaleidoscope Tavern](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-tavern) — Adds tavern-themed content, including a brewing system and decorative blocks. — by TartaricAcid
+- [Kaleidoscope World Liquor](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-world-liquor) — Adds more alcoholic drinks for Kaleidoscope Tavern. — by ChenjdyUltra
+- [Kaleidoscope: Immersive Eating](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-immersive-eating) — Adds new eating animations and supports custom animations for items. — by MemoryToame
 - [Kaleidoscope：Dimensions wine](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-dimensions-wine) — by wither_redstone
-- [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete) — by Keksuccino
-- [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) — by VidTu
-- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) — by Lat
+- [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) — Speeds up world loading by removing unneeded chunks. — by VidTu
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) — Lets pack makers edit recipes, add custom items, and script world events using JavaScript. — by Lat
 - [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) — by mcl_ender
 - [LanguageReloadUnofficial](https://www.curseforge.com/minecraft/mc-mods/languagereloadunofficial) — by kaguya154
-- [Legendary Tooltips [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) — by Grend_G
-- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) — by frikinjay
+- [Legendary Tooltips [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) — Gives rare items fancier tooltips and adds tooltip configuration options. — by Grend_G
+- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) — Improves performance by tweaking mob despawn rules. — by frikinjay
 - [Longer Chat History [Forge/NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/longer-chat-history) — by TheOriginalGolem
 - [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations) — by someaddon
 - [Loot Integrations: Integrated Dungeons, Villages & Strongholds & Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-integrated-dungeons-villages) — by someaddon
 - [Loot Integrations: L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm) — by someaddon
 - [Loot Integrations: Randomized Loot Compatibility](https://www.curseforge.com/minecraft/mc-mods/vanilla-loot-addon-for-loot-integrations) — by someaddon
-- [Lootr (Forge & NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lootr) — by Noobanidus
+- [Lootr (Forge & NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lootr) — Makes loot containers instanced per player, so each player can receive their own loot. — by Noobanidus
 - [Lucky's Cozy Home: Stone & Waterworks Update](https://www.curseforge.com/minecraft/mc-mods/cozy-home) — by LuckyOwl
 - [Luki's Woodland Mansions](https://www.curseforge.com/minecraft/mc-mods/lukis-woodland-mansions) — by lukidon
-- [Magnum Torch](https://www.curseforge.com/minecraft/mc-mods/magnum-torch) — by Fuzs
+- [Magnum Torch](https://www.curseforge.com/minecraft/mc-mods/magnum-torch) — Adds powerful torches that prevent mob spawns around a home over a large area. — by Fuzs
 - [MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) — by finndog_123
-- [MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig) — by mezz
-- [Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail) — by MrCrayfish
+- [Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail) — Adds a mailing system for a Minecraft world. — by MrCrayfish
 - [MMR - Moog's Mineshafts Reimagined](https://www.curseforge.com/minecraft/mc-mods/mmr-moogs-mineshafts-reimagined) — by finndog_123
-- [Mobtimizations - Entity Performance Fixes](https://www.curseforge.com/minecraft/mc-mods/mobtimizations) — by Corosus
+- [Mobtimizations - Entity Performance Fixes](https://www.curseforge.com/minecraft/mc-mods/mobtimizations) — Optimizes tasks that entity AI performs wastefully, with minimal gameplay impact. — by Corosus
 - [Mod Menu (Forge)](https://www.curseforge.com/minecraft/mc-mods/mod-menu-forge-by-bogdan-tokarev) — by Bogdan_Tokarev
 - [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) — by MehVahdJukaar
 - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) — by embeddedt
-- [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) — by MehVahdJukaar
 - [More Culling Reforged](https://www.curseforge.com/minecraft/mc-mods/more-culling-reforged) — by MikihinaSann
 - [More Mob Variants](https://www.curseforge.com/minecraft/mc-mods/more-mob-variants) — by nyuppo
 - [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers) — by SameDifferent
@@ -242,7 +237,6 @@
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) — by TheIllusiveC4
 - [Presence Footsteps (Forge)](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) — by Paint_Ninja
 - [Punchy! - First person animations](https://www.curseforge.com/minecraft/mc-mods/punchy) — by DevPunchyMan
-- [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) — by Fuzs
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) — by Vazkii
 - [quick pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack) — by drexhd
 - [Radiant Gear (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/radiant-gear) — by TheIllusiveC4
@@ -289,7 +283,6 @@
 - [Too Many Bows](https://www.curseforge.com/minecraft/mc-mods/too-many-bows) — by Bandit_Bytes
 - [Touch'n Motion](https://www.curseforge.com/minecraft/mc-mods/touch-and-motion) — by stradat
 - [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling) — by henkelmax
-- [UI Lib](https://www.curseforge.com/minecraft/mc-mods/ui) — by DAQEM
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) — by Serilum
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) — by Fuzs
 - [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) — by Project8gbDeRam
@@ -300,7 +293,6 @@
 - [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) — by alexander9892
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) — by xaero96
 - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) — by xaero96
-- [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl) — by isXander
 - [YUNG's Better End Island (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island) — by YUNGNICKYOUNG
 - [YUNG's Better Nether Fortresses (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses) — by YUNGNICKYOUNG
 - [YUNG's Cave Biomes (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes) — by YUNGNICKYOUNG
