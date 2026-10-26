@@ -1,17 +1,5 @@
 # Lunchtime Mod List
 
-**Minecraft:** 1.20.1  
-**Loader:** Forge
-
-This page uses the linked CurseForge projects from the HTML list provided for Lunchtime. Project names and author credits are preserved from that source, with version numbers omitted.
-
-I have **not guessed descriptions**. Each item links directly to its CurseForge project page, where the author’s own description, supported versions, and requirements are available.
-
-Standalone library/API-only dependencies are intentionally omitted from this player-facing list, as requested. **That does not mean they should be deleted from the modpack**; required dependencies must remain installed for the mods that use them.
-
-The supplied HTML contains **402 linked projects**: 377 mod pages, 23 resource packs, and 2 shader pages. After omitting library/API-only entries, the sections below contain 310 mods, 23 resource packs, and 2 shaders.
-
-## Mods (310)
 
 - [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) — by Traben
 - [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) — by Traben
