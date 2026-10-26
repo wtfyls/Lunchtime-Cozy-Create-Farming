@@ -173,19 +173,19 @@
 - [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) — Lets players add their own paintings by dragging and dropping images, including in multiplayer. — by Conczin
 - [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui) — Adds animated user-interface components. — by SSKirillSS
 - [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) — by CraisinLord
-- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) — by CraisinLord
-- [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold) — by CraisinLord
-- [Integrated Villages](https://www.curseforge.com/minecraft/mc-mods/integrated-villages) — by CraisinLord
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) — Adds detailed structures using content from mods such as Quark, Supplementaries, Alex's Mobs, and Create. — by CraisinLord
+- [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold) — Replaces the vanilla stronghold with a detailed dungeon built using blocks from mods such as Create, Quark, and Supplementaries. — by CraisinLord
+- [Integrated Villages](https://www.curseforge.com/minecraft/mc-mods/integrated-villages) — Overhauls Minecraft villages with mod integrations. — by CraisinLord
 - [Inventorio (Forge)](https://www.curseforge.com/minecraft/mc-mods/inventorio-forge) — Enhances Minecraft's inventory; see the linked project page for the exact inventory changes. — by Lizard_OfOz
 - [Inventory Particles](https://www.curseforge.com/minecraft/mc-mods/inventory-particles) — Adds particles to inventory items, including support for modded items. — by LopyTwich
 - [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage) — by izofar
-- [Item Borders [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/item-borders) — by Grend_G
+- [Item Borders [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/item-borders) — Adds colored borders to inventory slots to make rare items stand out. — by Grend_G
 - [Item Descriptions](https://www.curseforge.com/minecraft/mc-mods/item-descriptions) — Adds descriptions for blocks, items, and mobs, with support for adding modded content. — by cassiancc
-- [Item Obliterator (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) — by ElocinDev
+- [Item Obliterator (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) — Lets pack makers configure items, recipes, trades, creative tabs, and recipe-viewer entries to be disabled. — by ElocinDev
 - [Item Restrictions](https://www.curseforge.com/minecraft/mc-mods/item-restrictions) — by DAQEM
-- [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) — by decce
-- [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade) — by Snownee
-- [Jade Addons (Neo/Forge)](https://www.curseforge.com/minecraft/mc-mods/jade-addons) — by Snownee
+- [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) — Buffers raw input and uses threaded event polling. — by decce
+- [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade) — Shows information about the block or entity the player is looking at. — by Snownee
+- [Jade Addons (Neo/Forge)](https://www.curseforge.com/minecraft/mc-mods/jade-addons) — Adds additional Jade integrations and information displays for supported mods. — by Snownee
 - [Jobs+](https://www.curseforge.com/minecraft/mc-mods/jobsplus) — by DAQEM
 - [Jobs+ Tools](https://www.curseforge.com/minecraft/mc-mods/jobsplustools) — by DAQEM
 - [Jumpy Boats](https://www.curseforge.com/minecraft/mc-mods/jumpy-boats) — by LobsterJonn
