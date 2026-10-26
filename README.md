@@ -69,13 +69,12 @@ Lunchtime aims to make everyday Minecraft activities feel rewarding without turn
 | [Performance Guide](PERFORMANCE_GUIDE.md) | Client settings, memory, server performance, and troubleshooting |
 | [Release Workflow](docs/RELEASE_WORKFLOW.md) | How we prepare and publish updates |
 | [Development Notes](Lunchtime%20Cozy%20Create%20and%20Cooking%20v1.md) | Broader overhaul planning |
-| [Contributing](CONTRIBUTING.md) | Ways to suggest improvements or contribute |\n| [Issue Triage](docs/ISSUE_TRIAGE.md) | What to report, how tickets are handled, and what labels mean |
+| [Contributing](CONTRIBUTING.md) | Ways to suggest improvements or contribute |
+| [Issue Triage](docs/ISSUE_TRIAGE.md) | What to report, how tickets are handled, and what labels mean |
 
 ## Found a bug or have an idea?
 
-For reproducible bugs and feature suggestions, use [GitHub Issues](https://github.com/wtfyls/Lunchtime-Cozy-Create-Farming/issues). Include the Lunchtime version, Minecraft/Forge version, steps to reproduce, and a relevant sanitized log or crash report. Never post passwords, tokens, or private server details.
-
-For player-to-player help, join the [Discord](https://discord.gg/68yhDdFpnx).
+For bugs and feature suggestions, use [GitHub Issues](https://github.com/wtfyls/Lunchtime-Cozy-Create-Farming/issues) and choose the matching form. Search existing reports first. General gameplay questions and quick player support belong in the [Discord](https://discord.gg/68yhDdFpnx), not as public issues. Never post passwords, tokens, private IPs, or private server details. See the [Issue Triage guide](docs/ISSUE_TRIAGE.md) for how tickets work.
 
 ## About this repository
 
