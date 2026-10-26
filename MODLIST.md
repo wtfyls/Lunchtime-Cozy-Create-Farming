@@ -195,8 +195,8 @@
 - [Kaleidoscope：Dimensions wine](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-dimensions-wine) — by wither_redstone
 - [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) — Speeds up world loading by removing unneeded chunks. — by VidTu
 - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) — Lets pack makers edit recipes, add custom items, and script world events using JavaScript. — by Lat
-- [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) — by mcl_ender
-- [LanguageReloadUnofficial](https://www.curseforge.com/minecraft/mc-mods/languagereloadunofficial) — by kaguya154
+- [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) — Adds challenging bosses, structures, monsters, and equipment for combat-focused exploration. — by mcl_ender
+- [LanguageReloadUnofficial](https://www.curseforge.com/minecraft/mc-mods/languagereloadunofficial) — Lets players reload language files without restarting Minecraft. — by kaguya154
 - [Legendary Tooltips [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) — Gives rare items fancier tooltips and adds tooltip configuration options. — by Grend_G
 - [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) — Improves performance by tweaking mob despawn rules. — by frikinjay
 - [Longer Chat History [Forge/NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/longer-chat-history) — Keeps more messages available in the chat history. — by TheOriginalGolem
@@ -212,21 +212,21 @@
 - [Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail) — Adds a mailing system for a Minecraft world. — by MrCrayfish
 - [MMR - Moog's Mineshafts Reimagined](https://www.curseforge.com/minecraft/mc-mods/mmr-moogs-mineshafts-reimagined) — Reworks mineshafts with more varied designs. — by finndog_123
 - [Mobtimizations - Entity Performance Fixes](https://www.curseforge.com/minecraft/mc-mods/mobtimizations) — Optimizes tasks that entity AI performs wastefully, with minimal gameplay impact. — by Corosus
-- [Mod Menu (Forge)](https://www.curseforge.com/minecraft/mc-mods/mod-menu-forge-by-bogdan-tokarev) — by Bogdan_Tokarev
+- [Mod Menu (Forge)](https://www.curseforge.com/minecraft/mc-mods/mod-menu-forge-by-bogdan-tokarev) — Adds an in-game mod menu so players can view installed mods and related information. — by Bogdan_Tokarev
 - [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) — Fixes visible gaps that can appear between some block models. — by MehVahdJukaar
 - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) — Combines performance improvements, memory optimizations, and bug fixes. — by embeddedt
 - [More Culling Reforged](https://www.curseforge.com/minecraft/mc-mods/more-culling-reforged) — Reduces rendering work by culling supported objects that are not visible. — by MikihinaSann
 - [More Mob Variants](https://www.curseforge.com/minecraft/mc-mods/more-mob-variants) — Adds additional visual variants for mobs. — by nyuppo
 - [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers) — Adds more villager professions and associated trades. — by SameDifferent
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) — Improves mouse-based item movement and inventory interactions. — by YaLTeR
-- [MTR - Moog's Temples Reimagined](https://www.curseforge.com/minecraft/mc-mods/mtr-moogs-temples-reimagined) — by finndog_123
+- [MTR - Moog's Temples Reimagined](https://www.curseforge.com/minecraft/mc-mods/mtr-moogs-temples-reimagined) — Reworks temple structures to create new places to explore. — by finndog_123
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) — Adds a compass that helps locate biomes. — by Chaosyr
 - [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) — Fixes Nether portal linking so travel connects to the expected portal locations. — by BlayTheNinth
 - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) — Disables chat-signing/reporting behavior introduced by newer Minecraft versions. — by Aizistral
 - [No Chat Restrictions](https://www.curseforge.com/minecraft/mc-mods/no-chat-restrictions) — Removes selected vanilla chat restrictions. — by Aizistral
 - [No Structure Overlap](https://www.curseforge.com/minecraft/mc-mods/no-structure-overlap) — Helps prevent generated structures from overlapping. — by ankin
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) — Adds more player animations, including visible first-person actions when seen by others. — by tr7zw
-- [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) — by SSKirillSS
+- [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) — Changes the vanilla recipe-book experience; consult the project page for the exact options. — by SSKirillSS
 - [Oceanic Realms](https://www.curseforge.com/minecraft/mc-mods/oceanic-realms) — by leomard0_o
 - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) — Adds shader-pack support for compatible Forge rendering setups. — by Asek3
 - [Online Emotes](https://www.curseforge.com/minecraft/mc-mods/online-emotes) — Adds online emote functionality for players. — by dima_dencep
