@@ -21,12 +21,8 @@
     <img src="assets/patreonlarge.png" alt="Support Lunchtime on Patreon" height="48">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/lunch_butt/">
+  <a href="https://www.instagram.com/lunchbutt/">
     <img src="assets/instagramlarge.png" alt="Follow Lunchtime on Instagram" height="48">
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@lunchbutt">
-    <img src="assets/youtubelarge.png" alt="Lunchtime on YouTube" height="48">
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@lunchbutt">
