@@ -23,7 +23,7 @@ Lunchtime is a curated modpack for relaxed solo and multiplayer play, with cozy 
 ## Documentation
 
 - **[Performance Guide](PERFORMANCE_GUIDE.md)** — client settings, memory, server performance, and troubleshooting
-- **[Mod List](MODLIST.md)** — gameplay, utility, performance, and integration mods, without standalone library dependencies
+- **[Mod List](MODLIST.md)** — official CurseForge links for gameplay mods, resource packs, and shaders; library-only dependencies are omitted
 - **[Changelog](CHANGELOG.md)** — release history, newest first
 - **[Release workflow](docs/RELEASE_WORKFLOW.md)** — how we prepare and publish updates
 - **[Development overhaul notes](Lunchtime%20Cozy%20Create%20and%20Cooking%20v1.md)** — broader overhaul planning notes
