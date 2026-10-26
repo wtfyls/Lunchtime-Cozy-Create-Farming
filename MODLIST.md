@@ -25,16 +25,16 @@
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) — by squeek502
 - [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) — by ochotonida
 - [Async Logger](https://www.curseforge.com/minecraft/mc-mods/asynclogger) — by decce
-- [AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles) — by Harvey_Husky
-- [BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations) — by thosea
-- [Barbeque's Delight [Forge/NeoForge]](https://www.curseforge.com/minecraft/mc-mods/barbeques-delight) — by lcy0x1
-- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) — by way2muchnoise
-- [Better Climbing](https://www.curseforge.com/minecraft/mc-mods/better-climbing) — by artemisSystem
-- [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker) — by Gaz_
-- [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays) — by wendall911
-- [Better End Cities - Vanilla](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-vanilla) — by TheArchitects777
-- [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display) — by Quintinity
-- [Better Than Mending](https://www.curseforge.com/minecraft/mc-mods/better-than-mending) — by legobmw99
+- [AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles) — Runs particle ticking asynchronously and uses GPU-accelerated particle rendering. — by Harvey_Husky
+- [BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations) — Applies client-side optimizations aimed at systems beyond rendering. — by thosea
+- [Barbeque's Delight [Forge/NeoForge]](https://www.curseforge.com/minecraft/mc-mods/barbeques-delight) — Adds skewers and seasonings for grilling food. — by lcy0x1
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) — Provides an improved interface for Minecraft's advancement screen. — by way2muchnoise
+- [Better Climbing](https://www.curseforge.com/minecraft/mc-mods/better-climbing) — Improves aspects of climbing; see the project page for specific mechanics. — by artemisSystem
+- [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker) — Changes the server compatibility check to compare modpack versions. — by Gaz_
+- [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays) — Lets you customize day/night cycle length and speeds up time while sleeping. — by wendall911
+- [Better End Cities - Vanilla](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-vanilla) — Makes End Cities more intricate and adds more loot while using vanilla blocks. — by TheArchitects777
+- [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display) — Displays ping in milliseconds in the player list, with configurable presentation. — by Quintinity
+- [Better Than Mending](https://www.curseforge.com/minecraft/mc-mods/better-than-mending) — Makes a small quality-of-life change to the Mending enchantment. — by legobmw99
 - [BetterEnd: Before Dawn](https://www.curseforge.com/minecraft/mc-mods/betterend-forge) — by Raijin2312
 - [BetterNether: Before Dawn](https://www.curseforge.com/minecraft/mc-mods/betternether-forge) — by Raijin2312
 - [BiomeSpy](https://www.curseforge.com/minecraft/mc-mods/biomespy) — by MoePus
