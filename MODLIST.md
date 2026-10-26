@@ -3,320 +3,360 @@
 **Minecraft:** 1.20.1  
 **Loader:** Forge
 
-This is the readable, player-facing list of Lunchtime's gameplay, utility, performance, and integration mods, with a short explanation of each. **Standalone libraries and API-only dependencies are intentionally omitted** so the list stays useful to players. Those libraries can still be required by the actual modpack and should not be removed from your installation.
+This page uses the linked CurseForge projects from the HTML list provided for Lunchtime. Project names and author credits are preserved from that source, with version numbers omitted.
 
-Mod names are shown **without version numbers**. Check the CurseForge files or the actual modpack manifest for the exact versions installed in a particular release.
+I have **not guessed descriptions**. Each item links directly to its CurseForge project page, where the author’s own description, supported versions, and requirements are available.
 
-## Mod list
+Standalone library/API-only dependencies are intentionally omitted from this player-facing list, as requested. **That does not mean they should be deleted from the modpack**; required dependencies must remain installed for the mods that use them.
 
-- **Accelerated Decay** — Speeds up natural decay of leaves and similar blocks.
-- **AdvancedCoreInfo** — Displays additional technical/core information useful for troubleshooting.
-- **AdvancedLootInfo** — Displays additional information about loot and loot-related data.
-- **Alex's Caves** — Adds distinctive underground cave biomes, blocks, creatures, and exploration content.
-- **Alex's Delight** — Adds Farmer's Delight-style food and recipes themed around Alex's Mobs.
-- **Alex's Mobs** — Adds a large range of new animals and other creatures with unique behaviors and drops.
-- **All The Leaks** — Applies fixes for selected memory leaks and resource-retention problems.
-- **Alternate Current** — Optimizes redstone wire updates while aiming to preserve expected redstone behavior.
-- **AmbientSounds** — Adds richer environmental and biome-based ambient audio.
-- **Amendments** — Adds extra interactions, variants, and functionality to supported vanilla and Supplementaries blocks.
-- **Another Furniture** — Adds furniture such as chairs, tables, shelves, and other home decorations.
-- **AppleSkin** — Shows hunger, saturation, and food-value information in the HUD.
-- **Artifacts** — Adds collectible accessories with special effects, typically discovered through exploration and loot.
-- **Async Logger** — Moves supported logging work off the main execution path to reduce logging overhead.
-- **AsyncParticles** — Optimizes how supported particle work is processed.
-- **BadOptimizations** — Applies a collection of targeted performance optimizations.
-- **Barbeque's Delight** — Adds barbecue-themed food and cooking content.
-- **Building But Better** — Adds building-focused blocks, decoration, and/or improved building options.
-- **Better Climbing** — Improves or expands the player's ability to climb certain surfaces.
-- **Better Advancements** — Improves the advancement screen's layout and usability.
-- **Better Compatibility Checker** — Helps identify potential mod or version compatibility problems.
-- **BetterDays** — Adds configurable day/time or calendar-related gameplay behavior.
-- **Better End** — Overhauls the End with new terrain, biomes, blocks, and exploration content.
-- **Better End Cities Vanilla** — Changes or supplements vanilla End City generation with a more vanilla-style approach.
-- **Better Nether** — Overhauls the Nether with additional biomes, blocks, and exploration content.
-- **Better Ping Display** — Shows network latency/ping in the interface.
-- **BetterThanMending** — Changes the role or availability of Mending-related mechanics; check the installed configuration for the pack's exact behavior.
-- **Bisect Menu** — Adds the Bisect menu integration to Lunchtime.
-- **BiomeSpy** — Helps inspect or locate biome information.
-- **Bosses'Rise** — Adds boss-oriented encounters or progression content.
-- **Boat Item View** — Displays held-item information or the player's held item while boating.
-- **Brewin' And Chewin'** — Adds brewing, fermentation, and food/drink content that complements Farmer's Delight.
-- **Bridging Mod** — Adds client-side placement assistance for building bridges and placing blocks while moving.
-- **Butchery** — Adds meat processing and butchery-related food preparation.
-- **Concurrent Chunk Management Engine (Forge)** — Attempts to improve chunk generation, loading, and I/O by processing supported work concurrently; test carefully with custom world generation.
-- **Carry On** — Lets players pick up and carry certain blocks or entities.
-- **Cataclysm x YUNG's Better Nether Fortresses Compat** — Integrates Cataclysm content with YUNG's Nether Fortress overhaul.
-- **Charm of Undying** — Adds a charm/accessory-style way to use an Undying effect, depending on its configured rules.
-- **Chat Heads** — Shows player faces next to their chat messages.
-- **Chat Heads Figura Support** — Integrates Chat Heads with Figura avatar support.
-- **ChatAnimation** — Adds animation and visual polish to the chat interface.
-- **Chefs Delight** — Adds cooking and food content that complements Farmer's Delight.
-- **Cherished Worlds** — Lets players mark or favorite worlds in the world-selection screen.
-- **Chimes** — Adds decorative chimes and/or ambient sound interactions.
-- **Chipped** — Adds many decorative variants of blocks for building.
-- **Chunky** — Provides commands for pre-generating chunks, useful for reducing exploration-time world-generation spikes on a server.
-- **Clean Swing Through Grass** — Prevents grass and similar small plants from interfering with weapon swings.
-- **ClientSort** — Adds client-side inventory sorting tools.
-- **Clockwork** — A specialized content/technology component; see its installed project page for the exact feature set in this pack.
-- **Clumps** — Combines nearby experience orbs to reduce entity clutter.
-- **Colorful Hearts** — Changes the appearance of health hearts.
-- **Combat Roll** — Adds a dodge/roll move to combat and traversal.
-- **Comforts** — Adds sleeping bags and hammocks for portable rest.
-- **Continuity** — Adds connected-texture support for compatible resource packs and block textures.
-- **Controlling** — Adds search and usability improvements to the controls/keybinds menu.
-- **Cool Rain** — Changes the look or presentation of rain effects.
-- **Create: Copycats+** — Adds copycat-style blocks that mimic other block appearances for detailed Create builds.
-- **CosmeticArmorReworked** — Separates cosmetic armor appearance from the armor providing stats.
-- **Cozy Home** — Adds cozy-home-themed decorative content.
-- **Crash Assistant** — Helps players review crash information and identify relevant logs after a crash.
-- **Create: Central Kitchen** — Integrates Create machinery with Farmer's Delight-style cooking and food automation.
-- **Create Enchantment Industry** — Adds Create-based machinery for handling experience and enchantment-related processes.
-- **Create: Generators** — Adds generator/energy-related Create machinery or automation content.
-- **create: things and misc** — Adds assorted Create-themed utility blocks and contraption parts.
-- **Create: Ultimate Factory** — Adds additional factory/automation-themed Create content.
-- **Create** — Adds mechanical engineering, moving contraptions, belts, gears, processing, and automation.
-- **Create EMI Compat** — Connects Create recipes and information to EMI's recipe-viewing interface.
-- **Creeper Overhaul** — Adds biome-themed Creeper variants.
-- **Critters and Companions** — Adds additional small animals and creatures.
-- **Cultural Delights** — Adds food, crops, and recipes themed around Farmer's Delight.
-- **Cubes Without Borders** — Improves borderless/fullscreen window behavior.
-- **Decorative Blocks** — Adds building blocks and decorative details.
-- **Default Options** — Lets the pack provide default client options and settings for new installations.
-- **Delightful** — Adds additional food and recipe content for Farmer's Delight.
-- **Diagonal Walls** — Adds diagonal wall shapes and building options.
-- **DisableStructures** — Disables selected world-generation structures through configuration.
-- **Distraction Free Recipes (EMI)** — Reduces visual clutter in recipe screens and improves recipe-viewing usability.
-- **Double Doors** — Opens paired doors together.
-- **DragonLoot** — Adds dragon-related loot and rewards.
-- **Drippy Loading Screen** — Customizes the loading-screen appearance.
-- **Dungeon Now Loading** — Adds or supports dungeon-oriented exploration content in the supplied pack; consult the exact project entry for feature details.
-- **Dungeons and Taverns: Ancient City Overhaul** — Reworks the vanilla Ancient City structure.
-- **Dungeons and Taverns: Pillager Outpost Rework** — Reworks Pillager Outpost structures.
-- **Dusty Decorations** — Adds decorative furniture and building details with a worn/cozy style.
-- **Dynamic FPS** — Reduces resource use when the Minecraft window is unfocused or in the background.
-- **e4all** — Compatibility/integration component in the supplied mod set; check the installed project's description for exact behavior.
-- **Easy Mob Spawn Control** — Provides configuration controls for mob spawning.
-- **Easy Villagers** — Adds compact blocks for managing certain villager tasks and trading.
-- **Easy Anvils** — Adds quality-of-life changes to anvils.
-- **Easy Magic** — Adds quality-of-life changes to enchanting tables.
-- **Easy Shulker Boxes** — Adds quality-of-life interactions for shulker boxes.
-- **Eating Animation** — Adds visible eating/drinking animations.
-- **Ecologics** — Expands vanilla biomes with small environmental, animal, and plant additions.
-- **Elysium** — Content/support component; confirm the exact installed project's description for its player-facing role.
-- **Elytra Slot** — Adds a dedicated slot for Elytra equipment.
-- **Embeddium** — Optimizes client rendering and terrain rendering.
-- **Create: EMI Schematics** — Connects Create schematic-related information to EMI.
-- **EMI Ores** — Adds ore-related information or recipe integration to EMI.
-- **EMI** — Recipe and item viewer for searching recipes, uses, and crafting paths.
-- **emi-letsdo-compat** — Adds EMI recipe integration for supported Let's Do mods.
-- **EMI QoL Tweaks** — Adds convenience improvements to the EMI interface.
-- **EMI Enchants** — Adds enchantment-related displays or integration to EMI.
-- **EMIffect** — Adds EMI-related interface or recipe-viewing improvements.
-- **EMI Professions (EMIP)** — Adds profession/trade information to EMI where supported.
-- **Emotecraft** — Lets players use animated emotes.
-- **EnchantmentDescriptions** — Shows explanations for enchantments.
-- **Enderman Overhaul** — Adds Enderman variants with biome-specific appearances or behavior.
-- **End Remastered** — Changes End progression by adding special eyes or exploration steps before locating the End.
-- **Entity Model Features** — Enables custom entity models used by compatible resource packs.
-- **Entity Texture Features** — Enables custom entity textures and related visual features for supported resource packs.
-- **EntityCulling** — Avoids rendering entities that are not visible to the player.
-- **BOZOID** — Small support/content component; consult the installed project metadata for its exact role.
-- **Equipment Compare** — Displays item-stat comparisons when hovering over equipment.
-- **Explorer's Compass** — Helps locate selected structures.
-- **Exposure Polaroid** — Adds Polaroid/photo-related integration for Exposure.
-- **Exposure** — Adds an in-game camera and photography system.
-- **ExtraSounds Next** — Adds extra interface and interaction sounds.
-- **Fallingleaves** — Adds falling-leaf particles for supported trees and environments.
-- **Fancy Entity Renderer** — Changes or enhances entity rendering effects.
-- **FancyMenu** — Supports custom menus and user-interface layouts.
-- **Fancy Tab Sections** — Organizes the multiplayer player list/tab display into sections.
-- **Farmer's Delight** — Core farming and cooking mod with crops, kitchen blocks, food preparation, and meals.
-- **FarmersStructures** — Adds farmer/rural-themed structures to world generation.
-- **Farsight mod** — Keeps previously seen chunks visible beyond the server's current view distance using client-side chunk caching, where supported.
-- **Fast IP Ping** — Speeds up or streamlines server ping checks in the server list.
-- **FastALI** — Performance-focused utility for supported item- or library-loading operations.
-- **FastBoot** — Optimizes parts of game startup/loading.
-- **FastFurnace** — Optimizes furnace processing.
-- **Fast Item Frames** — Optimizes item-frame handling/rendering.
-- **Fast Paintings** — Optimizes painting handling/rendering.
-- **Fast Suite** — Optimizes supported recipe and crafting lookup operations.
-- **Fastvancements** — Optimizes advancement-related processing.
-- **Fast Workbench** — Optimizes crafting-table recipe lookup and related operations.
-- **Faunify** — Adds animal/fauna-focused world content.
-- **Feature Recycler** — Shared world-generation feature utility that lets compatible features reuse or recycle placement work.
-- **Ferrite Core** — Reduces memory usage for supported game data structures.
-- **Field Guide** — Provides an in-game guidebook/documentation interface for supported content.
-- **Figura** — Lets players use customizable 3D player avatars, where supported by the server and client.
-- **Fishermens Trap** — Adds fishing traps or automated fish gathering.
-- **Faster Iris Shadow Mapper** — Optimizes a shader shadow-mapping path; verify compatibility with the installed shader/rendering setup.
-- **Forge Config Screens** — Provides configuration screen support for compatible Forge mods.
-- **Forge ModMenu** — Adds a mod-list/menu interface in the Forge/compatibility setup.
-- **Formations** — Supplies structure/world-generation formation tools for compatible mods.
-- **FTB Chunks** — Adds map-based chunk claiming and chunk/team management.
-- **FTB Essentials** — Adds common server utility commands and administration conveniences.
-- **FTB Filter System** — Adds filter/search support used by FTB integrations.
-- **FTB Quests** — Adds the quest book, objectives, rewards, and progression tasks.
-- **FTB Quests UI Overhaul** — Changes the appearance/layout of the FTB Quests interface.
-- **FTB Teams** — Provides team/group functionality for FTB mods.
-- **FTB Ultimine** — Allows players to mine connected blocks or matching block groups with one action, subject to its rules.
-- **FTB XMod Compat** — Integrates FTB features with compatible third-party mods.
-- **FTB Chunks x Xaero's Map Compat** — Integrates FTB chunk claims with Xaero's map display.
-- **Gnetum** — Distributes HUD updates across multiple frames to help reduce client-side stutter.
-- **Goblin Traders** — Adds goblin traders that can appear and offer trades.
-- **Golem Overhaul** — Adds or changes golem variants.
-- **Gravestone Mod** — Preserves player items in a gravestone when they die.
-- **GTBC's Cataclysmic Boss UIs** — Adds custom boss UI bars for supported Cataclysm encounters.
-- **Icy's Better Horses** — Improves horse-related gameplay or adds horse features.
-- **Integrated Dungeons and Structures** — Adds configurable dungeons and structures to exploration.
-- **ImmediatelyFast** — Optimizes several client rendering paths; the supplied version label says 1.20.4, so verify the installed JAR is compatible with Minecraft 1.20.1.
-- **Immersive Aircraft** — Adds craftable aircraft for exploration and travel.
-- **Immersive Melodies** — Lets players perform music using in-game instruments.
-- **Immersive Optimization** — Applies additional performance optimizations; check its project documentation for the exact systems affected.
-- **Immersive Paintings** — Adds more flexible/customizable paintings for decoration.
-- **Immersive Overlays** — Adds contextual screen overlays.
-- **ImmersiveUI** — Adds visual polish or changes to supported user-interface elements.
-- **Integrated Stronghold** — Reworks or expands stronghold generation.
-- **Integrated Villages** — Reworks or expands village generation.
-- **Inventorio** — Changes or expands inventory slots and item organization.
-- **Inventory Particles** — Adds particles when moving items in the inventory.
-- **Item Descriptions** — Shows helpful descriptions for items.
-- **Item Obliterator** — Lets the pack disable selected items through configuration.
-- **Item Borders** — Adds border/rarity-style visual cues around inventory items.
-- **Item Restrictions** — Adds rules for restricting selected items or item behavior.
-- **Ixeris** — Buffers raw input and uses threaded event polling to improve input/event handling.
-- **Jade** — Shows contextual information about blocks and entities under the crosshair.
-- **Jade Addons** — Adds integrations and extra data displays for Jade.
-- **Jobs+** — Adds profession/job progression that rewards players for activities such as farming, mining, building, and gathering.
-- **Jobs+ Tools** — Adds items or utilities that support Jobs+ gameplay.
-- **Jumpy Boats** — Changes boat movement/jumping behavior.
-- **Kaleidoscope ChineseFood** — Adds Chinese-food-themed cooking content.
-- **Kaleidoscope Compat** — Integration support for the Kaleidoscope mod family.
-- **Kaleidoscope Dimensions Wine** — Adds wine-related content/integration associated with the Kaleidoscope food ecosystem.
-- **Kaleidoscope End** — Adds End-themed food/content integration.
-- **Kaleidoscope Grilling** — Adds grilling/cooking content.
-- **Kaleidoscope: ImmersiveEating** — Adds more immersive eating interactions.
-- **Kaleidoscope Nether** — Adds Nether-themed food/content integration.
-- **Kaleidoscope World Liquor** — Adds liquor/drink-related recipes or integration.
-- **Kaleidoscope Cookery** — Adds cooking/food recipes.
-- **Kaleidoscope Tavern** — Adds tavern/pub-themed food or drink content.
-- **Ksyxis** — Optimizes selected world-startup behavior, including spawn-chunk loading in supported setups.
-- **KubeJS** — Lets pack developers customize recipes, events, and gameplay using scripts.
-- **Cataclysm** — Adds challenging bosses, structures, equipment, and combat/exploration content.
-- **LanguageReload** — Allows language/resource language changes to reload with less friction.
-- **Legendary Tooltips** — Adds styled item tooltips, including rarity-themed frames.
-- **LetMeDespawn** — Helps unwanted or persistent entities despawn under configured conditions.
-- **[Let's Do] Bakery** — Adds bakery blocks, ingredients, and baked-food recipes.
-- **[Let's Do] Beachparty** — Adds beach and seaside leisure content.
-- **[Let's Do] Farm & Charm** — Adds farming, rural life, and food-related content.
-- **[Let's Do] Meadow** — Adds meadow-themed biomes/content and related animals or resources.
-- **[Let's Do] Vinery** — Adds vineyards, grapes, wine-making, and vineyard decoration.
-- **Longer Chat History** — Keeps more chat history available in the client.
-- **Loot Integrations: Cataclysm** — Adds Cataclysm loot integration.
-- **Loot Integrations: Integrated Structures** — Adds loot integration for Integrated-series structures/content.
-- **Loot Integrations: Vanilla** — Adds or adjusts loot integration for vanilla content.
-- **Lootintegrations mod** — Shared loot integration framework for configured loot pools and modded content.
-- **Lootr** — Gives each player their own loot in supported containers, making multiplayer exploration fairer.
-- **Luki's Woodland Mansions** — Adds or reworks woodland mansion content.
-- **Magnum Torch** — Adds torches that prevent hostile mob spawning within a configured area.
-- **Mighty Mail** — Adds an in-game mail system for sending items or messages, depending on configuration.
-- **Minecraft Cursor** — Customizes the cursor appearance in supported interfaces.
-- **Mixin Trace Reforged** — Improves diagnostic information for mixin-related errors.
-- **Mobtimizations** — Targets mob/entity processing for performance improvements.
-- **Model Gap Fix** — Fixes visual gaps/artifacts in certain block models.
-- **ModernFix** — Broad performance, memory, loading, and bug-fix improvements.
-- **MoogsEndStructures** — Adds End dimension structures.
-- **MoogsMineshaftsReimagined** — Reworks mineshafts with more varied layouts.
-- **MoogsTemplesReimagined** — Reworks temple structures.
-- **More Culling** — Culls faces/parts of supported block models that cannot be seen, reducing rendering work.
-- **More Mob Variants** — Adds visual variants for supported mobs.
-- **More Villagers** — Adds villager professions, trades, or villager-related content.
-- **Mouse Tweaks** — Improves inventory mouse interactions, such as dragging and moving item stacks.
-- **Nature's Compass** — Helps locate biomes.
-- **NetherPortalFix** — Improves portal linking and fixes common Nether portal travel issues.
-- **No Chat Reports** — Changes chat-signing/reporting behavior in supported multiplayer environments.
-- **No Chat Restrictions** — Removes selected vanilla chat restrictions.
-- **NoStructureOverlap** — Helps reduce unwanted overlaps between generated structures.
-- **Not Enough Recipe Book** — Replaces or alters the vanilla recipe book experience.
-- **NotEnoughAnimations** — Adds third-person/player animations for actions that are otherwise minimally animated.
-- **Oceanic Realms** — Adds ocean-focused world content and exploration features.
-- **Oculus** — Adds shader-pack support to Forge rendering setups compatible with Embeddium.
-- **Online Emotes** — Adds online/shared emote functionality.
-- **Packet Fixer** — Fixes or mitigates certain oversized packet and network-payload issues.
-- **Particular Reforged** — Adds visual particle effects for supported game events.
-- **PatPat** — Adds a petting interaction for compatible animals/creatures.
-- **Plushie Buddies** — Adds plushie collectibles/decorations.
-- **Polymorph** — Lets players choose between multiple recipe outputs when recipes conflict.
-- **Presence Footsteps (Forge)** — Adds contextual footstep sounds.
-- **Punchy** — Changes or enhances melee combat behavior; check pack config for its exact balance.
-- **Quark** — Adds many configurable vanilla-style improvements, building blocks, and small gameplay features.
-- **quick-pack** — Optimizes parts of resource/data pack loading.
-- **Radiant Gear** — Adds light-emitting or visually radiant equipment features.
-- **Radium** — Provides general game-logic optimizations.
-- **RAM-Compat** — Compatibility component for supported rendering or resource systems.
-- **[NoCube's] Realm RPG: Treasure Balloons** — Adds treasure-balloon themed RPG/exploration content.
-- **Regions Unexplored** — Adds many new biome types and associated world-generation content.
-- **Relics** — Adds collectible relic accessories with special abilities.
-- **Ribbits** — Adds frog-like villagers/creatures and related village content.
-- **Right Click Harvest** — Lets players harvest supported crops by right-clicking, often replanting automatically.
-- **RiverRedux** — Reworks river generation and appearance.
-- **Scholar** — Guide/progression support component; check the installed project's metadata for exact in-game features.
-- **wd's Selling Bin** — Adds a selling-bin style block for selling supported items.
-- **Shoppy** — Adds player shop/trading functionality.
-- **Shoulder Surfing Reloaded** — Changes the third-person camera to a shoulder-view perspective.
-- **Simple Ice Cream** — Adds ice-cream foods and recipes.
-- **Simply Swords** — Adds additional swords and melee weapons.
-- **Simply Tooltips** — Improves or customizes item tooltips.
-- **Sit** — Lets players sit on supported blocks such as stairs.
-- **3d-Skin-Layers** — Renders outer player-skin layers in 3D.
-- **Create Slice & Dice** — Integrates Create machines with Farmer's Delight-style food processing.
-- **Small Ships** — Adds larger boats/ships for water travel.
-- **Sodium Dynamic Lights** — Adds dynamic lighting from supported held items or light sources.
-- **Sodium Extras** — Adds extra rendering and video options to the compatible Sodium-style rendering setup.
-- **Spice of Life: Carrot Edition** — Rewards food variety and changes food/health progression based on eating different foods.
-- **Sophisticated Backpacks** — Adds upgradeable backpacks with storage and utility upgrades.
-- **Sound Physics Remastered** — Adds acoustic effects such as sound occlusion and reverberation.
-- **spark** — Profiler for identifying server/client CPU, tick-time, and memory-allocation bottlenecks.
-- **SparseStructures** — Helps control structure frequency to make world generation less crowded.
-- **Spelunkery** — Expands underground exploration, cave resources, and mining content.
-- **Starcatcher's Delight** — Adds food/recipe integration themed around compatible Starcatcher content.
-- **starcatcher** — Content/support component for the Starcatcher mod family.
-- **Create: Steam 'n' Rails** — Expands Create trains, rails, bogeys, signals, and railway building.
-- **Stony Cliffs Are Cool** — Changes or expands stony cliff terrain generation.
-- **Storage Drawers** — Adds compact storage drawers designed for bulk item storage.
-- **StreamsReflowing** — Adds or reworks natural streams and small watercourses in terrain generation.
-- **Structory** — Adds additional structures to world generation.
-- **Structure Layout Optimizer** — Optimizes selected structure layout calculations.
-- **Subtle Effects** — Adds small ambient visual effects.
-- **Supplementaries** — Adds vanilla-style decorative and functional blocks, gadgets, and world interactions.
-- **TACT** — Additional support/content component; consult the exact installed project page for its precise role.
-- **It Takes A Pillage** — Expands Pillager content, raids, and related encounters.
-- **Tips** — Displays tips on loading screens.
-- **Toast Control** — Lets the pack control or suppress selected toast notifications.
-- **Too Many Bows** — Adds additional bows and ranged weapon options.
-- **TooManyRecipeViewers** — Compatibility/helper component for recipe-viewing mods.
-- **Touch'n Motion** — Adds touch/motion-related interaction or animation support.
-- **Trade Cycling** — Makes villager trade cycling or rerolling more convenient.
-- **Villager Names** — Gives villagers generated names.
-- **Visual Workbench** — Displays crafting items in the crafting table and preserves the crafting display in supported situations.
-- **Simple Voice Chat** — Adds proximity-based voice chat for multiplayer servers that have it configured.
-- **Wakes** — Adds wake/splash effects to moving entities in water.
-- **What Are They Up To** — Shows what villagers or nearby entities are doing, depending on supported entity types.
-- **Waystones** — Adds craftable/discoverable teleportation waystones.
-- **Welcome Screen** — Adds a custom welcome/intro screen for the pack.
-- **WI Zoom** — Adds a zoom feature controlled by a keybind.
-- **Xaero's Minimap** — Adds a minimap and waypoint display.
-- **Xaero's World Map** — Adds a full-screen world map and waypoint management.
-- **YUNG's Better End Island** — Reworks the central End Island and related terrain.
-- **YUNG's Better Nether Fortresses** — Reworks Nether Fortress structures.
-- **YUNG's Cave Biomes** — Adds cave biome variety.
-- **Fast Noise Mod** — Optimizes parts of world-generation noise calculations.
+The supplied HTML contains **402 linked projects**: 377 mod pages, 23 resource packs, and 2 shader pages. After omitting library/API-only entries, the sections below contain 310 mods, 23 resource packs, and 2 shaders.
 
-## Performance highlights
+## Mods (310)
 
-The pack includes several performance and diagnostic mods, notably **Embeddium, ModernFix, Ferrite Core, BadOptimizations, Dynamic FPS, EntityCulling, More Culling, Alternate Current, Radium, Fast Noise Mod, Concurrent Chunk Management Engine, Chunky, and spark**. Their presence does not guarantee a fixed FPS or TPS; settings, world generation, loaded entities, and compatibility all matter.
+- [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) — by Traben
+- [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) — by Traben
+- [[Let's Do Addon] EMI Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-emi-compat) — by pandaismyname1
+- [[Let's Do] API](https://www.curseforge.com/minecraft/mc-mods/do-api) — by Cristelknight
+- [[Let's Do] Bakery - Farm&Charm Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) — by satisfy
+- [[Let's Do] Beachparty](https://www.curseforge.com/minecraft/mc-mods/lets-do-beachparty) — by satisfy
+- [[Let's Do] Farm & Charm](https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-charm) — by satisfy
+- [[Let's Do] Meadow](https://www.curseforge.com/minecraft/mc-mods/lets-do-meadow) — by satisfy
+- [[Let's Do] Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery) — by satisfy
+- [[NoCube's] Realm RPG: Treasure Balloons](https://www.curseforge.com/minecraft/mc-mods/realm-rpg-treasure-balloons) — by NoCube
+- [Accelerated Decay](https://www.curseforge.com/minecraft/mc-mods/accelerated-decay) — by ErrorMikey
+- [Advanced Core Info (ACI)](https://www.curseforge.com/minecraft/mc-mods/advanced-core-info) — by yanny7777
+- [Advanced Loot Info (ALI)](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info) — by yanny7777
+- [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves) — by sbom_xela
+- [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) — by Baisylia
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) — by sbom_xela
+- [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) — by Uncandango
+- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) — by SpaceWalkerRS
+- [Amber Lib](https://www.curseforge.com/minecraft/mc-mods/amber-lib) — by iamkaf
+- [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) — by CreativeMD
+- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) — by plantspookable
+- [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture) — by crispytwig
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) — by squeek502
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) — by ochotonida
+- [Async Logger](https://www.curseforge.com/minecraft/mc-mods/asynclogger) — by decce
+- [AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles) — by Harvey_Husky
+- [BadOptimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations) — by thosea
+- [Barbeque's Delight [Forge/NeoForge]](https://www.curseforge.com/minecraft/mc-mods/barbeques-delight) — by lcy0x1
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) — by way2muchnoise
+- [Better Climbing](https://www.curseforge.com/minecraft/mc-mods/better-climbing) — by artemisSystem
+- [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker) — by Gaz_
+- [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays) — by wendall911
+- [Better End Cities - Vanilla](https://www.curseforge.com/minecraft/mc-mods/better-end-cities-vanilla) — by TheArchitects777
+- [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display) — by Quintinity
+- [Better Than Mending](https://www.curseforge.com/minecraft/mc-mods/better-than-mending) — by legobmw99
+- [BetterEnd: Before Dawn](https://www.curseforge.com/minecraft/mc-mods/betterend-forge) — by Raijin2312
+- [BetterNether: Before Dawn](https://www.curseforge.com/minecraft/mc-mods/betternether-forge) — by Raijin2312
+- [BiomeSpy](https://www.curseforge.com/minecraft/mc-mods/biomespy) — by MoePus
+- [Bisect Menu](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge) — by BisectHosting
+- [Boat Item View (Forge/Neoforge)](https://www.curseforge.com/minecraft/mc-mods/boat-item-view-forge) — by 50ap5ud5
+- [Bosses'Rise - Epic Souls like boss fights](https://www.curseforge.com/minecraft/mc-mods/bossesrise) — by blockfactorystudio
+- [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin) — by lumpazl
+- [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod) — by CG360
+- [Building But Better](https://www.curseforge.com/minecraft/mc-mods/building-but-better) — by crispytwig
+- [Butchery](https://www.curseforge.com/minecraft/mc-mods/butchery) — by jmods
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) — by Tschipp
+- [Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs) — by GamesOfLife
+- [Charm of Undying (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying) — by TheIllusiveC4
+- [Chat Animation [Smooth Chat]](https://www.curseforge.com/minecraft/mc-mods/chatanimation) — by ezzenix1
+- [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) — by dzwdz
+- [ChatHeads Figura Support](https://www.curseforge.com/minecraft/mc-mods/chatheads-figura-support) — by reizou00
+- [Chef's Delight [Forge] - Farmer's Delight Villagers](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge) — by redstone3game
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) — by TheIllusiveC4
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes) — by CicadaBluw
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) — by terrariumearth
+- [Chunky (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge) — by pop4959
+- [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) — by Raycoms
+- [Client Sort](https://www.curseforge.com/minecraft/mc-mods/clientsort) — by NotRyken
+- [Clockwork](https://www.curseforge.com/minecraft/mc-mods/clockwork) — by joosh_7889
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) — by Jaredlll08
+- [Colorful Hearts](https://www.curseforge.com/minecraft/mc-mods/colorful-hearts) — by Terrails
+- [Combat Roll [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/combat-roll) — by daedelus_dev
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) — by TheIllusiveC4
+- [Concurrent Chunk Management Engine - Forge](https://www.curseforge.com/minecraft/mc-mods/concurrent-chunk-management-engine-forge) — by Makki132
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) — by Jaredlll08
+- [Cool Rain Reforged](https://www.curseforge.com/minecraft/mc-mods/cool-rain-reforged) — by Project8gbDeRam
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) — by LainMI
+- [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) — by KostromDan
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) — by simibubi
+- [Create : Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things) — by To0pa
+- [Create EMI Compat](https://www.curseforge.com/minecraft/mc-mods/create-emi-compat) — by Amigo1742
+- [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice) — by possible_triangle
+- [Create: Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen) — by DragonsPlus
+- [Create: Copycats+](https://www.curseforge.com/minecraft/mc-mods/copycats) — by Lysine
+- [Create: Easy Stone Generators](https://www.curseforge.com/minecraft/mc-mods/create-stone-generators) — by robinfrt
+- [Create: Enchantment Industry](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) — by DragonsPlus
+- [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) — by IThundxr
+- [Create: Ultimate Factory](https://www.curseforge.com/minecraft/mc-mods/create-ultimate-factory) — by robinfrt
+- [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) — by joosh_7889
+- [Critters and Companions](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions) — by joosh_7889
+- [Cubes Without Borders](https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders) — by Kira_NT
+- [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) — by Baisylia
+- [Cursors Extended](https://www.curseforge.com/minecraft/mc-mods/minecraft-cursor) — by fishstiz
+- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) — by stohun
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) — by BlayTheNinth
+- [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) — by brnbrd
+- [Diagonal Walls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls) — by Fuzs
+- [Disable Structures](https://www.curseforge.com/minecraft/mc-mods/disable-structures) — by Bennyboy1695
+- [Distraction Free Recipes (EMI / REI / JEI)](https://www.curseforge.com/minecraft/mc-mods/distraction-free-recipes) — by Txni
+- [DnT Ancient City Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-ancient-city-overhaul) — by Nova_Wostra
+- [DnT Pillager Outpost Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-pillager-outpost-overhaul) — by Nova_Wostra
+- [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) — by Serilum
+- [Drippy Loading Screen](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen) — by Keksuccino
+- [Dungeon Now Loading 2%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading) — by hexnowloading
+- [Dusty Decorations](https://www.curseforge.com/minecraft/mc-mods/dusty-decorations) — by Tip_Mischiff
+- [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) — by juliand665
+- [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils) — by Fuzs
+- [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic) — by Fuzs
+- [Easy Mob Spawn Control](https://www.curseforge.com/minecraft/mc-mods/easy-mob-spawn-control) — by Catomon
+- [Easy Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-boxes) — by Fuzs
+- [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) — by henkelmax
+- [Eating Animation [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge) — by matyrobbrt
+- [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) — by SameDifferent
+- [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot) — by TheIllusiveC4
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) — by FiniteReality
+- [EMF Compat: Core](https://www.curseforge.com/minecraft/mc-mods/emf-compat-core) — by stradat
+- [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) — by EmilyPloszaj
+- [EMI Enchants](https://www.curseforge.com/minecraft/mc-mods/emienchants) — by mephodio
+- [EMI Ores](https://www.curseforge.com/minecraft/mc-mods/emi-ores) — by Abbie34
+- [EMI professions (EMIP)](https://www.curseforge.com/minecraft/mc-mods/emi-professions-emip) — by Mrbysco
+- [EMI QoL Tweaks](https://www.curseforge.com/minecraft/mc-mods/emi-qol-tweaks) — by clo3eX
+- [EMI: Create Schematics](https://www.curseforge.com/minecraft/mc-mods/emi-create-schematics) — by LiukRast
+- [EMIffect (Status Effects EMI Plugin)](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin) — by fzzyhmstrs
+- [Emotecraft (Forge)](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) — by KosmX
+- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) — by DarkhaxDev
+- [End Remastered [NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/endremastered) — by jack_bagel
+- [Enderdragon Loot](https://www.curseforge.com/minecraft/mc-mods/enderdragon-loot) — by nullifyac
+- [Enderman Overhaul](https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul) — by joosh_7889
+- [Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) — by tr7zw
+- [Equipment Compare [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/equipment-compare) — by Grend_G
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) — by Chaosyr
+- [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure) — by mortuusars
+- [Exposure: Polaroid](https://www.curseforge.com/minecraft/mc-mods/exposure-polaroid) — by mortuusars
+- [ExtraSounds Next](https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge) — by Arborsm
+- [Falling Leaves (NeoForge/Forge)](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) — by Cheaterpaul
+- [Fancy Entity Renderer](https://www.curseforge.com/minecraft/mc-mods/fancy-entity-renderer) — by CrystalSpider
+- [Fancy Tab Sections](https://www.curseforge.com/minecraft/mc-mods/fancy-tab-sections) — by wdiscute
+- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) — by Keksuccino
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) — by vectorwing
+- [Farmers Structures](https://www.curseforge.com/minecraft/mc-mods/farmers-structures) — by BlackAuresArt
+- [Farsight [Forge/Neo]](https://www.curseforge.com/minecraft/mc-mods/farsight) — by someaddon
+- [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) — by Fallen_Breath
+- [Fast Item Frames](https://www.curseforge.com/minecraft/mc-mods/fast-item-frames) — by Fuzs
+- [Fast Noise](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) — by zenxarch
+- [Fast Paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings) — by MehVahdJukaar
+- [FastALI](https://www.curseforge.com/minecraft/mc-mods/fastali) — by Misanthropy
+- [FastBoot](https://www.curseforge.com/minecraft/mc-mods/fastboot) — by dnlayu
+- [Faster Iris Shadow Mapper](https://www.curseforge.com/minecraft/mc-mods/faster-iris-shadow-mapper) — by maDU59_
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) — by Shadows_of_Fire
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) — by Shadows_of_Fire
+- [Fastvancements](https://www.curseforge.com/minecraft/mc-mods/fastvancements) — by Misanthropy
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) — by Shadows_of_Fire
+- [Faunify](https://www.curseforge.com/minecraft/mc-mods/faunify) — by Peppercorn
+- [Feature Recycler](https://www.curseforge.com/minecraft/mc-mods/feature-recycler) — by Corgi_Taco
+- [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore) — by malte0811
+- [Field Guide](https://www.curseforge.com/minecraft/mc-mods/field-guide) — by evanbones
+- [Figura](https://www.curseforge.com/minecraft/mc-mods/figura) — by skyrina
+- [Fisherman's Trap [Neo/Fabric]](https://www.curseforge.com/minecraft/mc-mods/fishermans-trap) — by TooManyKitKats
+- [Forge Config Screens [Archived]](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge) — by Fuzs
+- [FTB Chunks (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) — by FTB
+- [FTB Chunks x Xaero's Compat](https://www.curseforge.com/minecraft/mc-mods/ftbxaerocompat) — by Satherov
+- [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) — by FTB
+- [FTB Filter System](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system) — by FTB
+- [FTB Quests (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) — by FTB
+- [FTB Quests UI Overhaul!](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-ui-overhaul) — by R2bEEaton
+- [FTB Teams (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) — by FTB
+- [FTB Ultimine (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) — by FTB
+- [FTB XMod Compat](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) — by FTB
+- [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) — by SuperMartijn642
+- [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) — by decce
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) — by MrCrayfish
+- [Golem Overhaul](https://www.curseforge.com/minecraft/mc-mods/golem-overhaul) — by joosh_7889
+- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) — by henkelmax
+- [GroovyModLoader (GML)](https://www.curseforge.com/minecraft/mc-mods/gml) — by matyrobbrt
+- [GTBC's Cataclysmic Boss UI](https://www.curseforge.com/minecraft/mc-mods/gtbcs-cataclysmic-boss-ui) — by GameTechBC
+- [Iceberg [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/iceberg) — by Grend_G
+- [Icy's Better Horses](https://www.curseforge.com/minecraft/mc-mods/icys-better-horses) — by icywhenhot
+- [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) — by RaphiMC
+- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) — by Conczin
+- [Immersive Melodies](https://www.curseforge.com/minecraft/mc-mods/immersive-melodies) — by Conczin
+- [Immersive Optimization](https://www.curseforge.com/minecraft/mc-mods/immersive-optimization) — by Conczin
+- [Immersive Overlays](https://www.curseforge.com/minecraft/mc-mods/immersive-overlays) — by cassiancc
+- [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) — by Conczin
+- [Immersive UI](https://www.curseforge.com/minecraft/mc-mods/immersive-ui) — by SSKirillSS
+- [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) — by CraisinLord
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) — by CraisinLord
+- [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold) — by CraisinLord
+- [Integrated Villages](https://www.curseforge.com/minecraft/mc-mods/integrated-villages) — by CraisinLord
+- [Inventorio (Forge)](https://www.curseforge.com/minecraft/mc-mods/inventorio-forge) — by Lizard_OfOz
+- [Inventory Particles](https://www.curseforge.com/minecraft/mc-mods/inventory-particles) — by LopyTwich
+- [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage) — by izofar
+- [Item Borders [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/item-borders) — by Grend_G
+- [Item Descriptions](https://www.curseforge.com/minecraft/mc-mods/item-descriptions) — by cassiancc
+- [Item Obliterator (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) — by ElocinDev
+- [Item Restrictions](https://www.curseforge.com/minecraft/mc-mods/item-restrictions) — by DAQEM
+- [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) — by decce
+- [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade) — by Snownee
+- [Jade Addons (Neo/Forge)](https://www.curseforge.com/minecraft/mc-mods/jade-addons) — by Snownee
+- [Jobs+](https://www.curseforge.com/minecraft/mc-mods/jobsplus) — by DAQEM
+- [Jobs+ Tools](https://www.curseforge.com/minecraft/mc-mods/jobsplustools) — by DAQEM
+- [Jumpy Boats](https://www.curseforge.com/minecraft/mc-mods/jumpy-boats) — by LobsterJonn
+- [Kaleidoscope Chinese Food](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-chinese-food) — by ChenjdyUltra
+- [Kaleidoscope Compat](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-compat) — by BmtUltra
+- [Kaleidoscope Cookery](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-cookery) — by YSBB
+- [Kaleidoscope End](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-end) — by BmtUltra
+- [Kaleidoscope Grilling](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-grilling) — by breezeth
+- [Kaleidoscope Nether](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-nether) — by BmtUltra
+- [Kaleidoscope Tavern](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-tavern) — by TartaricAcid
+- [Kaleidoscope World Liquor](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-world-liquor) — by ChenjdyUltra
+- [Kaleidoscope: Immersive Eating](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-immersive-eating) — by MemoryToame
+- [Kaleidoscope：Dimensions wine](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-dimensions-wine) — by wither_redstone
+- [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete) — by Keksuccino
+- [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) — by VidTu
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) — by Lat
+- [L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) — by mcl_ender
+- [LanguageReloadUnofficial](https://www.curseforge.com/minecraft/mc-mods/languagereloadunofficial) — by kaguya154
+- [Legendary Tooltips [Neo/Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) — by Grend_G
+- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) — by frikinjay
+- [Longer Chat History [Forge/NeoForge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/longer-chat-history) — by TheOriginalGolem
+- [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations) — by someaddon
+- [Loot Integrations: Integrated Dungeons, Villages & Strongholds & Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-integrated-dungeons-villages) — by someaddon
+- [Loot Integrations: L_Ender 's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-cataclysm) — by someaddon
+- [Loot Integrations: Randomized Loot Compatibility](https://www.curseforge.com/minecraft/mc-mods/vanilla-loot-addon-for-loot-integrations) — by someaddon
+- [Lootr (Forge & NeoForge)](https://www.curseforge.com/minecraft/mc-mods/lootr) — by Noobanidus
+- [Lucky's Cozy Home: Stone & Waterworks Update](https://www.curseforge.com/minecraft/mc-mods/cozy-home) — by LuckyOwl
+- [Luki's Woodland Mansions](https://www.curseforge.com/minecraft/mc-mods/lukis-woodland-mansions) — by lukidon
+- [Magnum Torch](https://www.curseforge.com/minecraft/mc-mods/magnum-torch) — by Fuzs
+- [MES - Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) — by finndog_123
+- [MezzConfig](https://www.curseforge.com/minecraft/mc-mods/mezzconfig) — by mezz
+- [Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail) — by MrCrayfish
+- [MMR - Moog's Mineshafts Reimagined](https://www.curseforge.com/minecraft/mc-mods/mmr-moogs-mineshafts-reimagined) — by finndog_123
+- [Mobtimizations - Entity Performance Fixes](https://www.curseforge.com/minecraft/mc-mods/mobtimizations) — by Corosus
+- [Mod Menu (Forge)](https://www.curseforge.com/minecraft/mc-mods/mod-menu-forge-by-bogdan-tokarev) — by Bogdan_Tokarev
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) — by MehVahdJukaar
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) — by embeddedt
+- [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) — by MehVahdJukaar
+- [More Culling Reforged](https://www.curseforge.com/minecraft/mc-mods/more-culling-reforged) — by MikihinaSann
+- [More Mob Variants](https://www.curseforge.com/minecraft/mc-mods/more-mob-variants) — by nyuppo
+- [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers) — by SameDifferent
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) — by YaLTeR
+- [MTR - Moog's Temples Reimagined](https://www.curseforge.com/minecraft/mc-mods/mtr-moogs-temples-reimagined) — by finndog_123
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) — by Chaosyr
+- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) — by BlayTheNinth
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) — by Aizistral
+- [No Chat Restrictions](https://www.curseforge.com/minecraft/mc-mods/no-chat-restrictions) — by Aizistral
+- [No Structure Overlap](https://www.curseforge.com/minecraft/mc-mods/no-structure-overlap) — by ankin
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) — by tr7zw
+- [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) — by SSKirillSS
+- [Oceanic Realms](https://www.curseforge.com/minecraft/mc-mods/oceanic-realms) — by leomard0_o
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) — by Asek3
+- [Online Emotes](https://www.curseforge.com/minecraft/mc-mods/online-emotes) — by dima_dencep
+- [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) — by TonimatasDEV
+- [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged) — by Project8gbDeRam
+- [PatPat [Mod]](https://www.curseforge.com/minecraft/mc-mods/patpat) — by LopyTwich
+- [Plushie Buddies](https://www.curseforge.com/minecraft/mc-mods/plushie-buddies) — by subthy
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) — by TheIllusiveC4
+- [Presence Footsteps (Forge)](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge) — by Paint_Ninja
+- [Punchy! - First person animations](https://www.curseforge.com/minecraft/mc-mods/punchy) — by DevPunchyMan
+- [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) — by Fuzs
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) — by Vazkii
+- [quick pack](https://www.curseforge.com/minecraft/mc-mods/quick-pack) — by drexhd
+- [Radiant Gear (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/radiant-gear) — by TheIllusiveC4
+- [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) — by Asek3
+- [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored) — by Apollo
+- [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) — by SSKirillSS
+- [Relics: Alex's Mobs Compat](https://www.curseforge.com/minecraft/mc-mods/ram-compat) — by SSKirillSS
+- [Resource Pack Overrides](https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides) — by Fuzs
+- [Ribbits](https://www.curseforge.com/minecraft/mc-mods/ribbits) — by joosh_7889
+- [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) — by jamalam360
+- [River Redux](https://www.curseforge.com/minecraft/mc-mods/river-redux) — by Jasmine
+- [Scholar](https://www.curseforge.com/minecraft/mc-mods/scholar) — by mortuusars
+- [Shoppy - Player Maintained Shops](https://www.curseforge.com/minecraft/mc-mods/shoppy) — by thethonk
+- [Shoulder Surfing Reloaded](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) — by _ForgeUser21552638
+- [Simple Ice Creams](https://www.curseforge.com/minecraft/mc-mods/simple-ice-cream) — by DariusZeBaguette
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) — by henkelmax
+- [Simply Swords [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/simply-swords) — by sweenuss
+- [Simply Tooltips](https://www.curseforge.com/minecraft/mc-mods/simply-tooltips) — by sweenuss
+- [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) — by Su5eD
+- [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) — by bl4ckscor3
+- [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) — by tr7zw
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) — by talhanation
+- [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) — by Txni
+- [Sodium/Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) — by Txni
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) — by P3pp3rF1y
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) — by henkelmax
+- [spark](https://www.curseforge.com/minecraft/mc-mods/spark) — by Iucko
+- [Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures) — by Maxence
+- [Spelunkery](https://www.curseforge.com/minecraft/mc-mods/spelunkery) — by OrdanaryMods
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) — by lordcazsius
+- [Starcatcher](https://www.curseforge.com/minecraft/mc-mods/starcatcher) — by wdiscute
+- [Starcatcher's Delight - Let's Do: Kaleidoscope edition](https://www.curseforge.com/minecraft/mc-mods/starcatchers-delight) — by wdiscute
+- [Stony Cliffs Are Cool](https://www.curseforge.com/minecraft/mc-mods/stony-cliffs-are-cool) — by bebebea_loste
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) — by Texelsaur
+- [Streams Reflowing](https://www.curseforge.com/minecraft/mc-mods/streams-reflowing) — by NiceJohn
+- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory) — by botanydev
+- [Structure Layout Optimizer](https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer) — by telepathicgrunt
+- [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) — by MincraftEinstein
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) — by MehVahdJukaar
+- [TACT - Tiny Alex's Caves Tweaks](https://www.curseforge.com/minecraft/mc-mods/tact) — by telepathicgrunt
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) — by DarkhaxDev
+- [TMRV Updated](https://www.curseforge.com/minecraft/mc-mods/tmrv-updated) — by TysonTheEmber
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) — by Shadows_of_Fire
+- [Too Many Bows](https://www.curseforge.com/minecraft/mc-mods/too-many-bows) — by Bandit_Bytes
+- [Touch'n Motion](https://www.curseforge.com/minecraft/mc-mods/touch-and-motion) — by stradat
+- [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling) — by henkelmax
+- [UI Lib](https://www.curseforge.com/minecraft/mc-mods/ui) — by DAQEM
+- [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) — by Serilum
+- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) — by Fuzs
+- [Wakes Reforged](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged) — by Project8gbDeRam
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) — by BlayTheNinth
+- [wd's Selling Bin](https://www.curseforge.com/minecraft/mc-mods/wds-selling-bin) — by wdiscute
+- [Welcome Screen (Modpack Utils Series)](https://www.curseforge.com/minecraft/mc-mods/welcome-screen) — by ElocinDev
+- [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) — by Corosus
+- [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) — by alexander9892
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) — by xaero96
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) — by xaero96
+- [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl) — by isXander
+- [YUNG's Better End Island (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island) — by YUNGNICKYOUNG
+- [YUNG's Better Nether Fortresses (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses) — by YUNGNICKYOUNG
+- [YUNG's Cave Biomes (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes) — by YUNGNICKYOUNG
 
-For settings and troubleshooting, see the [Lunchtime Performance Guide](PERFORMANCE_GUIDE.md).
+## Resource Packs (23)
 
-## Keeping this list accurate
+- [Better Gravestones](https://www.curseforge.com/minecraft/texture-packs/better-gravestones) — by legendary_workshop
+- [Boss Refreshed](https://www.curseforge.com/minecraft/texture-packs/boss-refreshed) — by lukidon
+- [Clear Splyglass [Deez]](https://www.curseforge.com/minecraft/texture-packs/clear-splyglass-deez) — by FieroLam
+- [Comforts Modernized](https://www.curseforge.com/minecraft/texture-packs/comforts-modernized) — by pedro041506
+- [Create Immersive Aircrafts](https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack) — by nicky__21
+- [Create Lootr](https://www.curseforge.com/minecraft/texture-packs/create-lootr) — by FieroLam
+- [Create Style Sophisticated Backpacks](https://www.curseforge.com/minecraft/texture-packs/create-sophisticated-backpacks) — by Luna
+- [Create: Steam 'n' Rails Unique Icons](https://www.curseforge.com/minecraft/texture-packs/create-sru) — by wavian
+- [Deez FPS [Better Textures]](https://www.curseforge.com/minecraft/texture-packs/deez-fps-better-textures) — by FieroLam
+- [Enchantment Glows](https://www.curseforge.com/minecraft/texture-packs/enchantment-glows) — by Sinnelar
+- [Enhanced Boss Bars](https://www.curseforge.com/minecraft/texture-packs/enhanced-boss-bars) — by Nakuring
+- [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) — by FreshLX
+- [Fresh Animations: Player Extension](https://www.curseforge.com/minecraft/texture-packs/fa-player-extension) — by FreshLX
+- [Fresh Waystones Texture](https://www.curseforge.com/minecraft/texture-packs/fresh-waystones-texture) — by zozozrob
+- [Icon Fresh](https://www.curseforge.com/minecraft/texture-packs/icon-fresh) — by godkyo98
+- [Icon Xaero's](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros) — by godkyo98
+- [Midnighttigger's Default Connected Textures](https://www.curseforge.com/minecraft/texture-packs/mt-ct-d) — by Midnighttigger
+- [Punchy Starcatcher Compatibility Patch](https://www.curseforge.com/minecraft/texture-packs/punchy-starcatcher-compatibility-patch) — by TheKoza
+- [Refined punchy Reforked](https://www.curseforge.com/minecraft/texture-packs/refined-punchy-reforked) — by HeyLumora
+- [Small Caps [DEEZ]](https://www.curseforge.com/minecraft/texture-packs/small-caps-deez) — by FieroLam
+- [Smooth Drawers](https://www.curseforge.com/minecraft/texture-packs/smooth-drawers) — by Futureazoo
+- [Sweety's Items (Alex's Mobs)](https://www.curseforge.com/minecraft/texture-packs/sweetys-items-alexs-mobs) — by Sweetygamer
+- [Unique Dark](https://www.curseforge.com/minecraft/texture-packs/unique-dark) — by amongstreality
 
-This page was written from the mod list supplied for documentation, not generated automatically from the latest CurseForge export. When the pack changes, compare it with the release manifest and update the player-facing list. Use [CHANGELOG.md](CHANGELOG.md) for player-facing release changes. Keep dependency libraries in the actual pack whenever required, even though this guide omits them.
+## Shaders (2)
+
+- [🎃 Insanity Shader](https://www.curseforge.com/minecraft/shaders/insanity-shader) — by ElocinDev
+- [Complementary Shaders - Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined) — by EminGT
+
+## Source and updates
+
+This list is based on the provided linked project list, not an automatically generated manifest from the newest CurseForge release. Some entries may change between pack versions. Check the official project link and the version-specific Lunchtime release for current compatibility details.
+
+See the [Performance Guide](PERFORMANCE_GUIDE.md) for troubleshooting, and [CHANGELOG.md](CHANGELOG.md) for Lunchtime release changes.
