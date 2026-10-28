@@ -4,44 +4,107 @@ All Lunchtime release notes live in this file, with the newest release first.
 
 ---
 
-## v2
+# Lunchtime — Quests, Shops, Economy & Skills Update v2
 
-### Added
-- Replaced Jobs+ and Jobs+ Tools with Pufferfish’s Skills, introducing a configurable skill system. All current skills are working.
-- Re-added Tom’s Simple Storage, including its quests.
-- Added Spelunkery quests to guide players through its underground progression.
-- Added Lunch Worlds.
-- Added Stack Refill for a smoother building and farming experience.
+A major update focused on making Lunchtime more rewarding to play, with expanded quests, a better economy, a new skills system, and more things to grow, craft, sell, explore, and collect.
+
+## ✨ Added
+
+### 📖 Quests & Progression
+- Expanded the questbook with more things to do throughout the pack.
+- Added more progression and quests for modded gameplay.
+- Added questlines for Tom's Simple Storage, Spelunkery, Tetra, plushies, and other supported content.
+- Expanded existing questlines and incorporated additional quest content.
+- Improved the connection between quests, progression, rewards, and the economy.
+- Added more meaningful rewards, including plushies and supporter-themed content.
+- Added a rare Star Wars-themed reward.
+
+### 🛒 Shops & Economy
+- Expanded the shop system to support more useful purchases and selling opportunities.
+- Expanded the selection of seeds players can purchase.
+- Added more opportunities to buy useful farming supplies and tools.
+- Expanded opportunities to earn money through farming, fishing, and animal ranching.
+- Improved the relationship between gathering resources, completing quests, selling goods, and progressing through the pack.
+
+### 🌱 Farming & Gardening
+- Expanded farming and gardening progression with a greater focus on useful modded crops, seeds, and resources.
+- Improved the direction of farming quests to focus on things players can grow, harvest, craft, and sell.
+- Expanded the selection of desirable seeds available through the economy.
+- Continued balancing crop growth and farming progression.
+
+### 🐄 Animals & Ranching
+- Expanded ranching progression and the activities available to animal-focused players.
+- Added more emphasis on collecting and selling animal-related goods.
+- Expanded the intended selling opportunities for eggs, meat, and other animal products.
+- Improved the connection between animal husbandry, quests, and the economy.
+
+### 🎣 Fishing
+- Reworked the direction of fishing quests to make fishing more coherent and rewarding.
+- Integrated fish from Starcatcher into the fishing progression.
+- Expanded the intended selection of fishing tools available through the shop.
+- Improved the relationship between catching fish, selling catches, and completing quests.
+
+### 🧰 Skills & Utility
+- Added Pufferfish's Skills as the new skills system, replacing Jobs+ and Tools.
+- Restored Tom's Simple Storage and added related quests.
 - Added Create Liquid Fuel.
-- Added Trample No More to prevent accidental farmland trampling.
-- Imported additional quests and improved existing progression.
+- Added Stack Refill.
+- Added Trample No More.
+- Added Lunch Worlds.
 
-### Changed
-- Replaced Easy Gen with Create Cobblestone generation.
-- Replaced FTB Quests with Ember’s Questing for a more customizable quest interface and layout.
-- Replaced the previous Gravestone setup with an alternative to resolve a compatibility issue with Dungeon Now Loading.
-- Disabled Phantom spawning for a more relaxed survival experience.
-- Reworked crafting recipes that required Phantom Membranes or other Phantom drops, ensuring progression remains possible without Phantoms.
-- Removed Better Days as we transition to handling longer days through Gentle Seasons.
+### 👋 New Player Welcome
+- Simplified the welcome quest to make it easier for new players to understand the pack.
+- Focused the introduction on what Lunchtime is about, useful keybinds, and how to get started.
+- Reduced unnecessary introductory text so new players can get into the game faster.
 
-### Fixed
-- Fixed Water and Lava functionality.
-- Fixed a Rendering Error that occurred when crafting items in utility blocks.
-- Fixed Sophisticated Backpacks linked storage forgetting the selected sort mode.
-- Fixed Backpack slot layouts after replacing tank and battery upgrades.
+## 🔧 Changed & Improved
 
-### Updated
+### Questbook
+- Switched from FTB Quests to Ember's Questing.
+- Removed UIQuest as part of the questing changes.
+- Reworked quest progression to better suit Lunchtime's cozy, vanilla-adjacent gameplay.
+- Improved the focus on farming, cooking, building, automation, exploration, fishing, and ranching.
+- Removed outdated quest coin rewards where they no longer fit the updated economy.
+
+### Gameplay & Configuration
+- Replaced Easy Gen with Create-based cobblestone generation.
+- Disabled phantoms.
+- Continued balancing crop growth and world progression.
+- Adjusted the pack's progression to support a more relaxed, activity-based playstyle.
+- Kept the focus on building, farming, cooking, automation, exploration, and optional combat rather than making combat mandatory.
+
+### Content & Rewards
+- Expanded imported quest content and integrated it into the pack's progression.
+- Added more opportunities to earn rewards through quests.
+- Continued integrating plushies and supporter-themed content into the quest experience.
+
+## 🐛 Fixes & Technical Updates
+
+- Fixed water and lava-related issues.
+- Fixed a crafting-rendering issue affecting utility blocks.
+- Reworked the previous gravestone setup to address its conflict with Dungeon Now Loading boss encounters.
 - Updated Sophisticated Backpacks.
 - Updated Sophisticated Core.
-- Updated Collective.
+- Fixed Sophisticated Backpacks linked storage forgetting its selected sorting mode.
+- Fixed backpack slot layouts after replacing tank and battery upgrades.
+- Updated Collective, which includes a fix for a possible server freeze while generating mob drops used by All Loot Drops.
 
-### Removed
+## 🗑️ Removed
+
+- Removed UIQuest during the transition to Ember's Questing.
 - Removed Visual Workbench due to a rendering issue.
-- Removed Dynamic FPS during the client-side cleanup.
-- Removed Streams Reflowing during the world-generation and optimization review.
+- Removed Dynamic FPS.
+- Removed Streams Reflowing.
+- Removed outdated quest coin rewards where applicable.
+- Replaced Easy Gen with Create-based cobblestone generation.
+- Replaced the previous gravestone configuration to address the Dungeon Now Loading compatibility issue.
 
-### Important Notes
-- **Always back up your worlds before updating!** Make a backup before installing v2 to protect your progress in case anything goes wrong.
+## 💾 Important Update Notice
+
+**Back up your world before updating.** The update includes changes to quests, gameplay configuration, mods, and progression. Keeping a backup is strongly recommended before opening an existing world with the new version.
+
+Thanks for playing Lunchtime! ❤️
+
 ---
 
 ## 1.5 — Hotfix
