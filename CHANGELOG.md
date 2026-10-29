@@ -1,8 +1,8 @@
 # Lunchtime — Quests, Shops, Economy & Skills Update v2
 
-A major update focused on making Lunchtime more rewarding to play, with expanded quests, a better economy, a new skills system, improved farming progression, and more ways to grow, craft, sell, explore, and collect.
+A major update focused on making Lunchtime more rewarding to play, with expanded quests, a player-driven economy, a new skills system, improved farming progression, and more ways to grow, craft, sell, explore, and collect.
 
-This update also introduces **Create Academy**, a new collection of visual farm-building guides designed to help players learn Create automation step by step, with new farms and tutorials planned to be added regularly.
+This update also introduces **Create Academy**, a growing collection of visual farm-building guides designed to help players learn Create automation step by step, with new farms and tutorials planned to be added regularly.
 
 ## ✨ Added
 
@@ -17,37 +17,42 @@ This update also introduces **Create Academy**, a new collection of visual farm-
 
 ### 🏗️ Create Academy
 - Introduced **Create Academy**, a collection of visual guides for learning how to build Create farms and automated production systems.
-- Added 3D visual guides to help players understand farm layouts, machine placement, and how different components fit together.
-- Added farm-building content designed to make Create automation easier to understand, even for players who are new to the mod.
-- Established Create Academy as an expandable collection, with more farms and guides planned to be added each week.
+- Added 3D visuals to help players understand farm layouts, machine placement, and how different components fit together.
+- Added farm-building guides designed to make Create automation easier to follow, including for players who are new to the mod.
+- Established Create Academy as an expandable collection, with new farms and guides planned to be added each week.
 - Added dedicated farm builds covering different resources and stages of progression.
 
-### 🛒 Shops & Economy
-- Replaced Shoppy with a new shop system.
-- Expanded shop functionality to support more useful purchases and selling opportunities.
-- Expanded the selection of seeds players can purchase.
-- Added more opportunities to buy useful farming supplies and tools.
-- Expanded opportunities to earn money through farming, fishing, and animal ranching.
-- Improved the relationship between gathering resources, completing quests, selling goods, and progressing through the pack.
+### 🪙 Create: Numismatics & Player Economy
+- Added **Create: Numismatics**, introducing a Create-themed currency and trading system.
+- Introduced coin-based trading and player-run Vendor shops.
+- Added banking features that let players manage their money through bank accounts and cards.
+- Shifted the economy toward player-created shops instead of relying on a large selection of preconfigured shops.
+- Made player trading and shop building a bigger part of the multiplayer experience.
+- Created a foundation for players to sell their own goods and build businesses around their chosen activities.
+
+### 🛒 Shops & Trading
+- Removed Shoppy as part of the move toward a player-driven economy.
+- Removed most shop-related entries from the questbook.
+- Kept one shop-related quest to introduce players to the shop system.
+- Gave players more freedom to create, stock, and manage their own shops rather than relying on a long list of predefined shop offers.
+- Shifted the focus toward player-run buying and selling using Create: Numismatics.
 
 ### 🌱 Farming & Gardening
 - Expanded farming and gardening progression with a greater focus on useful modded crops, seeds, and resources.
-- Improved the direction of farming quests to focus on things players can grow, harvest, craft, and sell.
-- Expanded the selection of desirable seeds available through the economy.
+- Improved farming quests to focus on things players can grow, harvest, craft, and trade.
 - Continued balancing crop growth and farming progression.
 - Added Gentle Seasons to support the pack's cozy farming and gardening experience.
 
 ### 🐄 Animals & Ranching
 - Expanded ranching progression and the activities available to animal-focused players.
-- Added more emphasis on collecting and selling animal-related goods.
+- Added more emphasis on collecting and trading animal-related goods.
 - Expanded the intended selling opportunities for eggs, meat, and other animal products.
 - Improved the connection between animal husbandry, quests, and the economy.
 
 ### 🎣 Fishing
 - Reworked the direction of fishing quests to make fishing more coherent and rewarding.
 - Integrated fish from Starcatcher into the fishing progression.
-- Expanded the intended selection of fishing tools available through the shop.
-- Improved the relationship between catching fish, selling catches, and completing quests.
+- Improved the relationship between catching fish, trading catches, and completing quests.
 
 ### 🧰 Skills & Utility
 - Added Pufferfish's Skills as the new skills system, replacing Jobs+ and Tools.
@@ -69,16 +74,22 @@ This update also introduces **Create Academy**, a new collection of visual farm-
 - Removed UIQuest as part of the questing changes.
 - Reworked quest progression to better suit Lunchtime's cozy, vanilla-adjacent gameplay.
 - Improved the focus on farming, cooking, building, automation, exploration, fishing, and ranching.
-- Removed outdated quest coin rewards where they no longer fit the updated economy.
+- Removed most shop entries from the questbook while retaining one shop-related quest.
+- Shifted the economy away from predefined shop listings and toward player-created businesses.
+- Reworked legacy quest coin rewards where they no longer fit the updated economy.
 - Expanded the integration of farm-building content and Create progression.
 
 ### Gameplay & Configuration
 - Replaced Easy Gen with Create-based cobblestone generation.
 - Disabled phantoms.
-- Continued balancing crop growth and world progression.
-- Integrated Gentle Seasons into the pack's farming experience.
+- Added Gentle Seasons and continued balancing the farming experience.
 - Adjusted the pack's progression to support a more relaxed, activity-based playstyle.
 - Kept the focus on building, farming, cooking, automation, exploration, and optional combat rather than making combat mandatory.
+
+### Economy & Multiplayer
+- Changed the intended role of shops within the pack: instead of relying on a large collection of preset offers, players can create their own shops and trade with one another.
+- Integrated the new economy direction with Create: Numismatics.
+- Reduced the reliance on questbook shop entries to encourage a more organic multiplayer marketplace.
 
 ### Content & Rewards
 - Expanded imported quest content and integrated it into the pack's progression.
@@ -103,8 +114,9 @@ This update also introduces **Create Academy**, a new collection of visual farm-
 - Removed Visual Workbench due to a rendering issue.
 - Removed Dynamic FPS.
 - Removed Streams Reflowing.
-- Removed Shoppy, replacing it with a new shop system.
-- Removed outdated quest coin rewards where applicable.
+- Removed Shoppy in favor of the new player-driven shop direction using Create: Numismatics.
+- Removed most predefined shop entries from the questbook, retaining one shop-related quest.
+- Removed legacy quest coin rewards where they no longer fit the updated economy.
 - Replaced Easy Gen with Create-based cobblestone generation.
 - Replaced the previous gravestone configuration to address the Dungeon Now Loading compatibility issue.
 
