@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/luncheime_logo.png" alt="Lunchtime" width="720">
+<img src="assets/logo.png" alt="Lunchtime" width="720">
 
 ### A cozy Minecraft modpack for farming, cooking, Create, building, and exploring together.
 
