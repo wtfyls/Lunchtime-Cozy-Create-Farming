@@ -13,9 +13,6 @@
     <img src="assets/discordlarge.png" alt="Join the Lunchtime Discord" height="48">
   </a>
   &nbsp;
-  <a href="https://ko-fi.com/wtfyls">
-    <img src="assets/kofilarge.png" alt="Support Lunchtime on Ko-fi" height="48">
-  </a>
   &nbsp;
   <a href="https://www.patreon.com/cw/Fierolam">
     <img src="assets/patreonlarge.png" alt="Support Lunchtime on Patreon" height="48">
